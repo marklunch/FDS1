@@ -1,0 +1,2059 @@
+,Year,Country,Activity,Age,Species ,Sex,Species
+0,2018,USA,Paddling,57,White shark,F,White shark
+6,2018,BRAZIL,Swimming,18,Tiger shark,M,Tiger shark
+7,2018,USA,Fishing,52,"Lemon shark, 3'",M,"Lemon shark, 3'"
+8,2018,USA,Walking,15,"Bull shark, 6'",M,"Bull shark, 6'"
+10,2018,AUSTRALIA,Feeding sharks,32,Grey reef shark,M,Grey reef shark
+13,2018,ENGLAND,Fishing,21,Invalid incident,M,Invalid incident
+14,2018,AUSTRALIA,Feeding sharks,34,"Tawny nurse shark, 2m",F,"Tawny nurse shark, 2m"
+18,2018,COSTA RICA,Scuba diving,30,Tiger shark,M,Tiger shark
+21,2018,AUSTRALIA,Surfing,60,3 m shark,M,3 m shark
+23,2018,MALDIVES,Fishing,32,Tiger shark,M,Tiger shark
+24,2018,SOUTH AFRICA,Paddle-skiing,33,"White shark, 2.5 m",M,"White shark, 2.5 m"
+25,2018,USA,Body boarding,29,6' shark,M,6' shark
+26,2018,THAILAND,Swimming,54,Juvenile bull shark,M,Juvenile bull shark
+31,2018,BRAZIL,Fishing,56,Shark involvement not confirmed,M,Shark involvement not confirmed
+33,2018,BAHAMAS,Swimming,12,Bull shark,M,Bull shark
+34,2018,SOUTH AFRICA,Surfing,19,White shark,M,White shark
+35,2018,USA,Stand-Up Paddleboarding,25,"Tiger shark, 12'",M,"Tiger shark, 12'"
+36,2018,AUSTRALIA,Wading,10,Wobbegong shark,M,Wobbegong shark
+37,2018,AUSTRALIA,Swimming,69,3.5 m shark,M,3.5 m shark
+38,2018,AUSTRALIA,Surfing,18,1.8 m shark,M,1.8 m shark
+39,2018,SOUTH AFRICA,Scuba Diving,38,Blacktip shark,M,Blacktip shark
+40,2018,AUSTRALIA,Swimming,55,"Juvenile white shark,  2.7 to 3.2 m",F,"Juvenile white shark,  2.7 to 3.2 m"
+42,2018,AUSTRALIA,Walking,35,"Bull shark, 2 m",M,"Bull shark, 2 m"
+44,2018,BRAZIL,Cleaning fish,46,"Injury believed caused by an eel, not a shark",F,"Injury believed caused by an eel, not a shark"
+45,2018,ECUADOR,Snorkeling,45,Galapagos shark?,M,Galapagos shark?
+46,2018,AUSTRALIA,Spearfishing,14,2m shark,M,2m shark
+50,2018,AUSTRALIA,Free diving,28,"White shark, 3.5 m",M,"White shark, 3.5 m"
+51,2018,BRAZIL,Surfing,20,small shark,M,small shark
+53,2017,USA,Surfing,54,Tiger shark,F,Tiger shark
+55,2017,MALAYSIA,Fishing / Wading,24,Juvenile nurse shark,M,Juvenile nurse shark
+56,2017,BAHAMAS,Snorkeling,25,Nurse shark. 5',F,Nurse shark. 5'
+57,2017,COSTA RICA,Scuba Diving,26,"Tiger shark, female",M,"Tiger shark, female"
+58,2017,COSTA RICA,Scuba diving,49,"Tiger shark, female",F,"Tiger shark, female"
+60,2017,USA,Spearfishing,25,"White shark, 4.6 m",M,"White shark, 4.6 m"
+63,2017,AUSTRALIA,Surfing,25,2 m shark,M,2 m shark
+64,2017,CUBA,Night bathing,22,Tiger shark,M,Tiger shark
+65,2017,AUSTRALIA,Snorkeling,7,Cookiecutter shark,M,Cookiecutter shark
+66,2017,AUSTRALIA,Surfing,31,"Wobbegong shark, 1 m",M,"Wobbegong shark, 1 m"
+71,2017,AUSTRALIA,Kayaking / Fishing,15,"White shark, 4.5 m",F,"White shark, 4.5 m"
+74,2017,USA,Surfing,54,"Tiger shark, 8 to 10 feet",M,"Tiger shark, 8 to 10 feet"
+75,2017,USA,Snorkeling,40,8' shark,F,8' shark
+76,2017,SOUTH AFRICA,Scuba Diving,31,Death may have been due to drowning,M,Death may have been due to drowning
+79,2017,USA,Surfing,33,Questionable,M,Questionable
+82,2017,SPAIN,Body surfing,13,"Porbeagle, 1.5 m",M,"Porbeagle, 1.5 m"
+87,2017,USA,Surfing,18,5' to 6' shark,M,5' to 6' shark
+89,2017,AUSTRALIA,Surfing,35,"White shark, 3 to 3.5m ",M,"White shark, 3 to 3.5m "
+96,2017,AUSTRALIA,Surfing,37,"White shark, 3 m",M,"White shark, 3 m"
+98,2017,SPAIN,Swimming,11,Shark involvement questionable,F,Shark involvement questionable
+100,2017,USA,SUP,69,"White shark, 5' to 7'",M,"White shark, 5' to 7'"
+102,2017,USA,Swimming,13,Possibly a juvenile blacktip shark,M,Possibly a juvenile blacktip shark
+103,2017,EGYPT,Snorkeling,20,"Oceanic whitetip shark, 1.8 to 2 m",F,"Oceanic whitetip shark, 1.8 to 2 m"
+104,2017,USA,Fishing,34,4' shark,M,4' shark
+107,2017,USA,Swimming,10,A small shark,M,A small shark
+115,2017,USA,Swimming,8,Shark involvement not confirmed,F,Shark involvement not confirmed
+116,2017,USA,Kayaking,40,"White shark, 11' to 13'",M,"White shark, 11' to 13'"
+117,2017,USA,SUP,50,"White shark, 8' to 10'",M,"White shark, 8' to 10'"
+121,2017,USA,Swimming,46,"Bull shark, 4' to 5'",M,"Bull shark, 4' to 5'"
+122,2017,MEXICO,Fishing,32,"Tiger shark, 100 kg",M,"Tiger shark, 100 kg"
+123,2017,SOUTH AFRICA,Surfing,13,"White shark, 2.5 m",F,"White shark, 2.5 m"
+128,2017,USA,Swimming,14,"Bull shark, 4' to 5'",F,"Bull shark, 4' to 5'"
+129,2017,REUNION,Body boarding,34,"Bull shark, 2m",M,"Bull shark, 2m"
+133,2017,AUSTRALIA,Body boarding,48,"White shark, 4 m",M,"White shark, 4 m"
+136,2017,UNITED KINGDOM,Surfing ,30,"3m shark, probably a smooth hound",M,"3m shark, probably a smooth hound"
+138,2017,BAHAMAS,Snorkeling,32,Tiger shark,F,Tiger shark
+139,2017,USA,Touching a shark,20,3' shark,F,3' shark
+143,2017,AUSTRALIA,Attempting to lasso a shark,29,9' shark,M,9' shark
+145,2017,USA,Surfing,18,Shark involvement highly doubtful,F,Shark involvement highly doubtful
+155,2017,AUSTRALIA,Surfing,17,White shark,F,White shark
+156,2017,USA,Surfing,28,"Tiger shark, 12'",M,"Tiger shark, 12'"
+159,2017,SOUTH AFRICA,Scuba Diving,68,Shark involvement prior to death not confirmed,M,Shark involvement prior to death not confirmed
+166,2017,USA,Swimming,17,"Bull shark, 5' to 7'",F,"Bull shark, 5' to 7'"
+170,2017,PHILIPPINES,Spearfishing,25,10' shark,M,10' shark
+171,2017,BAHAMAS,Washing hands,58,Lemon shark,M,Lemon shark
+180,2017,BAHAMAS,Scuba Diving,37,Caribbean reef shark,M,Caribbean reef shark
+183,2017,AUSTRALIA,Scuba Diving,55,"Bull shark, 4 m",M,"Bull shark, 4 m"
+186,2017,INDONESIA,Surfing,48,"Bull shark, 1 m",M,"Bull shark, 1 m"
+189,2017,AUSTRALIA,Wading,20,Shark involvement not confirmed,M,Shark involvement not confirmed
+192,2016,SOUTH AFRICA,Surf skiing ,55,"White shark, 4 m",M,"White shark, 4 m"
+195,2016,USA,Surfing,19,Shark involvement not confirmed,M,Shark involvement not confirmed
+196,2016,AUSTRALIA,Surf fishing,20,"Wobbegong shark, 2m",M,"Wobbegong shark, 2m"
+197,2016,AUSTRALIA,Surfing,65,White shark,M,White shark
+198,2016,AUSTRALIA,Fishing,73,"Broadnose sevengill shark, 1.5 m",M,"Broadnose sevengill shark, 1.5 m"
+199,2016,USA,Floating,58,Tiger shark,F,Tiger shark
+203,2016,USA,Surfing,36, 6' to 8' shark,M, 6' to 8' shark
+211,2016,AUSTRALIA,Surfing,17,"White shark, 3.5 m",M,"White shark, 3.5 m"
+220,2016,USA,Swimming,51,"Tiger shark, 10'",F,"Tiger shark, 10'"
+225,2016,USA,Spearfishing,22,"White shark, 8' to 10'",M,"White shark, 8' to 10'"
+227,2016,USA,Surfing,25,"Bull shark, 6'",M,"Bull shark, 6'"
+229,2016,REUNION,Surfing,20,"Bull shark, 3.5 m",M,"Bull shark, 3.5 m"
+232,2016,USA,SUP Foil boarding,21,"Tiger shark, 10' ",M,"Tiger shark, 10' "
+233,2016,USA,Surfing,22,Blacktip shark,M,Blacktip shark
+234,2016,SPAIN,Swimming,40,Blue shark,M,Blue shark
+237,2016,USA,Lobstering,43,"Nurse shark, 4'",M,"Nurse shark, 4'"
+242,2016,AUSTRALIA,Fishing,31,"reef shark, 1m",M,"reef shark, 1m"
+246,2016,USA,Kite surfing,61,"White shark, 10' to 12'",M,"White shark, 10' to 12'"
+249,2016,SPAIN,Wading,10,Angel shark,F,Angel shark
+251,2016,USA,Fishing,59,dogfish shark,M,dogfish shark
+254,2016,AUSTRALIA,Fishing,34,Tawny nurse shark,M,Tawny nurse shark
+257,2016,COLUMBIA,Scuba Diving,59,"Caribbean reef shark, 4.5'",M,"Caribbean reef shark, 4.5'"
+258,2016,SOUTH AFRICA,Spearfishing,43,White shark,M,White shark
+259,2016,USA,Floating,42,3' to 5' shark,M,3' to 5' shark
+262,2016,AUSTRALIA,Spearfishing,19,5' shark,M,5' shark
+263,2016,USA,Floating in tube,6,3' to 4' shark,F,3' to 4' shark
+264,2016,USA,Standing,19,3' shark,M,3' shark
+265,2016,USA,Surfing,27,Said to involve an 8' shark but more likely damage caused by debris,M,Said to involve an 8' shark but more likely damage caused by debris
+267,2016,AUSTRALIA,Diving,60,3+ m shark,F,3+ m shark
+268,2016,EGYPT,Swimming,23,Mako shark,M,Mako shark
+271,2016,AUSTRALIA,Surfing,29,White shark,M,White shark
+273,2016,USA,Swimming,13,5' shark,M,5' shark
+275,2016,USA,Swimming,22,"Bull shark, 4' to 5'",F,"Bull shark, 4' to 5'"
+277,2016,USA,Swimming,48,"Blacktip shark, 4'",M,"Blacktip shark, 4'"
+278,2016,USA,Teasing a shark,23,"Nurse shark, 2'",F,"Nurse shark, 2'"
+280,2016,NEW ZEALAND,Fishing,39,"Mako shark, 1.5 m [5'] ",M,"Mako shark, 1.5 m [5'] "
+281,2016,INDONESIA,Surfing,24,"Bull shark, 6'",M,"Bull shark, 6'"
+284,2016,AUSTRALIA,Swimming,12,Wobbegong shark,M,Wobbegong shark
+285,2016,FRENCH POLYNESIA,Spearfishing,22,"Grey reef shark, 2 m",M,"Grey reef shark, 2 m"
+286,2016,FRENCH POLYNESIA,Spearfishing,26,"Grey reef shark, 2 m",M,"Grey reef shark, 2 m"
+287,2016,USA,Spearfishing,26,"Bull shark, 7'",M,"Bull shark, 7'"
+288,2016,NEW CALEDONIA,Walking,69,"Tiger shark, 2.5 m",F,"Tiger shark, 2.5 m"
+290,2016,USA,Fishing,34,5' to 6' shark,M,5' to 6' shark
+302,2016,BRAZIL,Swimming,41,Sandtiger shark,M,Sandtiger shark
+306,2016,CAYMAN ISLANDS,Feeding stingrays?,65,No shark involvement,M,No shark involvement
+310,2016,BRAZIL,Swimming,41,Sandtiger shark,M,Sandtiger shark
+316,2016,USA,Paddle boarding,48,"Tiger shark, 14'",M,"Tiger shark, 14'"
+318,2016,AUSTRALIA,Wading,11,Blacktip shark,M,Blacktip shark
+319,2016,AUSTRALIA,Spearfishing,31,3 m shark,M,3 m shark
+321,2015,SPAIN,Swimming,38,"Silky shark, 6.5'",F,"Silky shark, 6.5'"
+322,2015,USA,Paddle boarding,71,9' shark,M,9' shark
+323,2015,AUSTRALIA,Surfing,43,"Bronze whaler shark, 6'",M,"Bronze whaler shark, 6'"
+324,2015,BRAZIL,Scuba diving,32,"Tiger shark, 1.5 m ",M,"Tiger shark, 1.5 m "
+327,2015,BAHAMAS,Lobster fishing,26,Bull shark,M,Bull shark
+329,2015,ECUADOR,Snorkeling,55,Galapagos shark,M,Galapagos shark
+332,2015,USA,Surfing,28,"Spinner shark, 7'",M,"Spinner shark, 7'"
+333,2015,AUSTRALIA,Surfing,20,"Bull shark, 2.8 to 3.1 m",M,"Bull shark, 2.8 to 3.1 m"
+334,2015,USA,Surfing,9,Shark involvement not confirmed,F,Shark involvement not confirmed
+336,2015,USA,Wading,28,3' to 5' shark,F,3' to 5' shark
+340,2015,SOUTH AFRICA,Surfing,42,"White shark, 3 to 3.5m ",M,"White shark, 3 to 3.5m "
+341,2015,USA,Surfing,21,5' shark,M,5' shark
+342,2015,USA,Surfing,21,"Spinner shark, 5'",M,"Spinner shark, 5'"
+344,2015,USA,Surfing,32,No shark involvement,M,No shark involvement
+345,2015,USA,Swimming,44,"Tiger shark, 7'",M,"Tiger shark, 7'"
+348,2015,USA,Surfing,25,"Tiger shark, 13' ",M,"Tiger shark, 13' "
+352,2015,USA,Wading,13,4' to 5' shark,M,4' to 5' shark
+353,2015,USA,Surfing,14,"Blacktip shark, 4' to 5'",M,"Blacktip shark, 4' to 5'"
+354,2015,USA,Surfing,22,"Blacktip shark, 5' to 6'",M,"Blacktip shark, 5' to 6'"
+357,2015,USA,Surfing,14,juvenile shark,M,juvenile shark
+358,2015,USA,Spearfishing,27,"Tiger shark, 13'",M,"Tiger shark, 13'"
+359,2015,USA,Wading,12,4' shark,M,4' shark
+364,2015,AUSTRALIA,Surfing,42,6' shark,M,6' shark
+365,2015,USA,Stand-Up Paddleboarding,50,"White shark, 11' to 12'",F,"White shark, 11' to 12'"
+366,2015,USA,Kayak Fishing,29,Hammerhead shark.,M,Hammerhead shark.
+367,2015,AUSTRALIA,Surf-skiing,62,"White shark, 2.5 m",M,"White shark, 2.5 m"
+369,2015,THAILAND,Wading,37,small shark,F,small shark
+371,2015,USA,Surfing,54,"White shark, 11' to 12'",F,"White shark, 11' to 12'"
+372,2015,USA,Surfing,21,"White shark, 10' to 12' ",M,"White shark, 10' to 12' "
+375,2015,USA,Surfing,15,4' shark,M,4' shark
+376,2015,USA,Walking,10,3' shark,F,3' shark
+377,2015,USA,Kayak Fishing,22,"White shark, 13'",M,"White shark, 13'"
+378,2015,SPAIN,Swimming,10,Shark involvement not confirmed,M,Shark involvement not confirmed
+379,2015,USA,Spearfishing,57,Hammerhead shark. 6' to 7',M,Hammerhead shark. 6' to 7'
+380,2015,AUSTRALIA,Surfing,52,White shark,M,White shark
+383,2015,USA,Surfing,25,"Blacktip or spinner shark, 4'",M,"Blacktip or spinner shark, 4'"
+384,2015,USA,Floating,35,"Thought to involve a 3' to 4' shark, but shark involvement not confirmed",F,"Thought to involve a 3' to 4' shark, but shark involvement not confirmed"
+385,2015,AUSTRALIA,Scallop diving on hookah,46,"White shark, 3.9 to 4.2 m",M,"White shark, 3.9 to 4.2 m"
+386,2015,USA,Kayak Fishing,31,"Mako shark, 100-lb",M,"Mako shark, 100-lb"
+387,2015,AUSTRALIA,Surfing,40,"Bronze whaler shark, 1.5m",M,"Bronze whaler shark, 1.5m"
+388,2015,REUNION,Surfing,45,"Bull shark, 2m",M,"Bull shark, 2m"
+389,2015,SOUTH AFRICA,Surfing,34,White shark,M,White shark
+390,2015,USA,Surfing,38,"White shark, 7'",M,"White shark, 7'"
+391,2015,USA,Treading water,39,Shark involvement not cofirmed,M,Shark involvement not cofirmed
+393,2015,BAHAMAS,Spearfishing,23,6' shark,F,6' shark
+395,2015,AUSTRALIA,Surfing,52,White shark,M,White shark
+396,2015,AUSTRALIA,Body boarding ,32,White shark,M,White shark
+397,2015,USA,Swimming,68,6' to 7' shark,M,6' to 7' shark
+399,2015,USA,Playing in the water,12,4' to 5' shark,M,4' to 5' shark
+400,2015,USA,Swimming,18,Bull shark,M,Bull shark
+401,2015,SOUTH AFRICA,Body Boarding,19,White shark,M,White shark
+403,2015,SOUTH AFRICA,Surfing,23,"White shark, 2m to 3 m",M,"White shark, 2m to 3 m"
+404,2015,USA,Standing,43,4' shark,M,4' shark
+405,2015,AUSTRALIA,Swimming,19,Wobbegong shark,M,Wobbegong shark
+407,2015,USA,Swimming,6,Sandtiger shark,M,Sandtiger shark
+408,2015,AUSTRALIA,Surfing,37,White shark,F,White shark
+409,2015,USA,Standing,9,small shark,M,small shark
+412,2015,USA,Wading,16,Bull shark,M,Bull shark
+413,2015,USA,Wading,12,Bull shark,F,Bull shark
+415,2015,USA,Boogie boarding,13,4' shark,F,4' shark
+416,2015,USA,Playing,11,"Bull shark, 5'",M,"Bull shark, 5'"
+417,2015,USA,Attempting to rescue a shark,17,small nurse shark,F,small nurse shark
+418,2015,REUNION,Surfing,47,"Bull shark, 2.5 m",M,"Bull shark, 2.5 m"
+421,2015,FRENCH POLYNESIA,Spearfishing,19,1m to 1.2 m shark,M,1m to 1.2 m shark
+423,2015,USA,Surfing,18,5' shark,M,5' shark
+425,2015,NEW CALEDONIA,Snorkeling,50,"Bull shark, 3.5 m",M,"Bull shark, 3.5 m"
+428,2015,SOUTH AFRICA,Diving,29,"White shark, 3.5 m",M,"White shark, 3.5 m"
+430,2015,USA,Wading,63,3- to 4-foot shark,M,3- to 4-foot shark
+431,2015,AUSTRALIA,Surfing,26,"White shark, 6 m",M,"White shark, 6 m"
+432,2015,AUSTRALIA,Surf skiing ,71,"White shark, 3 m",M,"White shark, 3 m"
+433,2015,USA,Photographing the shark,48,"Blue shark, 8 to 9 feet",M,"Blue shark, 8 to 9 feet"
+434,2015,REUNION,Surfing,13,Bull shark,M,Bull shark
+436,2015,USA,Spearfishing,70,Bull shark,M,Bull shark
+437,2015,ITALY,Diving,43,Shark involvement not cofirmed,M,Shark involvement not cofirmed
+438,2015,BRAZIL,Surfing,23,No shark involvement,M,No shark involvement
+439,2015,SOUTH AFRICA,Kayak Fishing,36,"White shark, 4 m",M,"White shark, 4 m"
+440,2015,EGYPT,Swimming,52,Mako shark,M,Mako shark
+441,2015,USA,Standing / Snorkeling,58,"Tiger shark, 8 to 12 feet",M,"Tiger shark, 8 to 12 feet"
+442,2015,FRENCH POLYNESIA,Hand feeding sharks,9,Blacktip shark,M,Blacktip shark
+447,2015,REUNION,Swimming,22,"Tiger shark, 3.5 m",F,"Tiger shark, 3.5 m"
+448,2015,AUSTRALIA,Surfing,41,3.5 to 4 m shark,M,3.5 to 4 m shark
+449,2015,AUSTRALIA,Surfing,35,2 m to  3 m shark,M,2 m to  3 m shark
+451,2015,AUSTRALIA,Rowing,57,"Bull shark, 1.3 m",M,"Bull shark, 1.3 m"
+452,2015,USA,Shark fishing,20,4' shark,M,4' shark
+458,2015,AUSTRALIA,Filming,17,1.5 m shark,M,1.5 m shark
+459,2015,USA,Swimming after falling overboard,38,No shark involvement,M,No shark involvement
+460,2015,BAHAMAS,Snorkeling,34,White shark or oceanic whitetip shark,F,White shark or oceanic whitetip shark
+461,2015,SOUTH AFRICA,Surfing,15,"Raggedtooth shark, 1.3 m",M,"Raggedtooth shark, 1.3 m"
+464,2014,AUSTRALIA,Spearfishing,17,"White shark, 4 to 5 m",M,"White shark, 4 to 5 m"
+467,2014,USA,Surfing,50,"White shark, 8' to 10'",M,"White shark, 8' to 10'"
+470,2014,AUSTRALIA,Spearfishing,17,Tiger shark,M,Tiger shark
+476,2014,USA,Surfing,44,2' shark,M,2' shark
+477,2014,USA,Snorkeling,53,1.5 m shark,M,1.5 m shark
+480,2014,USA,Surfing,34,"Tiger shark, 12'",F,"Tiger shark, 12'"
+486,2014,AUSTRALIA,Surfing,13,1 m shark,F,1 m shark
+487,2014,USA,Standing in inner tube,7,"Bull shark, 3' to 4'",F,"Bull shark, 3' to 4'"
+490,2014,USA,Surfing,29,Blacktip shark,M,Blacktip shark
+492,2014,USA,Surfing,15,Blacktip shark,M,Blacktip shark
+495,2014,USA,Surfing,28,8' to 10' shark,M,8' to 10' shark
+496,2014,AUSTRALIA,Surfing,23,"2 white shark: 13' & 9""8""",M,"2 white shark: 13' & 9""8"""
+498,2014,FRENCH POLYNESIA,Feeding fish,36,Blacktip shark,F,Blacktip shark
+500,2014,AUSTRALIA,Swimming,50,7' shark,M,7' shark
+501,2014,USA,Fishing ,43,Bull shark,M,Bull shark
+503,2014,USA,Fishing,52,3' to 4' shark,M,3' to 4' shark
+505,2014,USA,Body surfing,13,Spinner shark,F,Spinner shark
+506,2014,USA,Surfing,17,Spinner shark or blacktip shark,M,Spinner shark or blacktip shark
+510,2014,USA,Surfing,29,4' to 6' shark,M,4' to 6' shark
+514,2014,AUSTRALIA,Spearfishing,31,reef shark,M,reef shark
+519,2014,USA,Swimming,7," Bull shark, 5'",M," Bull shark, 5'"
+520,2014,USA,Boogie boarding,10,4' tp 5' shark,M,4' tp 5' shark
+524,2014,SOUTH AFRICA,Surfing,20,White shark,M,White shark
+527,2014,REUNION,Surfing,51,1.8 metre shark,M,1.8 metre shark
+530,2014,USA,Swimming,61,6' to 8' shark,M,6' to 8' shark
+531,2014,USA,Swimming,39,4' shark,M,4' shark
+532,2014,BAHAMAS,Shark diving,63,Shark involvement not confirmed,M,Shark involvement not confirmed
+537,2014,USA,Body surfing,19,4' to 5' shark,M,4' to 5' shark
+538,2014,ST. MARTIN,Transatlantic Rowing,48,Oceanic whitetip shark',M,Oceanic whitetip shark'
+539,2014,BAHAMAS,Spearfishing,42,"Caribbean reef shark, 7' to 8'",M,"Caribbean reef shark, 7' to 8'"
+544,2014,USA,Standing,16," Sandbar shark, 3' to 4'",M," Sandbar shark, 3' to 4'"
+545,2014,AUSTRALIA,Body boarding,39,"Bronze whaler shark, 1.5m",M,"Bronze whaler shark, 1.5m"
+548,2014,USA,Swimming,22,Bull shark,F,Bull shark
+550,2014,USA,Tagging sharks,37,Blacktip Reef shark ,F,Blacktip Reef shark 
+551,2014,AUSTRALIA,Fell into the water,29," Bull shark, 1.2m ",F," Bull shark, 1.2m "
+553,2014,AUSTRALIA,Teasing a shark,10," Tawney nurse shark, 1m",M," Tawney nurse shark, 1m"
+555,2014,AUSTRALIA,Surfing,35," white shark, 15' ",M," white shark, 15' "
+557,2014,USA,Surfing,12,Shark involvement not confirmed,M,Shark involvement not confirmed
+559,2014,USA,Swimming,40,4' to 5' shark,F,4' to 5' shark
+561,2014,USA,Surfing,23,3' shark,M,3' shark
+569,2014,AUSTRALIA,Swimming,63,3 m to 4 m white shark,F,3 m to 4 m white shark
+570,2014,AUSTRALIA,Diving for lobsters,38,Shark involvement prior to death not confirmed,M,Shark involvement prior to death not confirmed
+571,2014,SOUTH AFRICA,Swimming,66,2 m shark,M,2 m shark
+579,2014,USA,Surfing,21,Blacktip or spinner shark?,M,Blacktip or spinner shark?
+580,2014,FRENCH POLYNESIA,Kitesurfing,21,Blacktip reef shark ,M,Blacktip reef shark 
+584,2014,NEW ZEALAND,Surfing,28,7-gill shark?,M,7-gill shark?
+586,2014,NEW ZEALAND,Spearfishing,24,7-gill shark,M,7-gill shark
+590,2013,NEW CALEDONIA,Snorkeling,37,Reported to involve a bull shark,M,Reported to involve a bull shark
+591,2013,SOUTH AFRICA,Surfing,19,"White shark, 3m ",M,"White shark, 3m "
+593,2013,USA,Boogie boarding,29,"Tiger shark, 10' to 12'",M,"Tiger shark, 10' to 12'"
+594,2013,USA,Surfing,30,4' to 6' shark,M,4' to 6' shark
+595,2013,AUSTRALIA,Surfing,26," Wobbegong shark, 1.6 to 1.8m ",M," Wobbegong shark, 1.6 to 1.8m "
+597,2013,AUSTRALIA,Body boarding,19,"Tiger shark, 3m ",M,"Tiger shark, 3m "
+599,2013,AUSTRALIA,Surfing,35,Thought to involve a white shark,M,Thought to involve a white shark
+600,2013,USA,Surfing,25,"White shark, 10 '",M,"White shark, 10 '"
+605,2013,USA,Kiteboarding,46,Tiger shark,M,Tiger shark
+606,2013,AUSTRALIA,Snorkeling,60,"Blacktip reef shark, 1m",F,"Blacktip reef shark, 1m"
+607,2013,REUNION,Body boarding,24,Thought to involve a bull shark,M,Thought to involve a bull shark
+609,2013,AUSTRALIA,Surfing,41,Wobbegong shark,M,Wobbegong shark
+610,2013,USA,Diving ,45,"Whitetip reef shark, 4' to 6'",M,"Whitetip reef shark, 4' to 6'"
+611,2013,USA,Surfing,25,Tiger shark,M,Tiger shark
+612,2013,USA,Wading,6,Nurse shark?,M,Nurse shark?
+613,2013,SOUTH AFRICA,Swimming / snorkeling,74,White shark,M,White shark
+614,2013,AUSTRALIA,Diving for Abalone,55,White shark,M,White shark
+615,2013,USA,Surfing,45,"White shark, 8' to 10'",M,"White shark, 8' to 10'"
+616,2013,USA,Wading,12,Small bull shark,M,Small bull shark
+622,2013,USA,Swimming,21,Bull shark,M,Bull shark
+623,2013,USA,Surfing,13,3' shark,F,3' shark
+625,2013,USA,Surfing,43,3' shark,M,3' shark
+626,2013,USA,Standing,25,3' shark,M,3' shark
+630,2013,USA,Casting a net,9,4' shark,M,4' shark
+633,2013,USA,Marathon swimming,47,No shark involvement,F,No shark involvement
+634,2013,FRANCE,Longline fishing for sharks,50,"Mako shark, 5'",M,"Mako shark, 5'"
+639,2013,USA,Snorkeling,20,Tiger shark?,F,Tiger shark?
+641,2013,USA,Surfing,10,"Bull shark, 8'",M,"Bull shark, 8'"
+643,2013,USA,Fishing,17,"Bull shark, 6' to 8'",M,"Bull shark, 6' to 8'"
+646,2013,BAHAMAS,Spearfishing,40,6' shark,M,6' shark
+648,2013,USA,Surfing,18,"Tiger shark, 8' to 10' ",M,"Tiger shark, 8' to 10' "
+649,2013,BAHAMAS,Cleaning fish,64,Nurse shark,M,Nurse shark
+657,2013,SPAIN,Swimming,48,Shark involvement not confirmed,M,Shark involvement not confirmed
+663,2013,USA,Swimming,14,4' to 5' shark,M,4' to 5' shark
+664,2013,USA,Swimming,28,"Tiger shark, 14'",M,"Tiger shark, 14'"
+668,2013,USA,Boogie Boarding,10,4' to 5' shark,F,4' to 5' shark
+669,2013,USA,Fishing for sharks,58,"Lemon shark, 4'",M,"Lemon shark, 4'"
+671,2013,USA,Diving,32,Galapagos shark,M,Galapagos shark
+675,2013,ECUADOR,Surfing,29,Galapagos shark,M,Galapagos shark
+676,2013,USA,Surfing,42,Invalid,M,Invalid
+677,2013,REUNION,Body boarding,36,Bull shark,M,Bull shark
+678,2013,USA,Surfing,16,a small shark,M,a small shark
+680,2013,MEXICO,Swimming,34,Tiger shark,F,Tiger shark
+681,2013,AUSTRALIA,Fishing,51,"Grey nurse shark, 3m",M,"Grey nurse shark, 3m"
+682,2013,USA,Playing in the surf,9,3' shark,M,3' shark
+684,2013,USA,Surfing,21,Bull shark,M,Bull shark
+686,2013,FRENCH POLYNESIA,Kite boarding,53,Possibly a blacktip reef shark,M,Possibly a blacktip reef shark
+689,2013,USA,Surfing,58,4' shark,M,4' shark
+690,2013,AUSTRALIA,Surfing,47,No shark involvement,M,No shark involvement
+694,2013,SOUTH AFRICA,Fishing - 'tag & release',30,"Raggedtooth shark, 1.5 m",M,"Raggedtooth shark, 1.5 m"
+696,2013,JAMAICA,Spearfishing,68,"Tiger shark, 4.8 m",M,"Tiger shark, 4.8 m"
+697,2013,AUSTRALIA,Spearfishing,28,"Bronze whaler shark, 2.5m",M,"Bronze whaler shark, 2.5m"
+700,2013,NEW ZEALAND,Swimming,46,"White shark, 4m",M,"White shark, 4m"
+703,2013,USA,Surfing,16,"Blacktip shark, 4' to 5'",M,"Blacktip shark, 4' to 5'"
+704,2013,FRENCH POLYNESIA,Scuba diving,48,Lemon shark,M,Lemon shark
+709,2013,USA,Surfing,43,"Tiger shark, 15'",M,"Tiger shark, 15'"
+713,2012,AUSTRALIA,Surfing,23,2.5 m shark,M,2.5 m shark
+714,2012,AUSTRALIA,Paddle boarding,29,"Bull shark, 2m ",M,"Bull shark, 2m "
+715,2012,SOUTH AFRICA,Swimming,20,Tiger shark,M,Tiger shark
+716,2012,AUSTRALIA,Surfing,32,"Tiger shark, 6'",M,"Tiger shark, 6'"
+717,2012,USA,Surfing,60,10' shark,M,10' shark
+718,2012,AUSTRALIA,Spearfishing,31,Sandtiger shark,M,Sandtiger shark
+719,2012,NEW ZEALAND,Scuba diving,25,Seven-gill shark,F,Seven-gill shark
+720,2012,USA,Snorkeling,61,"Tiger shark, 10'",M,"Tiger shark, 10'"
+722,2012,MEXICO,Swimming,32,2.5 m shark,M,2.5 m shark
+723,2012,USA,Surfing,14,2' to 3' shark,M,2' to 3' shark
+724,2012,USA,Diving,30,"Tiger shark, 15'",M,"Tiger shark, 15'"
+725,2012,USA,Surfing,43,"Tiger shark, 8'",M,"Tiger shark, 8'"
+726,2012,USA,Surfing,25,White shark,M,White shark
+727,2012,USA,Swimming,51,"Tiger shark, 10' to 12' ",F,"Tiger shark, 10' to 12' "
+728,2012,USA,Surfing,39,"White shark, 15' to 16' ",M,"White shark, 15' to 16' "
+731,2012,USA,Paddle boarding,55,6' to 8' shark,M,6' to 8' shark
+735,2012,AUSTRALIA,Bodyboarding,11,2m shark,M,2m shark
+736,2012,USA,Surfing,21,5' shark,M,5' shark
+737,2012,USA,Surfing,22,4' shark,M,4' shark
+739,2012,TONGA,Swimming,29,Possibly a 3 m bull shark,F,Possibly a 3 m bull shark
+746,2012,USA,Boogie boarding,8,3.5' to 4' shark,F,3.5' to 4' shark
+748,2012,USA,Swimming or boogie boarding,56,3.5' to 4' shark,F,3.5' to 4' shark
+749,2012,SCOTLAND,Shark fishing,53,"Porbeagle shark, 7'",M,"Porbeagle shark, 7'"
+754,2012,USA,Free diving ,56,"Lemon shark, 4' to 5' ",M,"Lemon shark, 4' to 5' "
+755,2012,REUNION,Surfing,39,Bull shark,M,Bull shark
+758,2012,AUSTRALIA,Surfing,48,White shark or bronze whaler,M,White shark or bronze whaler
+760,2012,USA,Body surfing,50,Thought to involve a white shark,M,Thought to involve a white shark
+764,2012,CANADA,Surfing,23,"Salmon shark suspected, but unlikely",F,"Salmon shark suspected, but unlikely"
+765,2012,AUSTRALIA,Surfing,24,"White shark, 5m",M,"White shark, 5m"
+769,2012,USA,Kayaking,52,14' to 18'shark,M,14' to 18'shark
+770,2012,SOUTH AFRICA,Surfing,29,15' shark,M,15' shark
+772,2012,USA,Swimming,6,possibly a bull shark,M,possibly a bull shark
+774,2012,USA,Sitting in the water,16,a small reef shark,F,a small reef shark
+777,2012,AUSTRALIA,Surf skiing ,62,3 m shark,M,3 m shark
+778,2012,USA,Standing,16,No shark involvement,M,No shark involvement
+780,2012,USA,Fishing,23,Nurse shark,M,Nurse shark
+781,2012,USA,Swimming,18,small blacktip shark?,F,small blacktip shark?
+784,2012,USA,Swimming,16,Blacktip shark ,M,Blacktip shark 
+785,2012,AUSTRALIA,Surfing,42,1.5 m shark,M,1.5 m shark
+786,2012,ITALY,Attempting to rescue an injured & beached shark,57,"Blue shark, 2.5m",M,"Blue shark, 2.5m"
+787,2012,AUSTRALIA,Surf skiing ,30,"White shark, 2 m",M,"White shark, 2 m"
+790,2012,USA,Wading,33,"18"" to 24"" shark",F,"18"" to 24"" shark"
+791,2012,MEXICO,Free diving / spearfishing,46,"Bull shark, 3m",M,"Bull shark, 3m"
+792,2012,USA,Surfing,22,4' to 5' shark,M,4' to 5' shark
+795,2012,USA,Kayaking / Fishing,30,White shark,M,White shark
+797,2012,USA,Paddle boarding,15,White shark,F,White shark
+798,2012,USA,Surfing,28,5' shark,M,5' shark
+799,2012,SOUTH AFRICA,Body boarding,20,"White shark, 4 m to 5m ",M,"White shark, 4 m to 5m "
+800,2012,AUSTRALIA,Kayaking,27,"White shark, 6m ",M,"White shark, 6m "
+801,2012,USA,Surfing,28,"Tiger shark, 10'  ",M,"Tiger shark, 10'  "
+803,2012,AUSTRALIA,Scuba diving,33,"White shark, 4m ",M,"White shark, 4m "
+806,2012,AUSTRALIA,Surfing,20,Possibly a bull shark,M,Possibly a bull shark
+807,2012,USA,Surfing,61,Possibly a 5' to 6' bull shark,M,Possibly a 5' to 6' bull shark
+808,2012,USA,Surfing,15,4' to 5' shark,F,4' to 5' shark
+809,2012,USA,Surfing,17,4' to 5' shark,M,4' to 5' shark
+811,2012,AUSTRALIA,"Diving, feeding sharks",34,"Tawny nurse shark, 40cm",F,"Tawny nurse shark, 40cm"
+813,2012,USA,Kite Surfing,19,4' shark,M,4' shark
+821,2012,AUSTRALIA,Snorkeling,26,"Tiger shark, 3m",M,"Tiger shark, 3m"
+823,2012,TAIWAN,Fishing,24,"Blue shark, 70-kg blue shark",M,"Blue shark, 70-kg blue shark"
+824,2012,AUSTRALIA,Surfing,44,"White shark, 2.7 m",M,"White shark, 2.7 m"
+825,2012,SOUTH AFRICA,Swimming,25,Thought to involve a bull shark,M,Thought to involve a bull shark
+826,2012,USA,Surfing,53,White shark,M,White shark
+827,2012,AUSTRALIA,Surfing,28,2 m shark,M,2 m shark
+828,2012,AUSTRALIA,Spearfishing,34,Allegedly a 4 m tiger shark,M,Allegedly a 4 m tiger shark
+835,2011,AUSTRALIA,Surfing,51,"White shark, 2.5m",M,"White shark, 2.5m"
+837,2011,AUSTRALIA,Surfing,14,Wobbegong shark,M,Wobbegong shark
+842,2011,AUSTRALIA,Swimming,10,Wobbegong shark?,M,Wobbegong shark?
+847,2011,USA,Surfing,27,White shark,M,White shark
+848,2011,SCOTLAND,Surfing,26,8' to 10' shark,M,8' to 10' shark
+850,2011,AUSTRALIA,Diving,32,"White shark, 10'",M,"White shark, 10'"
+851,2011,USA,Surfing,41,"White shark, 15'",M,"White shark, 15'"
+852,2011,AUSTRALIA,Diving,50,"Port Jackson shark, 1m",M,"Port Jackson shark, 1m"
+856,2011,REUNION,Canoeing,51,2 to 2.5 m shark,M,2 to 2.5 m shark
+859,2011,USA,Surfing,27,No shark involvement,M,No shark involvement
+861,2011,SOUTH AFRICA,Swimming,43,White shark,M,White shark
+862,2011,USA,Spearfishing,21,"Bull shark, 6'",M,"Bull shark, 6'"
+867,2011,USA,Surfing,25,4' to 6' shark,M,4' to 6' shark
+869,2011,PAPUA NEW GUINEA,Kite Surfing,30,"Tiger shark, 2m",M,"Tiger shark, 2m"
+871,2011,AUSTRALIA,Body boarding,21,White shark,M,White shark
+872,2011,USA,Surfing,19,"6' shark, possibly a blactip or spinner shark",M,"6' shark, possibly a blactip or spinner shark"
+873,2011,USA,Surfing,19,6' shark,M,6' shark
+874,2011,AUSTRALIA,Swimming,48,Shark involvement prior to death not confirmed,M,Shark involvement prior to death not confirmed
+879,2011,SOUTH AFRICA,Surfing,49,"White shark, >6'",M,"White shark, >6'"
+883,2011,RUSSIA,Swimming,25,4 m shark,M,4 m shark
+884,2011,FRENCH POLYNESIA,Surfing,32,Grey reef shark ,M,Grey reef shark 
+886,2011,SEYCHELLES,Swimming or Snorkeling,30,"Bull shark, 6'",M,"Bull shark, 6'"
+887,2011,USA,Playing in the surf,7,Shark involvement not confirmed,M,Shark involvement not confirmed
+890,2011,BRAZIL,Swimming,14,Shark involvement prior to death not confirmed,M,Shark involvement prior to death not confirmed
+893,2011,SOUTH AFRICA,Surfing,29,"White shark, 3m to 4m",M,"White shark, 3m to 4m"
+904,2011,SOUTH AFRICA,Scuba diving,22,"Bull shark, 3m female",M,"Bull shark, 3m female"
+905,2011,USA,Playing in the surf,10,"Bull shark, 6'",F,"Bull shark, 6'"
+908,2011,TURKS & CAICOS,Spearfishing,35,5' shark,M,5' shark
+912,2011,USA,Scuba diving,28,"Blacktip shark, 4'",M,"Blacktip shark, 4'"
+914,2011,USA,Spearfishing,28,"Sevengill shark, 6' to 8'",M,"Sevengill shark, 6' to 8'"
+915,2011,USA,Wading,19,3' to 4' shark,M,3' to 4' shark
+918,2011,SOUTH AFRICA,Surfing,33,White shark,M,White shark
+921,2011,SOUTH AFRICA,Spearfishing,28,Zambesi shark,M,Zambesi shark
+923,2011,NEW CALEDONIA,Kite Boarding,15," Tiger shark, 2.8m",M," Tiger shark, 2.8m"
+926,2011,UNITED ARAB EMIRATES (UAE),Fishing ,43,Invalid,M,Invalid
+928,2011,USA,Spearfishing,32,"Bull shark, 12'",M,"Bull shark, 12'"
+929,2011,AUSTRALIA,Washing sand off a speared fish,17,"reef shark, 1.5m",M,"reef shark, 1.5m"
+930,2011,USA,Surfing ,49,1' to 2' shark,M,1' to 2' shark
+931,2011,NEW ZEALAND,Surfing,41,possibly a bronze whaler shark,M,possibly a bronze whaler shark
+936,2011,AUSTRALIA,Surfing,48,"Bull shark, 2.5m",M,"Bull shark, 2.5m"
+939,2011,AUSTRALIA,Wakeboarding,24,3 m to 4 m shark,F,3 m to 4 m shark
+942,2011,AUSTRALIA,Fishing,36,"Bull shark, 2m",M,"Bull shark, 2m"
+943,2011,NEW CALEDONIA,Spearfishing,21,1.5 m shark,M,1.5 m shark
+945,2011,AUSTRALIA,Diving for abalone,49,White shark x 2,M,White shark x 2
+950,2011,MEXICO,Swimming,38,6' shark,F,6' shark
+952,2011,BAHAMAS,Scuba diving,55,Caribbean reef shark,M,Caribbean reef shark
+953,2011,AUSTRALIA,Swimming,7,Shark involvement not confirmed,F,Shark involvement not confirmed
+957,2010,USA,Body boarding,16,6' shark,M,6' shark
+960,2010,EGYPT,Snorkeling,70,"Oceanic whitetip shark, 2.5m ",F,"Oceanic whitetip shark, 2.5m "
+962,2010,EGYPT,Snorkeling,54,Mako shark ,M,Mako shark 
+963,2010,EGYPT,Snorkeling,46,Mako shark,M,Mako shark
+964,2010,EGYPT,Snorkeling,70,"Oceanic whitetip shark, 2.5m, female",F,"Oceanic whitetip shark, 2.5m, female"
+965,2010,EGYPT,Snorkeling,48,"Oceanic whitetip shark, 2.5m, female",F,"Oceanic whitetip shark, 2.5m, female"
+972,2010,AUSTRALIA,Snorkeling,20,White shark,F,White shark
+976,2010,USA,Scuba diving,30,"Porbeagle shark, 8' ",M,"Porbeagle shark, 8' "
+978,2010,USA,Body boarding,19,"White shark, 14' to 18' ",M,"White shark, 14' to 18' "
+980,2010,AUSTRALIA,Surfing,22,"Bull shark, 1.4m ",M,"Bull shark, 1.4m "
+984,2010,USA,Surfing,29,White shark,M,White shark
+986,2010,SOUTH AFRICA,Swimming,29,White shark,M,White shark
+987,2010,AUSTRALIA,Surfing,15,2m shark,M,2m shark
+988,2010,USA,Swimming,27,3' shark,M,3' shark
+994,2010,BAHAMAS,Swimming after boat became disabled,43,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+996,2010,AUSTRALIA,Surfing,31,White shark,M,White shark
+997,2010,USA,Kayak Fishing,45,White shark,M,White shark
+1002,2010,MALTA,Windsurfing,35,3 m shark,M,3 m shark
+1005,2010,USA,Standing,37,3' to 4' shark,F,3' to 4' shark
+1006,2010,USA,Standing,16,4' shark,M,4' shark
+1008,2010,USA,Swimming,10,Possibly a small blacktip shark,M,Possibly a small blacktip shark
+1009,2010,USA,Swimming,13,"Sandtiger shark, 4' to 5'",F,"Sandtiger shark, 4' to 5'"
+1010,2010,USA,Surfing,55,A small spinner shark,M,A small spinner shark
+1011,2010,SPAIN,Swimming,9,Angel shark,M,Angel shark
+1015,2010,USA,Fishing,20,"Blue shark, 7'",M,"Blue shark, 7'"
+1016,2010,USA,Surfing,19,4' shark,M,4' shark
+1017,2010,USA,Stand-Up Paddleboarding,48,8' shark,M,8' shark
+1018,2010,USA,Surfing,20,"Bull shark, 5'",M,"Bull shark, 5'"
+1021,2010,VIETNAM,Swimming,17,1 m shark,M,1 m shark
+1022,2010,USA,Boogie Boarding,18,4' shark,F,4' shark
+1025,2010,USA,Fishing,49,"Lemon shark, 4'",M,"Lemon shark, 4'"
+1026,2010,VIETNAM,Rescuing,58,20 to 30kg shark,F,20 to 30kg shark
+1027,2010,VIETNAM,Swimming,60,20 to 30kg shark,F,20 to 30kg shark
+1030,2010,USA,Wading,10,4' shark,F,4' shark
+1031,2010,USA,Measuring sharks,29,"Lemon shark, 6'",M,"Lemon shark, 6'"
+1032,2010,USA,Surfing,68,14' shark,M,14' shark
+1033,2010,SOUTH AFRICA,Surfing,35,2 m shark,M,2 m shark
+1034,2010,EGYPT,Swimming / treading water,24,"Oceanic whitetip shark, 6'",M,"Oceanic whitetip shark, 6'"
+1035,2010,REUNION,Surfing,34,1.5 m shark,M,1.5 m shark
+1039,2010,AUSTRALIA,Snorkeling,60,2 m shark,F,2 m shark
+1040,2010,AUSTRALIA,Surfing,46,"Wobbegong shark, 1.6m",M,"Wobbegong shark, 1.6m"
+1042,2010,AUSTRALIA,Body boarding,18,"White shark, 2.5m",M,"White shark, 2.5m"
+1044,2010,GUAM,Spearfishing (free diving),31,Invalid,M,Invalid
+1046,2010,NEW ZEALAND,Boogie Boarding,14,1.5 m shark,F,1.5 m shark
+1047,2010,BRAZIL,Surfing,29,Thought to involve a juvenile hammerhead shark,M,Thought to involve a juvenile hammerhead shark
+1051,2010,SOUTH AFRICA,Standing,37,White shark,M,White shark
+1052,2010,AUSTRALIA,Snorkeling,9,"Whitetip reef shark, 1m",F,"Whitetip reef shark, 1m"
+1060,2009,MOZAMBIQUE,Swimming,27,"Zambesi shark, 2m ",M,"Zambesi shark, 2m "
+1062,2009,AUSTRALIA,Spearfishing,18,"Bull shark, 3m",M,"Bull shark, 3m"
+1065,2009,NEW ZEALAND,Swimming to shore from capsized kayak,24,"White shark, 2.8 to 3 m ",M,"White shark, 2.8 to 3 m "
+1068,2009,USA,Diving,58,"Sandtiger shark, 8'",M,"Sandtiger shark, 8'"
+1069,2009,USA,Surfing,49,Shark involvement not confirmed,M,Shark involvement not confirmed
+1070,2009,USA,Wading,10,6' shark,M,6' shark
+1071,2009,USA,Fishing,31,Thresher shark,M,Thresher shark
+1074,2009,USA,Surfing,18,4' shark,M,4' shark
+1075,2009,AUSTRALIA,Kayaking,25,2 m shark,M,2 m shark
+1077,2009,AUSTRALIA,Kayaking,27,"White shark, 4m",M,"White shark, 4m"
+1081,2009,USA,Surfing,54,6' to 8' shark,M,6' to 8' shark
+1083,2009,SCOTLAND,Diving,23,Angel shark,M,Angel shark
+1084,2009,AUSTRALIA,Diving,23,"Bull shark, 10'",M,"Bull shark, 10'"
+1086,2009,UNITED KINGDOM,Fishing,39,Spurdog,M,Spurdog
+1091,2009,USA,Swimming,60,Shark involvement prior to death not confirmed,M,Shark involvement prior to death not confirmed
+1096,2009,SOUTH AFRICA,Surfing,25,White shark,M,White shark
+1097,2009,USA,Swimming,22,"White shark, 5' to 6' juvenile ",F,"White shark, 5' to 6' juvenile "
+1101,2009,USA,Wade Fishing,56,Bull shark?,M,Bull shark?
+1102,2009,BAHAMAS,Spearfishing,14,Bull shark,M,Bull shark
+1107,2009,SPAIN,Swimming,11,Shark involvement questionable,F,Shark involvement questionable
+1115,2009,USA,Swimming,43,"Nurse shark, 6'",F,"Nurse shark, 6'"
+1116,2009,AUSTRALIA,Surfing,52,"Thought to involve a Bronze whale shark, 2m",M,"Thought to involve a Bronze whale shark, 2m"
+1117,2009,USA,Surfing,26,Shark involvement not confirmed,M,Shark involvement not confirmed
+1118,2009,USA,Crawling,14,"Shark involvement probable, but not confirmed",M,"Shark involvement probable, but not confirmed"
+1122,2009,EGYPT,Snorkeling,50,"Oceanic whitetip shark, 2.5 to 3m",F,"Oceanic whitetip shark, 2.5 to 3m"
+1123,2009,TAIWAN,Fishing,46,80 kg shark,M,80 kg shark
+1125,2009,USA,Surfing,31,blacktip or spinner shark,M,blacktip or spinner shark
+1126,2009,USA,Surfing,49,blacktip or spinner shark,M,blacktip or spinner shark
+1127,2009,USA,Surfing,55,blacktip or spinner shark,M,blacktip or spinner shark
+1128,2009,GUAM,Spearfishing,27,"Blacktip shark, 4'",M,"Blacktip shark, 4'"
+1129,2009,BAHAMAS,Spearfishing,48,7' shark,M,7' shark
+1135,2009,USA,Surfing,31,2' to 3' shark,M,2' to 3' shark
+1136,2009,USA,Spearfishing,49,Shark involvement not confirmed,M,Shark involvement not confirmed
+1137,2009,AUSTRALIA,Surf skiing ,40,2' to 3' shark,M,2' to 3' shark
+1138,2009,SOUTH AFRICA,Swimming,24,Shark involvement not confirmed,M,Shark involvement not confirmed
+1141,2009,SOUTH AFRICA,Fishing ,59,Raggedtooth shark,M,Raggedtooth shark
+1143,2009,AUSTRALIA,Surfing,17,Bronze whaler shark?,M,Bronze whaler shark?
+1146,2009,USA,Surfing,17,3' to 4' shark,F,3' to 4' shark
+1148,2009,USA,Swimming,61,Thought to involve a cookie cutter shark,M,Thought to involve a cookie cutter shark
+1149,2009,AUSTRALIA,Wading,21,"Wobbegong shark, 60cm",M,"Wobbegong shark, 60cm"
+1151,2009,SOUTH AFRICA,Fishing,40,"Blue shark, 1m",M,"Blue shark, 1m"
+1153,2009,AUSTRALIA,Surfing,15,2.6 m shark,M,2.6 m shark
+1156,2009,AUSTRALIA,Surfing,33,"White shark, 2.5m ",M,"White shark, 2.5m "
+1157,2009,AUSTRALIA,"Diving, but on the surface when bitten by the shark",31,"Bull shark, 2.7 m ",M,"Bull shark, 2.7 m "
+1159,2009,AUSTRALIA,Surfing,41,"White shark, 12' ",M,"White shark, 12' "
+1163,2009,CUBA,Spearfishing,15,Bull shark,M,Bull shark
+1166,2009,SOUTH AFRICA,Swimming,25,Tiger shark,M,Tiger shark
+1167,2009,BRAZIL,Swimming,17,Invalid,M,Invalid
+1171,2009,AUSTRALIA,Snorkeling,24,"Dusky shark, 2m",M,"Dusky shark, 2m"
+1172,2009,AUSTRALIA,Surfing,13,"White shark, 5m",F,"White shark, 5m"
+1173,2009,AUSTRALIA,Surfing,31,"White shark, 3.5m",M,"White shark, 3.5m"
+1176,2009,NEW ZEALAND,Swimming,49,Broadnose sevengill shark,M,Broadnose sevengill shark
+1181,2008,AUSTRALIA,Kayaking,29,"White shark, 4m to 5m ",M,"White shark, 4m to 5m "
+1182,2008,AUSTRALIA,Snorkeling,51,4 to 5m white shark,M,4 to 5m white shark
+1185,2008,SOUTH AFRICA,Fishing,15,"Raggedtooth shark, 2m",M,"Raggedtooth shark, 2m"
+1194,2008,AUSTRALIA,Scuba diving,34,"Grey nurse shark, 3m",M,"Grey nurse shark, 3m"
+1195,2008,NEW CALEDONIA,Spearfishing,24,Lemon shark,M,Lemon shark
+1196,2008,AUSTRALIA,Fishing,50," reef shark, 1.8m",M," reef shark, 1.8m"
+1199,2008,CROATIA,Spearfishing,43,5 m white shark,M,5 m white shark
+1201,2008,USA,Surfing,40,+3' shark,M,+3' shark
+1202,2008,AUSTRALIA,Swimming,43,Bronze whaler shark,M,Bronze whaler shark
+1203,2008,USA,Swimming,32,2' to 3' juvenile shark,M,2' to 3' juvenile shark
+1204,2008,USA,Surfing,40,Tiger shark,M,Tiger shark
+1206,2008,AUSTRALIA,Surfing,51,3 m shark,M,3 m shark
+1209,2008,USA,Surfing,52,4' shark,M,4' shark
+1212,2008,USA,Swimming,27,Shark involvement not confirmed,M,Shark involvement not confirmed
+1213,2008,ENGLAND,Fishing,52,Blue shark,M,Blue shark
+1215,2008,USA,Surfing,26,6' shark,M,6' shark
+1217,2008,USA,Surfing,20,Shark involvement not confirmed,F,Shark involvement not confirmed
+1220,2008,USA,Treading water,38,8' bull shark or Caribbean reef shark,F,8' bull shark or Caribbean reef shark
+1223,2008,AUSTRALIA,Surfing,31,8' white shark or 7-gill shark,M,8' white shark or 7-gill shark
+1226,2008,MEXICO,Swimming,33,2'  shark,M,2'  shark
+1230,2008,USA,Wading,9,3' shark,M,3' shark
+1231,2008,USA,Wading,8,3' to 4' shark,F,3' to 4' shark
+1233,2008,USA,Wading,16,4' shark,M,4' shark
+1235,2008,USA,Body surfing,52,Shark involvement not confirmed,M,Shark involvement not confirmed
+1239,2008,UNITED KINGDOM,Rowing an inflatable dinghy,16,"Starry smoothhound shark, 1m",M,"Starry smoothhound shark, 1m"
+1240,2008,USA,Wading,53,Shark involvement prior to death not confirmed,M,Shark involvement prior to death not confirmed
+1241,2008,BAHAMAS,Spearfishing,42,"Bull shark, 6' to 7'",M,"Bull shark, 6' to 7'"
+1242,2008,SOUTH AFRICA,Surf skiing ,46,"White shark, 2m",M,"White shark, 2m"
+1245,2008,USA,Swimming,37,4.5 to 5' shark,M,4.5 to 5' shark
+1247,2008,USA,Kayaking,40,"White shark, 15'",F,"White shark, 15'"
+1252,2008,USA,Body surfing,15,5' shark,F,5' shark
+1253,2008,BRAZIL,Swimming,14,Bull shark,M,Bull shark
+1256,2008,MEXICO,Surfing,49,3 m shark,M,3 m shark
+1257,2008,MEXICO,Surfing,21,2 m shark,M,2 m shark
+1259,2008,AUSTRALIA,Swimming,37,"White shark, 4m",M,"White shark, 4m"
+1260,2008,NEW CALEDONIA,Fishing,40,2 small bull sharks,M,2 small bull sharks
+1263,2008,MEXICO,Surfing,24,Tiger shark,M,Tiger shark
+1264,2008,USA,Surfing,18,4' shark,M,4' shark
+1266,2008,NEW CALEDONIA,Swimming,32,"Bull shark, 1.8m",M,"Bull shark, 1.8m"
+1268,2008,USA,Swimming,66,"White shark, 12' to 15'",M,"White shark, 12' to 15'"
+1272,2008,MEXICO,Swimming,32,"Reported by media as shark attack, but shark involvement prior to death was not confirmed",M,"Reported by media as shark attack, but shark involvement prior to death was not confirmed"
+1273,2008,AUSTRALIA,Surfing,19,Shark involvement not confirmed; thought to be a barracuda bite,M,Shark involvement not confirmed; thought to be a barracuda bite
+1274,2008,USA,Surfing,30,1.5' to 2' shark,M,1.5' to 2' shark
+1276,2008,USA,Wading,15,6' shark,M,6' shark
+1278,2008,AUSTRALIA,Body boarding,16,Bull shark,M,Bull shark
+1281,2008,USA,Surfing,52,4' to 5' shark,M,4' to 5' shark
+1283,2008,USA,Walking out of the water after surfing,13,2.5' shark,M,2.5' shark
+1285,2008,USA,Jet skiing,8,Shark involvement not confirmed,M,Shark involvement not confirmed
+1286,2008,USA,Surfing,27,White shark,M,White shark
+1287,2008,BAHAMAS,Diving,49,"A bull shark, according to some of the divers on the boat",M,"A bull shark, according to some of the divers on the boat"
+1290,2008,AUSTRALIA,Surfing,14,1 m shark,F,1 m shark
+1293,2008,SOUTH AFRICA,Surf-skiing,42,"Blacktip shark, 2m",M,"Blacktip shark, 2m"
+1294,2008,AUSTRALIA,Accidentally stood on hooked shark's tail before attempting to gut it ,20,"Mako shark, 90kg",M,"Mako shark, 90kg"
+1297,2008,USA,Surfing,20,a small shark,M,a small shark
+1299,2008,MEXICO,Surfing,26,Possibly a hammerhead shark,M,Possibly a hammerhead shark
+1300,2007,ECUADOR,Surfing,24,3 m shark,M,3 m shark
+1301,2007,BRITISH VIRGIN ISLANDS,Scuba diving,53,Invalid,M,Invalid
+1302,2007,AUSTRALIA,Surfing,31,2 m shark,M,2 m shark
+1304,2007,AUSTRALIA,Swimming,34,Not a shark attack; it was a hoax,M,Not a shark attack; it was a hoax
+1305,2007,USA,Surfing,52,Tiger shark,M,Tiger shark
+1307,2007,BRAZIL,Removing fish from a trap,28,2.27 m shark,M,2.27 m shark
+1308,2007,AUSTRALIA,Fishing,32,reef shark,M,reef shark
+1310,2007,SOUTH AFRICA,Surfing,14,1.5 to 2 m shark,M,1.5 to 2 m shark
+1311,2007,USA,Surfing,21,4' to 5' shark,M,4' to 5' shark
+1312,2007,USA,Surfing,42,5' shark,M,5' shark
+1313,2007,SOUTH AFRICA,Surfing,37,"White shark, 3m to 4m",M,"White shark, 3m to 4m"
+1315,2007,USA,Floating,32,Tiger shark,M,Tiger shark
+1316,2007,AUSTRALIA,Surf-skiing,52,"White shark, 2.5m ",F,"White shark, 2.5m "
+1317,2007,AUSTRALIA,Spearfishing,31,Bronze whaler shark,M,Bronze whaler shark
+1318,2007,USA,Surfing,22,3' to 4' shark,M,3' to 4' shark
+1319,2007,USA,Surfing,16,"Blacktip shark, 5'",M,"Blacktip shark, 5'"
+1322,2007,NEW CALEDONIA,Swimming,23,Tiger shark,F,Tiger shark
+1323,2007,BAHAMAS,Spearfishing,48,Caribbean reef shark,F,Caribbean reef shark
+1328,2007,USA,Surfing,23,3' shark,M,3' shark
+1332,2007,USA,Snorkeling,14,"Nurse shark, 2' to 3' ",M,"Nurse shark, 2' to 3' "
+1336,2007,USA,Jumping,12,"18"" to 24"" shark",F,"18"" to 24"" shark"
+1337,2007,USA,Swimming,58,Possibly a spinner shark,M,Possibly a spinner shark
+1338,2007,USA,Body boarding,15,"Tiger shark, 10' to 12' ",M,"Tiger shark, 10' to 12' "
+1339,2007,USA,Surfing,24,"White shark, 12'",M,"White shark, 12'"
+1340,2007,USA,Surfing,54,3' shark,M,3' shark
+1341,2007,USA,Surfing,27,3' shark,M,3' shark
+1345,2007,USA,Surfing,16,4' to 5' shark,M,4' to 5' shark
+1347,2007,USA,Floating near boat & observing bioluminesce,20,Possibly a 6' bull shark,M,Possibly a 6' bull shark
+1348,2007,USA,Swimming,15, ,F, 
+1352,2007,USA,Jumped into the water,19,Possibly a 10' bull shark,F,Possibly a 10' bull shark
+1357,2007,USA,Snorkeling,36, ,M, 
+1358,2007,AUSTRALIA,Wading,15,"Bronze whaler shark, 1.5 m ",M,"Bronze whaler shark, 1.5 m "
+1359,2007,USA,Swimming,14,2' to 3' shark,M,2' to 3' shark
+1360,2007,NORWAY,Scuba diving,48,"3' small spotted catshark, Scyliorhinus canicula",M,"3' small spotted catshark, Scyliorhinus canicula"
+1361,2007,USA,Swimming,43,Shark involvement not confirmed,F,Shark involvement not confirmed
+1362,2007,USA,Wading,30,5' shark,F,5' shark
+1363,2007,BAHAMAS,Spearfishing,48,"Bull shark, 5' ",F,"Bull shark, 5' "
+1365,2007,REUNION,Body boarding,17,2 m shark,M,2 m shark
+1369,2007,USA,Surfing,20,4' shark,M,4' shark
+1371,2007,USA,Surfing,9,Shark involvement not confirmed,F,Shark involvement not confirmed
+1375,2007,USA,Reviving a sedated shark,40,A 10-year-old 94-pound pregnant blacktip reef shark,F,A 10-year-old 94-pound pregnant blacktip reef shark
+1376,2007,ENGLAND,Fishing,38,"Lesser spotted dogfish, Scyliorhinus canicula, less than 80 cm in length",M,"Lesser spotted dogfish, Scyliorhinus canicula, less than 80 cm in length"
+1377,2007,AUSTRALIA,Wading,38,2.5 m shark,F,2.5 m shark
+1378,2007,AUSTRALIA,Surfing,19,10' shark,M,10' shark
+1379,2007,USA,Surfing,21,4' to 5' shark,F,4' to 5' shark
+1381,2007,AUSTRALIA,Swimming,45,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+1382,2007,USA,Snorkeling,63,"Tiger shark, 14' ",F,"Tiger shark, 14' "
+1383,2007,USA,Swimming,68,6' to 8' shark,M,6' to 8' shark
+1385,2007,BAHAMAS,Shark tagging,20,"Lemon shark, >1 m ",F,"Lemon shark, >1 m "
+1386,2007,AUSTRALIA,Swimming / jumping off a jetty,13,"""a small shark""",F,"""a small shark"""
+1387,2007,USA,Body boarding,12,blacktip or spinner shark,M,blacktip or spinner shark
+1388,2007,USA,Surfing,24,3' to 4' shark,M,3' to 4' shark
+1390,2007,NEW CALEDONIA,Surfing,26,Tiger shark,M,Tiger shark
+1392,2007,USA,Surfing,27,3' shark,M,3' shark
+1395,2007,USA,Surfing,11,4' to 5' shark,M,4' to 5' shark
+1396,2007,AUSTRALIA,Surfing,42,1.5 m shark,F,1.5 m shark
+1398,2007,AUSTRALIA,Swimming,59,2 to 2.5 m shark,F,2 to 2.5 m shark
+1400,2007,NEW ZEALAND,Spearfishing,16,Tiger shark,M,Tiger shark
+1401,2007,COSTA RICA,Swimming,36,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+1404,2007,NEW CALEDONIA,Spearfishing (free diving),30,Tiger shark,M,Tiger shark
+1406,2007,AUSTRALIA,Diving,41,"White shark, 3m",M,"White shark, 3m"
+1407,2007,AUSTRALIA,Swimming,20,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+1408,2007,SOUTH AFRICA,Swimming / Body Surfing,24,Tiger shark,M,Tiger shark
+1410,2007,USA,Surfing,54,"24"" to 30"" shark",M,"24"" to 30"" shark"
+1411,2007,USA,Surfing,24,"6' to 8' shark, possibly a tiger shark",M,"6' to 8' shark, possibly a tiger shark"
+1412,2006,AUSTRALIA,Surfing,25,2.5 to 3 m shark,M,2.5 to 3 m shark
+1413,2006,NEW ZEALAND,Surfing,10,2 to 3 m shark,M,2 to 3 m shark
+1414,2006,USA,Surfing,43,"White shark, 12' to 15' ",M,"White shark, 12' to 15' "
+1415,2006,SOUTH AFRICA,Fishing,25,"Raggedtooth shark, 150-kg",M,"Raggedtooth shark, 150-kg"
+1416,2006,AUSTRALIA,Body boarding,15,"White shark, 5m ",M,"White shark, 5m "
+1418,2006,USA,Swimming,29,2 m to 3 m shark,M,2 m to 3 m shark
+1420,2006,USA,Surfing,22,"White shark, 16' ",M,"White shark, 16' "
+1424,2006,USA,Playing soccer in the water,18,3' to 3.5' shark,M,3' to 3.5' shark
+1427,2006,SOUTH AFRICA,Spearfishing,36,Invalid,M,Invalid
+1431,2006,USA,Swimming,55,Spinner shark,M,Spinner shark
+1432,2006,USA,Surfing,52,5' shark,M,5' shark
+1433,2006,AUSTRALIA,Diving,44,No shark involvement,M,No shark involvement
+1435,2006,USA,Standing,33,3' shark,M,3' shark
+1437,2006,SOUTH AFRICA,Surfing,37,"White shark, 3.5m ",M,"White shark, 3.5m "
+1442,2006,BELIZE,Spearfishing,34,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+1446,2006,SOUTH AFRICA,Lifesaving drill,24,White shark,M,White shark
+1450,2006,USA,Surfing,41,White shark?,M,White shark?
+1453,2006,SOUTH AFRICA,Surf-skiing,19,"White shark, 3m to 4m",M,"White shark, 3m to 4m"
+1454,2006,USA,Surfing,14, ,M, 
+1457,2006,USA,Standing,49,"Angel shark, 1.2m ",M,"Angel shark, 1.2m "
+1458,2006,SPAIN,Swimming,7,"Shark involvement not confirmed, injury may have been caused by a bluefish",F,"Shark involvement not confirmed, injury may have been caused by a bluefish"
+1463,2006,USA,Body boarding,14,5' to 6' spinner or bull shark,F,5' to 6' spinner or bull shark
+1465,2006,USA,Spearfishing,28,"1.8 m blacktip ""reef"" shark",F,"1.8 m blacktip ""reef"" shark"
+1466,2006,USA,Spearfishing,35,"1.8 m blacktip ""reef"" shark",M,"1.8 m blacktip ""reef"" shark"
+1470,2006,USA,Surfing,22,Possibly a 1' to 3' blacktip or spinner shark,F,Possibly a 1' to 3' blacktip or spinner shark
+1473,2006,USA,Surfing,24,2' to 3' shark,M,2' to 3' shark
+1474,2006,USA,Playing,7,3' to 4' shark,F,3' to 4' shark
+1475,2006,AUSTRALIA,Surfing,40,14' white shark,M,14' white shark
+1476,2006,USA,Spearfishing,26,"Tiger shark, 8' to 12'",M,"Tiger shark, 8' to 12'"
+1479,2006,USA,Spearfishing,15,"Grey reef shark, 5' to 8' ",M,"Grey reef shark, 5' to 8' "
+1484,2006,AUSTRALIA,Snorkeling,46,"Wobbegong shark, 2 m ",M,"Wobbegong shark, 2 m "
+1488,2006,USA,Fishing,35,"Bull shark, 4' to bull shark",M,"Bull shark, 4' to bull shark"
+1489,2006,AUSTRALIA,Surfing,15,"Bronze whaler shark, a  juvenile ",M,"Bronze whaler shark, a  juvenile "
+1490,2006,SOUTH AFRICA,Body boarding,15,"Raggedtooth shark, 2.5 m to 3 m ",M,"Raggedtooth shark, 2.5 m to 3 m "
+1491,2006,BRAZIL,Swimming,35,Tiger shark,M,Tiger shark
+1494,2006,USA,Surfing,28,"Tiger shark, 10'  ",F,"Tiger shark, 10'  "
+1495,2006,SOUTH AFRICA,Swimming,17,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+1496,2006,FIJI,Surfing,21,"Tiger shark, 5' ",M,"Tiger shark, 5' "
+1497,2006,AUSTRALIA,Surfing,15,"Bronze whaler shark, 2 m",M,"Bronze whaler shark, 2 m"
+1498,2006,USA,Standing,15,5' to 7' shark,F,5' to 7' shark
+1499,2006,USA,Free diving,45,Invalid,M,Invalid
+1503,2006,SOUTH AFRICA,Surfing,15,Raggedtooth shark,M,Raggedtooth shark
+1504,2006,TONGA,Swimming,24,Tiger shark,F,Tiger shark
+1505,2006,USA,Kayaking,57,12' to 18' shark,M,12' to 18' shark
+1510,2006,AUSTRALIA,Scuba diving,52,3.5 m white shark,M,3.5 m white shark
+1512,2006,AUSTRALIA,Swimming,21,Bull shark,F,Bull shark
+1513,2006,USA,Surfing,21,4' shark,M,4' shark
+1514,2006,SOUTH AFRICA,Diving for crayfish,49,Said to involve a 1.5 m shark,M,Said to involve a 1.5 m shark
+1515,2005,USA,Surfing,30,White shark,M,White shark
+1516,2005,USA,Swimming,29,Tiger shark,M,Tiger shark
+1518,2005,AUSTRALIA,Spearfishing,44,Whitetip reef shark,M,Whitetip reef shark
+1521,2005,USA,Surfing,23,4' shark,M,4' shark
+1523,2005,AUSTRALIA,Surfing,18,1.8 m shark,M,1.8 m shark
+1529,2005,SOUTH AFRICA,Fishing for sharks,32,"Raggedtooth shark, 2.5m ",M,"Raggedtooth shark, 2.5m "
+1530,2005,USA,Surfing,18,6' shark,M,6' shark
+1532,2005,USA,Surfing,26,12' to 14' white shark,M,12' to 14' white shark
+1533,2005,USA,Wading,15,2' to 3' shark,M,2' to 3' shark
+1534,2005,ST. MAARTIN,Standing,55,2' shark,M,2' shark
+1535,2005,SOUTH AFRICA,Standing / Surfing,20,3 m shark,M,3 m shark
+1536,2005,USA,Surfing,36,White shark,M,White shark
+1537,2005,USA,Surfing,20,18' white shark,F,18' white shark
+1539,2005,USA,Surfing,22,"Tiger shark, less than 10'",M,"Tiger shark, less than 10'"
+1540,2005,GRAND CAYMAN,Scuba diving,57,Caribbean reef sharks,F,Caribbean reef sharks
+1543,2005,SOUTH AFRICA,Surf-skiing,52,White shark,M,White shark
+1544,2005,AUSTRALIA,Surfing,28,"Tiger shark, 3 m ",M,"Tiger shark, 3 m "
+1545,2005,AUSTRALIA,Surfing,26,14' to 16' white shark,M,14' to 16' white shark
+1546,2005,AUSTRALIA,Surfing,44,Bronze whaler shark,M,Bronze whaler shark
+1548,2005,USA,Body surfing,68,3' to 4' shark,F,3' to 4' shark
+1551,2005,USA,Wading,18,Bull shark,F,Bull shark
+1552,2005,AUSTRALIA,Surfing,40,4 m [13'] white shark,M,4 m [13'] white shark
+1554,2005,THAILAND,Removing shark from net,21,"2 m [6.75'] shark, 200-kg shark T",M,"2 m [6.75'] shark, 200-kg shark T"
+1555,2005,AUSTRALIA,Scuba diving,23,White shark,M,White shark
+1556,2005,USA,Surfing,37,juvenile white shark,M,juvenile white shark
+1557,2005,USA,"Boogie boarding, kicked at object in the water",17,Shark involvement not confirmed,M,Shark involvement not confirmed
+1558,2005,USA,Swimming,8,Possibly a sandbar shark or small blacktip shark,M,Possibly a sandbar shark or small blacktip shark
+1561,2005,USA,Surfing,16,1.8 m [6'] shark,M,1.8 m [6'] shark
+1566,2005,USA,Surfing,25,Shark involvement not confirmed,M,Shark involvement not confirmed
+1568,2005,CHINA,Scuba diving in aquarium tank,24,3.5 m [11.5']shark,M,3.5 m [11.5']shark
+1570,2005,USA,Swimming,22,[4.5' to 5'] shark,M,[4.5' to 5'] shark
+1571,2005,USA,Holding onto an inflatable boat,14,[4' to 5'],F,[4' to 5']
+1573,2005,USA,Fishing,16,Bull shark,M,Bull shark
+1574,2005,USA,Swimming with boogie board,14,1.8 m [6'] bull shark,F,1.8 m [6'] bull shark
+1575,2005,VANUATU,Swimming,7,"On 8/13/2005 anglers from New Zealand caught a 2.8 m [9'3""], 140-kg [309-lb] shark at the same spot. It was believed this was the same shark that killed Alysha",F,"On 8/13/2005 anglers from New Zealand caught a 2.8 m [9'3""], 140-kg [309-lb] shark at the same spot. It was believed this was the same shark that killed Alysha"
+1577,2005,USA,Swimming,49,Invalid,M,Invalid
+1578,2005,USA,Swimming,20,"Unknown, but it was reported that a shark tooth was recovered from the wound",M,"Unknown, but it was reported that a shark tooth was recovered from the wound"
+1579,2005,SOUTH KOREA,Diving,38,3 m [10'] white shark,F,3 m [10'] white shark
+1581,2005,USA,Surfing,17,"Mr. Burgess of ISAF announced the injury was the bite of a 1.8 m [6'], 2- to 3-year old white shark. Subsequent investigation revealed there was  no shark involvement in this incident",M,"Mr. Burgess of ISAF announced the injury was the bite of a 1.8 m [6'], 2- to 3-year old white shark. Subsequent investigation revealed there was  no shark involvement in this incident"
+1582,2005,SOUTH AFRICA,Spearfishing (Free diving),22,White shark,M,White shark
+1584,2005,USA,Swimming,33,"""small shark""",M,"""small shark"""
+1586,2005,SOUTH AFRICA,Surfing,32,Raggedtooth shark,M,Raggedtooth shark
+1591,2005,USA,Surfing,47,"Tiger shark, 3 m [10']",M,"Tiger shark, 3 m [10']"
+1592,2005,AUSTRALIA,Fishing,25,"Mako shark, 1.5 m [5'] ",M,"Mako shark, 1.5 m [5'] "
+1594,2005,AUSTRALIA,Spearfishing,20,2 m [6.75'] copper shark,M,2 m [6.75'] copper shark
+1595,2005,AUSTRALIA,Surfing,40,Bronze whaler shark,M,Bronze whaler shark
+1596,2005,USA,Wading,70,1.8 m [6'] blacktip shark,F,1.8 m [6'] blacktip shark
+1597,2005,USA,Surfing,52,Shark involvement not confirmed,M,Shark involvement not confirmed
+1601,2005,SOUTH AFRICA,Surfing,32,4 m [13'] shark,M,4 m [13'] shark
+1604,2005,AUSTRALIA,Snorkeling,26,6 m [20'] white shark,M,6 m [20'] white shark
+1605,2005,USA,Diving in aquarium display tank,45,"Sandtiger shark, 2.1 m [7'] ",M,"Sandtiger shark, 2.1 m [7'] "
+1609,2005,AUSTRALIA,Swimming,18,Bull shark,M,Bull shark
+1614,2005,CUBA,Swimming,19,3 m [10'] shark,M,3 m [10'] shark
+1617,2005,NEW ZEALAND,Fishing from a kayak,39,White shark,M,White shark
+1618,2004,SRI LANKA,"Swept out to sea by the tsunami, she clung  to a log for 24 hours",11,No shark involvement,F,No shark involvement
+1619,2004,AUSTRALIA,Scurfing (surfboard being  towed behind a boat),18,4.5 m & 5 m white shark ,M,4.5 m & 5 m white shark 
+1620,2004,AUSTRALIA,Spearfishing,38,Bull shark,M,Bull shark
+1621,2004,SOUTH AFRICA,Surfing,20,Raggedtooth shark,M,Raggedtooth shark
+1622,2004,SOUTH AFRICA,Playing,16,Raggedtooth shark,M,Raggedtooth shark
+1623,2004,SOUTH AFRICA,Swimming,77,6 m [20'] white shark,F,6 m [20'] white shark
+1624,2004,USA,Surfing,38,5.5 m [18'] white shark,lli,5.5 m [18'] white shark
+1627,2004,CUBA,Diving,40,2.5 m [8.25'] bull shark,M,2.5 m [8.25'] bull shark
+1629,2004,SOUTH AFRICA,Chumming for white sharks,52,2 m [6.75'] white shark,M,2 m [6.75'] white shark
+1630,2004,AUSTRALIA,Surfing,59,"Bronze whaler shark, 2.4 m [8'] ",M,"Bronze whaler shark, 2.4 m [8'] "
+1632,2004,USA,Spearfishing,34,"Tiger shark, 2.4 m to 3.7 m [8' to 12'] ",M,"Tiger shark, 2.4 m to 3.7 m [8' to 12'] "
+1633,2004,SOUTH AFRICA,Surfing,34,"Raggedtooth shark, 1.5 to 2 m [5' to 6.75']",M,"Raggedtooth shark, 1.5 to 2 m [5' to 6.75']"
+1634,2004,REUNION,Body boarding,15,Thought to involve a 2.5 m bull or tiger shark,M,Thought to involve a 2.5 m bull or tiger shark
+1638,2004,USA,Surfing,26,White shark,M,White shark
+1641,2004,USA,Jumping,17,2.4 m [8'] shark,F,2.4 m [8'] shark
+1643,2004,BRAZIL,Bathing,24,"Tiger shark, 1.5 m ",M,"Tiger shark, 1.5 m "
+1645,2004,USA,Diving,50,4.9 m to 5.5 m [16' to 18'] white shark,M,4.9 m to 5.5 m [16' to 18'] white shark
+1646,2004,USA,Swimming,47,1.2 m [4'] shark,M,1.2 m [4'] shark
+1652,2004,USA,Swimming,13,1.8 m [6'] shark,F,1.8 m [6'] shark
+1653,2004,USA,Swimming,19,1.2 m to 1.5 m [4' to 5'] shark,F,1.2 m to 1.5 m [4' to 5'] shark
+1654,2004,USA,Wading / fishing & carrying a bag of fish,11,Bull shark,M,Bull shark
+1656,2004,JAPAN,Fishing for squid aboard the trawler Shikishima-Maru when the shark leapt into the boat,51,"Longfin mako shark, 3.5 m [11.5'], 350-kg [772-lb] ",M,"Longfin mako shark, 3.5 m [11.5'], 350-kg [772-lb] "
+1657,2004,AUSTRALIA,Surfing,30,"2 sharks, 4.5 m & 3 m ",M,"2 sharks, 4.5 m & 3 m "
+1659,2004,USA,Wading,7,4' to 5' shark,M,4' to 5' shark
+1660,2004,USA,Surfing,45,"9'2"" white shark",M,"9'2"" white shark"
+1663,2004,AUSTRALIA,Body boarding,17,"Bronze whaler shark, 2.5 m [8.25'] ",M,"Bronze whaler shark, 2.5 m [8.25'] "
+1664,2004,USA,Swimming,8,1.2 m [4'] shark,M,1.2 m [4'] shark
+1665,2004,SOUTH AFRICA,"Swimming, poaching perlemoen",21,White shark,M,White shark
+1666,2004,USA,Wading,16,0.9 m to 1.5 m [3' to 5'] shark,M,0.9 m to 1.5 m [3' to 5'] shark
+1667,2004,BRAZIL,Swimming,17,Bull shark,M,Bull shark
+1668,2004,USA,Surfing,44,2.4 m to 3.7 m [8' to 12'] shark,M,2.4 m to 3.7 m [8' to 12'] shark
+1670,2004,USA,Swimming,9,Shark involvement not confirmed,M,Shark involvement not confirmed
+1673,2004,BAHAMAS,Free diving & spearfishing,63,"1,5 m [5'] Caribbean reef shark (Carcharhinus  perezi)",M,"1,5 m [5'] Caribbean reef shark (Carcharhinus  perezi)"
+1674,2004,USA,Tandem surfing,28,"Mako shark, 1.8 m [6']",M,"Mako shark, 1.8 m [6']"
+1680,2004,USA,Surfing,57,Tiger shark,M,Tiger shark
+1681,2004,SOUTH AFRICA,Surfing,16,5 m [16.5'] white shark,M,5 m [16.5'] white shark
+1682,2004,USA,Surfing,22,Shark involvement prior to death was not confirmed,F,Shark involvement prior to death was not confirmed
+1684,2004,USA,Surfing,20,1.2 m [4'] bull shark,M,1.2 m [4'] bull shark
+1685,2004,BRAZIL,Body boarding,22,bull shark,M,bull shark
+1687,2004,REUNION,Surfing,20,2.5 m shark,M,2.5 m shark
+1691,2004,USA,Surfing,51,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",M,"Tiger shark, 2.4 m to 3 m [8' to 10'] "
+1692,2004,AUSTRALIA,Spearfishing,47,"Bronze whaler shark, 1.5 m [5'] ",M,"Bronze whaler shark, 1.5 m [5'] "
+1694,2004,NEW ZEALAND,Surfing,15,2 m [6.75'] sevengill  shark,M,2 m [6.75'] sevengill  shark
+1696,2004,AUSTRALIA,Free diving & spearfishing,31,Shark involvement not confirmed,M,Shark involvement not confirmed
+1698,2004,AUSTRALIA,Snorkeling,22,"60 cm [23.6""] blind or brown shark",M,"60 cm [23.6""] blind or brown shark"
+1699,2004,AUSTRALIA,Scuba diving,46,4 m to 5 m [13' to 16.5'] white shark,M,4 m to 5 m [13' to 16.5'] white shark
+1700,2004,URUGUAY,Surfing,21,Possibily a  1.5 to 2 m sandtiger shark,M,Possibily a  1.5 to 2 m sandtiger shark
+1703,2004,VENEZUELA,Spearfishing,40,"Bull shark, 132-kg [291-lb] ",M,"Bull shark, 132-kg [291-lb] "
+1706,2004,SOUTH AFRICA,Surfing,22,Raggedtooth shark,M,Raggedtooth shark
+1711,2003,USA,Swimming,28,Questionable Incident,M,Questionable Incident
+1717,2003,SOUTH AFRICA,Spearfishing,21,"Tiger shark, 4 m [13']  ?",M,"Tiger shark, 4 m [13']  ?"
+1718,2003,USA,Surfing,35,4' shark,F,4' shark
+1719,2003,INDIA,Swimming or surfing,35,Tiger shark?,M,Tiger shark?
+1725,2003,USA,Surfing,18,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+1726,2003,AUSTRALIA,Surfing,22,"1.5 m [5'] shark, either a bronze whaler or a grey nurse shark",M,"1.5 m [5'] shark, either a bronze whaler or a grey nurse shark"
+1727,2003,USA,Surfing,13,"Tiger shark, 14' ",F,"Tiger shark, 14' "
+1729,2003,USA,Snorkeling,56,Shark involvement not confirmed,M,Shark involvement not confirmed
+1730,2003,USA,Surfing,19,1.2 m [4'] shark,M,1.2 m [4'] shark
+1736,2003,USA,Wading near a fishing net,41,"1.2 m [4'] ""grey-colored shark""",F,"1.2 m [4'] ""grey-colored shark"""
+1742,2003,USA,Surfing,30,3' shark,M,3' shark
+1745,2003,USA,Body boarding,18,6' shark,M,6' shark
+1746,2003,USA,"Standing, stepped on shark",15,7' shark,M,7' shark
+1747,2003,SOUTH AFRICA,Body boarding,19,White shark,M,White shark
+1750,2003,USA,"Swimming, wearing black wetsuit & swim fins",50,4.5 m to 5.5 m [15' to 18'] white shark,F,4.5 m to 5.5 m [15' to 18'] white shark
+1751,2003,USA,Swimming,31,Shark involvement not confirmed,M,Shark involvement not confirmed
+1752,2003,SOUTH AFRICA,Sitting on surfboard,16,3.5 m [11.5'] white shark,M,3.5 m [11.5'] white shark
+1756,2003,BAHAMAS,Spearfishing,58,Unidentified species,M,Unidentified species
+1757,2003,USA,"Walking, carrying surfboard & stepped on shark",10,2' shark,M,2' shark
+1758,2003,USA,Surfing,21,1.5 m to 1.8 m [5' to 6'] shark,M,1.5 m to 1.8 m [5' to 6'] shark
+1759,2003,BAHAMAS,Spearfishing,39,2.1 m  [7'] bull shark,M,2.1 m  [7'] bull shark
+1763,2003,USA,Surfing,17,Unidentified species,M,Unidentified species
+1764,2003,USA,Surfing,15,106 cm [3.5']  shark,M,106 cm [3.5']  shark
+1766,2003,USA,Standing,12,“small brown shark”,F,“small brown shark”
+1767,2003,USA,Swimming with pod of dolphins,60,3.7 m to 4.3 m [12' to 14'] shark,M,3.7 m to 4.3 m [12' to 14'] shark
+1768,2003,USA,Swimming,51,Unidentified species,M,Unidentified species
+1769,2003,USA,Surfing ,33,"""sand shark""",M,"""sand shark"""
+1771,2003,USA,Swimming,22,Shark involvement not confirmed,F,Shark involvement not confirmed
+1773,2003,USA,Wading,22,3' to 5' shark,M,3' to 5' shark
+1774,2003,USA,Swimming,20,1.8 m [6'] reef shark - or a 2.1 m to 2.4 m [7' to 8'] grey-colored shark,M,1.8 m [6'] reef shark - or a 2.1 m to 2.4 m [7' to 8'] grey-colored shark
+1775,2003,USA,Surfing,34,4' to 5' shark,M,4' to 5' shark
+1780,2003,BRAZIL,Surfing,17,Bull shark,M,Bull shark
+1782,2003,USA,Surfing,36,Unidentified species,M,Unidentified species
+1783,2003,USA,Surfing,17,Unidentified species,M,Unidentified species
+1784,2003,USA,Surfing,30,Unidentified species,M,Unidentified species
+1785,2003,USA,Surfing,23,0.9 m to 1.2 m [3' to 4'] shark,M,0.9 m to 1.2 m [3' to 4'] shark
+1786,2003,USA,Surfing,18,Unidentified species,M,Unidentified species
+1787,2003,USA,Jumping,11,A “small” shark,M,A “small” shark
+1788,2003,USA,Surfing,12,Unidentified species,M,Unidentified species
+1789,2003,USA,Swimming (using a float),20,"15 cm to 20 cm [6"" to 8""] bite diameter just below left knee",M,"15 cm to 20 cm [6"" to 8""] bite diameter just below left knee"
+1790,2003,VENEZUELA,Surfing,28,"Mako shark, 3 m [10']",M,"Mako shark, 3 m [10']"
+1792,2003,USA,Surfing,50,4' to 5' shark,M,4' to 5' shark
+1794,2003,NEW ZEALAND,Scuba diving,44,2.5 m [8.25'] white shark,M,2.5 m [8.25'] white shark
+1795,2003,AUSTRALIA,Wading,37,"""a small shark""",M,"""a small shark"""
+1796,2003,USA,Swimming,54,Species unidentified,M,Species unidentified
+1797,2003,AUSTRALIA,Swimming,24,Thought to involve a 2 m [6.75'] grey nurse shark,M,Thought to involve a 2 m [6.75'] grey nurse shark
+1798,2003,AUSTRALIA,Swimming,84,Thought to involve a >2 m [6.75'] bull shark,M,Thought to involve a >2 m [6.75'] bull shark
+1799,2003,SOUTH AFRICA,Unknown,14,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+1802,2002,AUSTRALIA,Snorkeling,18,Reported to involve a hammerhead shark,F,Reported to involve a hammerhead shark
+1803,2002,SOUTH AFRICA,Snorkeling,25,"White shark, 4 m white shark",M,"White shark, 4 m white shark"
+1804,2002,AUSTRALIA,Scuba diving,26,"Wobbegong shark, 1m",M,"Wobbegong shark, 1m"
+1805,2002,AUSTRALIA,Swimming,11,"Shark involvement not confirmed, injury may be due to a stingray",M,"Shark involvement not confirmed, injury may be due to a stingray"
+1806,2002,AUSTRALIA,Swimming,23,Bull shark,M,Bull shark
+1809,2002,USA,Body boarding,48,3 m to 4.5 m [10' to 15'] white shark,M,3 m to 4.5 m [10' to 15'] white shark
+1810,2002,USA,Swimming,34,2.4 m to 3 m [8' to 10'] grey colored shark,F,2.4 m to 3 m [8' to 10'] grey colored shark
+1811,2002,TURKS & CAICOS,Snorkeling,41,1.8 m to 2.1 m [6' to 7']  Caribbean Reef Shark ,F,1.8 m to 2.1 m [6' to 7']  Caribbean Reef Shark 
+1812,2002,USA,Surfing,21,6' shark,M,6' shark
+1813,2002,USA,Boogie boarding,16,3' to 4' shark,M,3' to 4' shark
+1815,2002,USA,Swimming,60,A “small” shark,F,A “small” shark
+1816,2002,BRAZIL,Swimming,36,Possibly a bull shark or tiger shark,M,Possibly a bull shark or tiger shark
+1818,2002,USA,Surfing,14,Blacktip or spinner shark,M,Blacktip or spinner shark
+1819,2002,USA,Surfing,35,3.5' to 4.5' shark,M,3.5' to 4.5' shark
+1820,2002,USA,Surfing,18,3.5' to 4' shark,M,3.5' to 4' shark
+1821,2002,USA,Surfing,47,4' to 5' shark,M,4' to 5' shark
+1823,2002,USA,Fishing from Surfboard,55,1.2 m [4'] blacktip shark,M,1.2 m [4'] blacktip shark
+1826,2002,USA,Boogie boarding or Surfing,24,2.4 m [8'] shark,M,2.4 m [8'] shark
+1827,2002,USA,Surfing,35,3 m to 3.7 m [10' to 12'] shark,M,3 m to 3.7 m [10' to 12'] shark
+1828,2002,BRAZIL,Swimming,19,Bull or tiger shark,M,Bull or tiger shark
+1830,2002,SOUTH AFRICA,Surf skiing,47,White shark,M,White shark
+1831,2002,USA,Boogie boarding,20,4' to 6' shark,M,4' to 6' shark
+1832,2002,USA,"Wading, when he stepped on the shark",36,1' to 2' hammerhead or bonnethed shark,M,1' to 2' hammerhead or bonnethed shark
+1833,2002,USA,Surfing,16,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",M,"Tiger shark, 2.4 m to 3 m [8' to 10'] "
+1835,2002,USA,Surfing,27,0.9 m  to 1.2 m [3' to 4'] shark,M,0.9 m  to 1.2 m [3' to 4'] shark
+1836,2002,USA,Surfing,15,"Nurse shark, 1.5 m [5'] ",M,"Nurse shark, 1.5 m [5'] "
+1838,2002,UNITED KINGDOM,Diving,30,"Sandtiger shark, 3 m [10'] ",M,"Sandtiger shark, 3 m [10'] "
+1839,2002,USA,Standing,14,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+1840,2002,USA,Surfing,13,1.2 m [4'] blacktip or sandbar shark,M,1.2 m [4'] blacktip or sandbar shark
+1841,2002,USA,Swimming,15,"Bull shark, 1.8 m to 2.1 m [6' to 7'] ",F,"Bull shark, 1.8 m to 2.1 m [6' to 7'] "
+1843,2002,USA,Shark Fishing,41,"Mako shark, 400-lb ",M,"Mako shark, 400-lb "
+1844,2002,BRAZIL,Surfing,22,Bull or tiger shark,M,Bull or tiger shark
+1845,2002,USA,Standing,9,"1.2 m to 1.5 m [4' to 5'] shark, possibly a bull shark",F,"1.2 m to 1.5 m [4' to 5'] shark, possibly a bull shark"
+1852,2002,USA,Surfing,28,0.9 m to 1.2 m [3' to 4'] shark; Tooth fragment recovered from hand,M,0.9 m to 1.2 m [3' to 4'] shark; Tooth fragment recovered from hand
+1853,2002,USA,Surfing,50,  ,M,  
+1855,2002,SOUTH AFRICA,Snorkeling (filming the sardine run),50,1.5 to 2.5 m [5' to 8.25'] copper shark,M,1.5 to 2.5 m [5' to 8.25'] copper shark
+1856,2002,USA,Surfing,24,3.7 m to 4.3 m [12' to 14'] white shark,M,3.7 m to 4.3 m [12' to 14'] white shark
+1857,2002,USA,Floating on a raft,16,1 m  shark,M,1 m  shark
+1858,2002,USA,"Fishing, removing the shark from his line",55,3' blacktip shark,M,3' blacktip shark
+1862,2002,USA,Fishing,31,2.1 m to 2.4 m [7' to 8'] shark,M,2.1 m to 2.4 m [7' to 8'] shark
+1865,2002,AUSTRALIA,Scallop diving (using surface-supplied air & a POD) ,23,"White shark, 6m [20']",M,"White shark, 6m [20']"
+1866,2002,AUSTRALIA,Fishing (Drowned 2-Apr-2002),52,Invalid,M,Invalid
+1867,2002,USA,"Surfing, but standing in water alongside board",34,1.2 m [4'] shark,M,1.2 m [4'] shark
+1870,2002,BAHAMAS,Standing,43,"Bull shark, 400-lb ",M,"Bull shark, 400-lb "
+1871,2002,USA,Wading,41,3'  shark,M,3'  shark
+1872,2002,USA,Swimming / Wading,29,0.9 m [3'] shark,M,0.9 m [3'] shark
+1873,2002,USA,Body-boarding,17,Tiger shark,M,Tiger shark
+1874,2002,USA,Wading,11,  ,F,  
+1876,2002,USA,Swimming /  boogie boarding,20,4' shark,M,4' shark
+1877,2002,USA,Snorkeling,39,"Nurse shark, 1m ",M,"Nurse shark, 1m "
+1878,2002,USA,Surfing,31,"Spinner shark, 3' to 4' ",M,"Spinner shark, 3' to 4' "
+1879,2002,NEW CALEDONIA,Spearfishing,44,Shark involvement prior to death unconfired,M,Shark involvement prior to death unconfired
+1883,2002,AUSTRALIA,Kayaking,35,C. leucas tooth fragment recovered from kayak,M,C. leucas tooth fragment recovered from kayak
+1884,2002,AUSTRALIA,Surfing,20,"Tiger shark, 3 m [10']",M,"Tiger shark, 3 m [10']"
+1886,2002,SOUTH AFRICA,Fishing,16,Zambesi shark?,M,Zambesi shark?
+1888,2002,SOUTH AFRICA,Surf skiing,26,Unidentified,M,Unidentified
+1889,2002,USA,Snorkeling,35,"Tiger shark, 1.8 m [6'] ",M,"Tiger shark, 1.8 m [6'] "
+1891,2001,AUSTRALIA,Surfing,49,Bronze whaler shark,M,Bronze whaler shark
+1895,2001,AUSTRALIA,Snorkeling,20,Bronze whaler shark?,F,Bronze whaler shark?
+1896,2001,MEXICO,Body surfing,26,"Tiger shark, 1.8 m [6']",M,"Tiger shark, 1.8 m [6']"
+1898,2001,USA,"Surfing, fell off surfboard & stepped on the shark.",21,4' shark,M,4' shark
+1900,2001,USA,Wreck / Technical diving,42,Questionable incident - shark bite may have precipitated drowning,M,Questionable incident - shark bite may have precipitated drowning
+1907,2001,USA,Swimming ,28,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,M,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.
+1908,2001,USA,Swimming,23,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,F,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.
+1909,2001,USA,Wading,20,1.5 m [5'] shark,M,1.5 m [5'] shark
+1910,2001,USA,Swimming ,10,bull shark,M,bull shark
+1911,2001,BAHAMAS,Spearfishing,44,3 m [10'] bull shark,M,3 m [10'] bull shark
+1916,2001,USA,Surfing,17,a small shark,M,a small shark
+1921,2001,USA,Surfing,20,Possibly  a blacktip or spinner shark,M,Possibly  a blacktip or spinner shark
+1922,2001,USA,Surfing,19,"3' shark, possibly  a blacktip or spinner shark",M,"3' shark, possibly  a blacktip or spinner shark"
+1923,2001,USA,Surfing,19,"Blacktip shark, 5' to 6' ",M,"Blacktip shark, 5' to 6' "
+1924,2001,BAHAMAS,Spearfishing,43,1.9 m [6.5'] bull shark,M,1.9 m [6.5'] bull shark
+1934,2001,USA,Boogie boarding,18,0.9 m  [3'] shark,M,0.9 m  [3'] shark
+1936,2001,USA,Swimming,8,"Bull shark, 2.3 m [7.5'] ",M,"Bull shark, 2.3 m [7.5'] "
+1939,2001,USA,Swimming,14,1.5 m [5'] shark,M,1.5 m [5'] shark
+1940,2001,USA,Spearfishing,52,"White shark, 2.4 m to 3 m [8' to 10'] ",M,"White shark, 2.4 m to 3 m [8' to 10'] "
+1941,2001,AUSTRALIA,Hiking on the beach,75,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+1942,2001,USA,Wading,29,2' shark,F,2' shark
+1944,2001,USA,Swimming,11,1.2 m to 1.5 m [4.5' to 5'] shark,M,1.2 m to 1.5 m [4.5' to 5'] shark
+1948,2001,SOUTH AFRICA,Surfing,26,"White shark, 2.7 m to 3 m [9' to 10'] ",M,"White shark, 2.7 m to 3 m [9' to 10'] "
+1950,2001,USA,Surfing,45,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+1954,2001,USA,Surfing,12,Possibly a juvenile blacktip or spinner shark,M,Possibly a juvenile blacktip or spinner shark
+1957,2001,USA,Surfing,21,Possibly a juvenile blacktip or spinner shark,M,Possibly a juvenile blacktip or spinner shark
+1958,2001,USA,Body boarding,12,Possibly a juvenile blacktip or spinner shark,M,Possibly a juvenile blacktip or spinner shark
+1959,2001,USA,Surfing,22,Possibly a 1.5 m [5'] blacktip or spinner shark,M,Possibly a 1.5 m [5'] blacktip or spinner shark
+1960,2001,USA,Surfing,19,Possibly a juvenile blacktip or spinner shark,M,Possibly a juvenile blacktip or spinner shark
+1964,2001,SOUTH AFRICA,Surfing,46,"White shark, 2.7 m [9'] ",M,"White shark, 2.7 m [9'] "
+1966,2001,USA,Standing alongside surfboard,26,"""small shark""",M,"""small shark"""
+1968,2001,AUSTRALIA,Surfing,40,Bronze whaler shark,M,Bronze whaler shark
+1971,2001,BRAZIL,Attempting to catch a crocodile,12,Shark involvement not confirmed,M,Shark involvement not confirmed
+1976,2001,AUSTRALIA,Surfing,40,"Bronze whaler shark, 2.5 m [8.25']  k",M,"Bronze whaler shark, 2.5 m [8.25']  k"
+1977,2001,AUSTRALIA,Kayaking,35,5 m shark,M,5 m shark
+1978,2001,CUBA,Swimming,55,2 m [6.75'] shark,F,2 m [6.75'] shark
+1983,2000,FIJI,Swimming back from anchored sailboat,47,6 m [20'] shark,M,6 m [20'] shark
+1985,2000,CANADA,Diving for sea urchins,30,"Porbeagle shark, 3 m [10']rk",M,"Porbeagle shark, 3 m [10']rk"
+1986,2000,AUSTRALIA,Spearfishing,38,"Bronze whaler shark, 2.5 m [8.25'] ",M,"Bronze whaler shark, 2.5 m [8.25'] "
+1988,2000,AUSTRALIA,Diving (shell maintenance),28,"Tiger shark, 4 m ",M,"Tiger shark, 4 m "
+1989,2000,AUSTRALIA,Shipwrecked,47,Shark involvement not confirmed,M,Shark involvement not confirmed
+1990,2000,USA,Swimming,73,1.2 m to 1.8 m [4' to 6'] shark,M,1.2 m to 1.8 m [4' to 6'] shark
+1991,2000,USA,Walking,27,Invalid,F,Invalid
+1992,2000,AUSTRALIA,Swimming,52,"White shark, 4.9 m [16'] ",M,"White shark, 4.9 m [16'] "
+1993,2000,AUSTRALIA,Swimming,49,"White shark, 5 m [16.5'] ",M,"White shark, 5 m [16.5'] "
+1994,2000,USA,Surfing,27,"White shark, 2.4 m to 3 m [8' to 10'] ",M,"White shark, 2.4 m to 3 m [8' to 10'] "
+1997,2000,USA,Swimming / snorkeling,56,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",F,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] "
+1999,2000,USA,Surfing,17,2.1 to 2.4 m [7' to 8'] shark,M,2.1 to 2.4 m [7' to 8'] shark
+2000,2000,USA,Surfing,23,"Blacktip shark, 2' ",M,"Blacktip shark, 2' "
+2004,2000,AUSTRALIA,Surfing,17,White shark,M,White shark
+2005,2000,AUSTRALIA,Surfing,25,"White shark, 4 m to 5 m [13' to 16.5'] ",M,"White shark, 4 m to 5 m [13' to 16.5'] "
+2006,2000,AUSTRALIA,Fell onto dead shark,12,100-kg [221-lb] dead blue shark,M,100-kg [221-lb] dead blue shark
+2007,2000,OKINAWA,Surfing,31,"White shark, 2.5 m ",M,"White shark, 2.5 m "
+2011,2000,USA,Swimming / Body surfing,25,60 cm to 90 cm [2' to 3'] shark,M,60 cm to 90 cm [2' to 3'] shark
+2013,2000,SOUTH AFRICA,Free diving,48,"White shark, 3.5 m [11.5']  male ",M,"White shark, 3.5 m [11.5']  male "
+2014,2000,TANZANIA,Swimming,28,Thought to involve a Zambesi shark,M,Thought to involve a Zambesi shark
+2015,2000,USA,Wading,40,1.5 m [5'] shark,M,1.5 m [5'] shark
+2016,2000,REUNION,Surfing,27,"Tiger shark, 3 m [10'] ",M,"Tiger shark, 3 m [10'] "
+2018,2000,USA,Swimming,47,A 2' shark was seen in the area by witnesses,M,A 2' shark was seen in the area by witnesses
+2019,2000,USA,Jumped into the water,69,"Thought to involve a 2.7 m [9'], 400-lb bull shark",M,"Thought to involve a 2.7 m [9'], 400-lb bull shark"
+2022,2000,USA,"Windsurfing, but sitting on his board",53,"Tiger shark, 3.7 m to 4.5 m [12' to 14'9""]  ",M,"Tiger shark, 3.7 m to 4.5 m [12' to 14'9""]  "
+2023,2000,USA,Surfing / Wading,27,juvenile shark,M,juvenile shark
+2024,2000,USA,Standing,44,"Blacktip shark, 2.4 m to 3 m [8' to 10'] ",F,"Blacktip shark, 2.4 m to 3 m [8' to 10'] "
+2029,2000,USA,Snorkeling,45,"Nurse shark, 1.5 m [5']",F,"Nurse shark, 1.5 m [5']"
+2031,2000,USA,Surfing,14,1.8 m [6'] grey-colored shark,M,1.8 m [6'] grey-colored shark
+2035,2000, TONGA,Scuba diving,69,"Grey reef shark, 2 m [6.75'] ",M,"Grey reef shark, 2 m [6.75'] "
+2038,2000,USA,Jumping,5,"Lemon shark, 2.1  m to 2.4 m [7' to 8'] ",M,"Lemon shark, 2.1  m to 2.4 m [7' to 8'] "
+2039,2000,USA,Playing,12,"Tiger shark, 0.9 m to 1.5 m [3' to 5'] ?",F,"Tiger shark, 0.9 m to 1.5 m [3' to 5'] ?"
+2041,2000,USA,"Spearfishing, holding mesh bag with speared fish",55,"Nurse shark, 1.2 m [4'] ",F,"Nurse shark, 1.2 m [4'] "
+2042,2000,USA,Wading,13,0.9 m [3'] shark,F,0.9 m [3'] shark
+2043,2000,USA,Standing,19,"0.9 m [3'] shark,  probably a blacktip or spinner shark",F,"0.9 m [3'] shark,  probably a blacktip or spinner shark"
+2049,2000,USA,Surfing,17,"Blacktip shark, 1.2 m to 1.8 m [4' to 6'] ",M,"Blacktip shark, 1.2 m to 1.8 m [4' to 6'] "
+2050,2000,USA,Swimming,55,Bull shark?,M,Bull shark?
+2051,2000,USA,Swimming ,44,Bull shark,M,Bull shark
+2061,2000,AUSTRALIA,Swimming,26,2.5 m shark,M,2.5 m shark
+2062,2000,USA,Boogie boarding,14,1.8 m [6'] shark,F,1.8 m [6'] shark
+2063,2000,USA,Surfing,37,1.2 m [4'] shark,M,1.2 m [4'] shark
+2064,2000,NEW CALEDONIA,Spearfishing,35,Tiger shark?,M,Tiger shark?
+2068,2000,NEW ZEALAND,Kayaking,27,Shark involvement  questionable,M,Shark involvement  questionable
+2070,2000,USA,Spearfishing,39,"Shortfin mako shark, 3 m to 3.4 m [10' to 11'] ",M,"Shortfin mako shark, 3 m to 3.4 m [10' to 11'] "
+2075,2000,AUSTRALIA,Surfing,26,3 m [10'] shark,M,3 m [10'] shark
+2079,1999,NEW ZEALAND,Surfing,15,Sevengill shark,M,Sevengill shark
+2080,1999,NEW ZEALAND,Swimming,13,Sevengill shark,F,Sevengill shark
+2081,1999,NEW ZEALAND,Bathing,12,Sevengill shark,F,Sevengill shark
+2082,1999,BRAZIL,Surfing,18,"Thought to involve a white, bull or tiger shark",M,"Thought to involve a white, bull or tiger shark"
+2084,1999,BRAZIL,Spearfishing,39,Shark involvement not confirmed,M,Shark involvement not confirmed
+2087,1999,USA,Swimming,51,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",F,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] "
+2089,1999,SOUTH AFRICA,Surfing,35,"White shark, 3 m [10'] ",M,"White shark, 3 m [10'] "
+2090,1999,BRAZIL,"Spearfishing, but swimming at surface",39,1.3 to 1.6 m shark,M,1.3 to 1.6 m shark
+2091,1999,MARSHALL ISLANDS,Swimming,12,"Grey reef shark, 1.2 m [4'] ",M,"Grey reef shark, 1.2 m [4'] "
+2092,1999,MARSHALL ISLANDS,Swimming,12,"Grey reef shark, 1.2 m [4'] ",M,"Grey reef shark, 1.2 m [4'] "
+2096,1999,USA,"Surfing, lying on surfboard",16,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",M,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] "
+2099,1999,USA,Kayaking,37,White shark,M,White shark
+2100,1999,USA,Wading,61,Unidentified,F,Unidentified
+2102,1999,USA,Surfing,13,1.5 m to 1.8 m [5' to 6'] shark,M,1.5 m to 1.8 m [5' to 6'] shark
+2103,1999,USA,Wading,7,0.9 m [3'] shark,M,0.9 m [3'] shark
+2105,1999,USA,Surfing,28,"""a small shark""",M,"""a small shark"""
+2107,1999,MARSHALL ISLANDS,Fishing,23,7' shark,M,7' shark
+2109,1999,USA,Lying prone in 2' of water,10,1.8 m [6'] shark,M,1.8 m [6'] shark
+2110,1999,USA,Body surfing,62,4' to 5' shark,M,4' to 5' shark
+2111,1999,BAHAMAS,Spearfishing & holding catch,35,2.7 m [9']  bull shark or Caribbean reef shark,M,2.7 m [9']  bull shark or Caribbean reef shark
+2112,1999,SOUTH AFRICA,Surfing,42,"White shark, 3 m to 5 m [10' to 16.5'] ",M,"White shark, 3 m to 5 m [10' to 16.5'] "
+2113,1999,USA,Swimming with dolphins,43,"Bull shark, 2.1 m [7']",M,"Bull shark, 2.1 m [7']"
+2114,1999,USA,Surfing,43,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",M,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] "
+2115,1999,SOUTH AFRICA,Boogie boarding,14,White shark,M,White shark
+2117,1999,USA,Wading in school of baitfish,30,"Blacktip shark, 1.8 m [6'] ",F,"Blacktip shark, 1.8 m [6'] "
+2118,1999,SOUTH AFRICA,Surfing,29,"White shark, 4 m [13'] ",M,"White shark, 4 m [13'] "
+2119,1999,USA,Adrift in a life jacket,20,1.2 m [4'] shark,M,1.2 m [4'] shark
+2120,1999,USA,Surfing,21,3' to 4' shark,M,3' to 4' shark
+2122,1999,USA,Splashing / wading,5,Blacktip or spinner shark,M,Blacktip or spinner shark
+2123,1999,AUSTRALIA,Windsurfing,22,Thought to involve a white shark,M,Thought to involve a white shark
+2124,1999,BRAZIL,Surfing,21,"Tiger shark, 2.5 m [8.25']",M,"Tiger shark, 2.5 m [8.25']"
+2125,1999,MAURITIUS,Swimming,41,"Grey reef shark, 1.5 m ",F,"Grey reef shark, 1.5 m "
+2126,1999,REUNION,Swimming after being swept into sea by a large wave,52,3 bull sharks,M,3 bull sharks
+2132,1999,NEW ZEALAND,Fishing,28,"Mako shark, 1.3 m gaffed ",M,"Mako shark, 1.3 m gaffed "
+2134,1999,USA,Swimming near pod of whales,29,3.7 m to 4.6 m [12' to 15'] shark seen in the vicinity,F,3.7 m to 4.6 m [12' to 15'] shark seen in the vicinity
+2136,1999,AUSTRALIA,Surfing,35,Bronze whaler or tiger shark,M,Bronze whaler or tiger shark
+2137,1999,USA,Surfing,25,Spinner shark,M,Spinner shark
+2138,1999,MAURITIUS,Spearfishing,47,Bull shark,M,Bull shark
+2141,1999,AUSTRALIA,Fishing,37,Shark involvement not confirmed,F,Shark involvement not confirmed
+2143,1999,SOUTH AFRICA,Spearfishing,30,"White shark, 4.6 m [15'] ",M,"White shark, 4.6 m [15'] "
+2147,1998,SOUTH AFRICA,Surfing,18,Possibly a white shark,M,Possibly a white shark
+2150,1998,USA,Swimming,9,Tiger shark,M,Tiger shark
+2151,1998,USA,Surfing,14,1.2 m [4'] shark,M,1.2 m [4'] shark
+2152,1998,USA,Walking,13,"A ""small shark""",M,"A ""small shark"""
+2153,1998,USA,Surfing,32,"White shark, 5 m  to 6 m [16.5' to 20'] ",M,"White shark, 5 m  to 6 m [16.5' to 20'] "
+2154,1998,JAPAN,Fishing for tuna,52,6' shark,M,6' shark
+2155,1998,BRAZIL,Surfing,22,Though to involve a white shark,M,Though to involve a white shark
+2165,1998,USA,Surfing,28,1.8 m [6'] shark,M,1.8 m [6'] shark
+2166,1998,SENEGAL,Spearfishing,25,1.5 m shark,M,1.5 m shark
+2167,1998,USA,Surfing,26,3' to 4' shark,M,3' to 4' shark
+2169,1998,USA,Boogie boarding,16,"White shark, 5 m to 6 m [16.5' to 20'] ",M,"White shark, 5 m to 6 m [16.5' to 20'] "
+2171,1998,BAHAMAS,Spearfishing,28,"Caribbean reef shark, 1.2 m to 1.5 m [4' to 5'] ",M,"Caribbean reef shark, 1.2 m to 1.5 m [4' to 5'] "
+2172,1998,USA,Body-boarding,11,4.5' to 5' shark,M,4.5' to 5' shark
+2174,1998,SOUTH AFRICA,Surfing (or body boarding),19,"White shark, 4 m [13'] ",M,"White shark, 4 m [13'] "
+2175,1998,SOUTH AFRICA,Spearfishing,24,"White shark, 4.9 m [16']",M,"White shark, 4.9 m [16']"
+2178,1998,SOUTH AFRICA,Wading,47,"Raggedtooth shark, 1.2 m [4'] ",M,"Raggedtooth shark, 1.2 m [4'] "
+2179,1998,SOUTH AFRICA,Surfing,16,5' to 6' shark,M,5' to 6' shark
+2180,1998,SOUTH AFRICA,Surfing,10,"Raggedtooth shark, 1.2 m [4'] ",M,"Raggedtooth shark, 1.2 m [4'] "
+2181,1998,AUSTRALIA,Free diving for abalone,26,Thought to involve a 5.5 m white shark named Kong,M,Thought to involve a 5.5 m white shark named Kong
+2182,1998,SOUTH AFRICA,Body Boarding,20,White shark,M,White shark
+2186,1998,SOUTH AFRICA,Body boarding,15,3 m to 4 m [10' to 13'] white shark,M,3 m to 4 m [10' to 13'] white shark
+2187,1998,SOUTH AFRICA,Body boarding,16,Unidentified,M,Unidentified
+2188,1998,USA,Surfing,40,"Lemon shark, 1.5 m [5'], identified  by the surfer",M,"Lemon shark, 1.5 m [5'], identified  by the surfer"
+2189,1998,USA,Swimming,14,"1.8 m [6'] shark, possibly a blacktip",F,"1.8 m [6'] shark, possibly a blacktip"
+2191,1998,SOUTH AFRICA,Body boarding,22,4 m [13'] white shark,M,4 m [13'] white shark
+2192,1998,MOZAMBIQUE,Towing rubber dinghy,35,3 m [10'] shark,F,3 m [10'] shark
+2193,1998,USA,Surfing (lying prone on his board),50,5 m [16.5'] white shark,M,5 m [16.5'] white shark
+2194,1998,USA,Scuba diving,16,"Nurse shark, 0.9 m [3'] ",M,"Nurse shark, 0.9 m [3'] "
+2198,1998,SOUTH AFRICA,Snorkeling – hunting crayfish and abalone,33,3 m [10'] white shark,M,3 m [10'] white shark
+2199,1998,USA,Swimming or paddle boarding,32,5' spinner shark,M,5' spinner shark
+2201,1998,AUSTRALIA,Spearfishing,31,Shark involvement not confirmed,M,Shark involvement not confirmed
+2206,1998,MOZAMBIQUE,Surfing,23,Small dusky shark or blackfin shark,M,Small dusky shark or blackfin shark
+2210,1997,SOUTH AFRICA,Spearfishing,39,White shark,M,White shark
+2214,1997,AUSTRALIA,Scuba diving (submerged riding a scooter),42,White shark,M,White shark
+2216,1997,AUSTRALIA,Unknown,21,Shark involvement prior to death suspected but not confirmed,M,Shark involvement prior to death suspected but not confirmed
+2217,1997,AUSTRALIA,Surf-skiing,51,5.5 m [18'] white shark,M,5.5 m [18'] white shark
+2218,1997,USA,Body boarding or surfing,19,"Tiger shark, 4 m to 4.3 m [13' to 14'] ",M,"Tiger shark, 4 m to 4.3 m [13' to 14'] "
+2219,1997,USA,Surfing,23,Possibly a blacktip shark,M,Possibly a blacktip shark
+2220,1997,USA,Surfing,12,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+2229,1997,USA,Surfing (sitting on his board),29,5 m [16.5'] white shark,M,5 m [16.5'] white shark
+2230,1997,MEXICO,SCUBA diving,28,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+2231,1997,MEXICO,SCUBA diving,33,"Tiger shark, 5.2 m [17']",M,"Tiger shark, 5.2 m [17']"
+2234,1997,EGYPT,Fishing,16,Thought to involve an oceanic whitetip shark or a white shark,M,Thought to involve an oceanic whitetip shark or a white shark
+2237,1997,USA,Wading,10,1 m shark,F,1 m shark
+2239,1997,USA,Body surfing,17,juvenile shark,M,juvenile shark
+2240,1997,USA,Wading / Surfing,19,"""juvenile shark""",M,"""juvenile shark"""
+2242,1997,SOUTH AFRICA,Surfing,25,4.5 m white shark,M,4.5 m white shark
+2244,1997,USA,Standing,50,Blacktip shark,M,Blacktip shark
+2245,1997,OKINAWA,Fishing for octopus,55,White shark,M,White shark
+2248,1997,FIJI,Snorkeling,47,"Tiger shark, 2.7m  [9']",F,"Tiger shark, 2.7m  [9']"
+2249,1997,USA,Surfing,18,Possibly a spinner shark,M,Possibly a spinner shark
+2251,1997,USA,"Body surfing, stood up on sandbar",33,1.2 m [4'] shark (spinner shark?),M,1.2 m [4'] shark (spinner shark?)
+2252,1997,USA,Spearfishing,35,4' shark,M,4' shark
+2253,1997,USA,Surfing,34,Possibly a sand shark,M,Possibly a sand shark
+2254,1997,USA,Surfing,12,Possibly a sand shark,M,Possibly a sand shark
+2255,1997,BAHAMAS,Spearfishing,54,Possibly a Caribbean reef shark,M,Possibly a Caribbean reef shark
+2257,1997,BRAZIL,Windsurfing,22,3.7m  to 4.2 m white shark,M,3.7m  to 4.2 m white shark
+2258,1997,AUSTRALIA,Swimming,21,a small shark,F,a small shark
+2259,1997,AUSTRALIA,Scuba diving,30,"Tiger shark, 2m to 3m ",M,"Tiger shark, 2m to 3m "
+2263,1997,AUSTRALIA,Snorkeling,27,1.8 m to 2.1 m [6' to 7'] shark,M,1.8 m to 2.1 m [6' to 7'] shark
+2264,1997,AUSTRALIA,Windsurfing,41,"Tiger shark, 4.5 m [14'9""]",M,"Tiger shark, 4.5 m [14'9""]"
+2271,1996,USA,Surfing,45,3 m to 5 m [10' to 16.5'] white shark,M,3 m to 5 m [10' to 16.5'] white shark
+2276,1996,USA,Surfing,22,5.5 m to 6 m [18' to 20'] white shark,M,5.5 m to 6 m [18' to 20'] white shark
+2277,1996,USA,Surfing,21,1.2 m [4'] shark,M,1.2 m [4'] shark
+2278,1996,USA,Surfing,31,5 m [16.5'] white shark,M,5 m [16.5'] white shark
+2281,1996,NEW ZEALAND,Diving for abalone,23,White shark,M,White shark
+2282,1996,USA,Surfing / Swimming,19,"""a young shark""",M,"""a young shark"""
+2285,1996,USA,Boogie boarding,28,Shark involvement not confirmed,F,Shark involvement not confirmed
+2286,1996,SOUTH AFRICA,Spearfishing,29,White shark,M,White shark
+2287,1996,USA,Body Boarding,19,"Tiger shark, 2.4 m [8'] ",M,"Tiger shark, 2.4 m [8'] "
+2288,1996,USA,Free diving for abalone,36,6 m [20'] white shark,M,6 m [20'] white shark
+2289,1996,USA,Wade fishing,21,1.8 m to 2.1 m [6' to 7'] hammerhead shark,M,1.8 m to 2.1 m [6' to 7'] hammerhead shark
+2291,1996,OKINAWA,Swimming,52,5 m [16.5'] white shark,M,5 m [16.5'] white shark
+2293,1996,USA,Swimming,46,6' shark,M,6' shark
+2297,1996,USA,Standing,63,5' to 6' shark,F,5' to 6' shark
+2302,1996,SOUTH AFRICA,Surfing,17,2.5 m [8.25'] white shark ,M,2.5 m [8.25'] white shark 
+2303,1996,AUSTRALIA,Tech diving ,45,Shark involvement prior to death suspected but not confirmed,M,Shark involvement prior to death suspected but not confirmed
+2304,1996,USA,Surfing,22,1.2 m [4'] shark,M,1.2 m [4'] shark
+2306,1996,USA,Surfing,27,60 cm to 90 cm [2' to 3'] blacktip or spinner shark,M,60 cm to 90 cm [2' to 3'] blacktip or spinner shark
+2308,1996,AUSTRALIA,Swimming,11,Wobbegong shark,M,Wobbegong shark
+2309,1996,AUSTRALIA,Swimming,16,Wobbegong shark,F,Wobbegong shark
+2311,1996,AUSTRALIA,Swimming breast stoke,47,Tiger shark,F,Tiger shark
+2312,1996,AUSTRALIA,Fishing in knee-deep water,7,1.5 m [5'] shark,M,1.5 m [5'] shark
+2313,1996,AUSTRALIA,Dived naked into the water on a bet,24,Bronze whaler shark,M,Bronze whaler shark
+2314,1996,USA,Swimming in fish tank,32,nurse shark,F,nurse shark
+2319,1996,AUSTRALIA,Swimming,7,"""reef shark""",M,"""reef shark"""
+2320,1996,USA,Wading,33,"Nurse shark, 0.9 m  [3'] ",M,"Nurse shark, 0.9 m  [3'] "
+2321,1996,AUSTRALIA,Swimming,13,Bronze whaler shark,F,Bronze whaler shark
+2322,1996,USA,Swimming with mask & snorkel,53,Possibly a tiger shark,M,Possibly a tiger shark
+2325,1996,REUNION,Surfing,25,"Tiger shark, 300-kg [662-lb] ",M,"Tiger shark, 300-kg [662-lb] "
+2329,1995,NEW ZEALAND,"Diving, gathering shellfish",22,5 m [16.5'] white shark,M,5 m [16.5'] white shark
+2335,1995,AUSTRALIA,Playing / standing,15,4 m shark,F,4 m shark
+2336,1995,USA,Surfing,39,1.2 m to 1.5 m [4' to 5']   shark,M,1.2 m to 1.5 m [4' to 5']   shark
+2337,1995,USA,Surfing,14,1.5 to 1.8 m [5' to 6'] shark,M,1.5 to 1.8 m [5' to 6'] shark
+2339,1995,USA,Windsurfing,25,4 m [13'] white shark,M,4 m [13'] white shark
+2340,1995,USA,Surfing,19,1.8 m [6'] shark,M,1.8 m [6'] shark
+2343,1995,USA,Scuba diving,25,3 m to 3.7 m [10' to 12'] bull shark,M,3 m to 3.7 m [10' to 12'] bull shark
+2344,1995,AUSTRALIA,Abalone diving using Hookah (near calving whales),29,White shark,M,White shark
+2345,1995,USA,Abalone diving using Hookah (resting on the surface),32,3 m to 4 m [10' to 13'] white shark,M,3 m to 4 m [10' to 13'] white shark
+2346,1995,USA,Swimming,9,Shark involvement not confirmed,M,Shark involvement not confirmed
+2347,1995,USA,Surfing,19,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+2350,1995,USA,Surfing,16,5' shark,M,5' shark
+2351,1995,USA,Surfing,18,"""a small shark""",M,"""a small shark"""
+2352,1995,USA,Swimming,16,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+2353,1995,USA,Swimming ,23,"""sand"" shark",M,"""sand"" shark"
+2354,1995,USA,Surfing,19,"""small shark""",M,"""small shark"""
+2356,1995,TONGA,Fishing,18,"""small shark""",M,"""small shark"""
+2357,1995,USA,Wading,20,1.8 m [6'] shark,M,1.8 m [6'] shark
+2358,1995,USA,Swimming,15,Invalid,M,Invalid
+2360,1995,USA,"""Riding waves on a board""",14,Blacktip shark,F,Blacktip shark
+2361,1995,USA,Body boarding,12,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+2374,1995,USA,Fishing,32,Blacktip shark,F,Blacktip shark
+2376,1995,USA,Scuba diving (ascending using scooter),31,6 m [20'] white shark,M,6 m [20'] white shark
+2378,1995,USA,Playing / jumping,13,"""sand"" shark",M,"""sand"" shark"
+2380,1995,USA,Swimming,45,1.8 m [6'] shark,M,1.8 m [6'] shark
+2381,1995,USA,Swimming,10,6' shark,F,6' shark
+2382,1995,USA,Swimming,38,"Tiger shark, 3.7 m [12'] ",M,"Tiger shark, 3.7 m [12'] "
+2383,1995,HONG KONG,Swimming,45,Though to involve a tiger shark,F,Though to involve a tiger shark
+2384,1995,HONG KONG,Swimming,29,1.8 m to 2.1 m [6' to 7'] shark,M,1.8 m to 2.1 m [6' to 7'] shark
+2386,1995,USA,Surfing,15,Possibly a bull shark,M,Possibly a bull shark
+2387,1995,FIJI,Sleeping in anchored boat,69,3.7 m [12'] shark,M,3.7 m [12'] shark
+2389,1995,SOUTH KOREA,Diving for abalone,44,4 m shark,F,4 m shark
+2393,1995,JAPAN,Scuba diving for bivalves,47,6 m [20'] white shark,M,6 m [20'] white shark
+2395,1995,AUSTRALIA,Surfing,35,"Bronze whaler shark, 2 m ",M,"Bronze whaler shark, 2 m "
+2397,1995,SOUTH AFRICA,Swimming,22,Raggedtooth shark,M,Raggedtooth shark
+2399,1995,SOUTH AFRICA,Swimming,14,"Tiger shark, 1.8 m [6'] ",M,"Tiger shark, 1.8 m [6'] "
+2400,1995,BRAZIL,Surfing,17, ,M, 
+2401,1995,SOUTH AFRICA,Diving,33,Shark involvement not confirmed,M,Shark involvement not confirmed
+2405,1994,SOUTH AFRICA,Body boarding,26,5.5 m [18'] white shark,M,5.5 m [18'] white shark
+2410,1994,AUSTRALIA,Murder victim,44,Invalid,M,Invalid
+2411,1994,USA,Commercial diver (submerged or treading water),42,5 m to 5.5 m [16.5' to 18'] white shark,M,5 m to 5.5 m [16.5' to 18'] white shark
+2414,1994,USA,"Surfing, paddling seawards",34,2.7 m [9'] shark,F,2.7 m [9'] shark
+2418,1994,USA,Wading,9,Thought to involve a small sand shark,F,Thought to involve a small sand shark
+2421,1994,USA,Surfing,43,5 m [16.5'] white shark,M,5 m [16.5'] white shark
+2423,1994,USA,Jumped off rocks into white water,12,Small shark,F,Small shark
+2427,1994,REUNION,Windsurfing,24,3 to 3.5 m [10' to 11.5'] bull shark,M,3 to 3.5 m [10' to 11.5'] bull shark
+2428,1994,SOUTH AFRICA,Surfing,22,4 m [13'] white shark,M,4 m [13'] white shark
+2429,1994,SOUTH AFRICA,Surfing,31,4 m [13'] white shark,M,4 m [13'] white shark
+2431,1994,USA,Surfing,15,"""small shark""",M,"""small shark"""
+2432,1994,BAHAMAS,Spearfishing,30,1.8 m [6'] shark,M,1.8 m [6'] shark
+2434,1994,USA,Surfing,28,1.2 m [4'] spinner shark,M,1.2 m [4'] spinner shark
+2435,1994,USA,Spearfishing,35,2.1 m [7'] shark,M,2.1 m [7'] shark
+2436,1994,USA,Wading,36,1.2 m [4'] shark,F,1.2 m [4'] shark
+2438,1994,USA,Surfing,22,>1.8 m [6'] shark,M,>1.8 m [6'] shark
+2444,1994,CHILE,Swimming alongside NOAA research vessel Discoverer,19,"3.6 m [11'9""] white shark",F,"3.6 m [11'9""] white shark"
+2446,1994,USA,Removing shark from tank in nightclub ,33,"Lemon shark, 4' ",M,"Lemon shark, 4' "
+2447,1994,BRAZIL,Surfing,25,2 m shark,M,2 m shark
+2449,1994,USA,Surfing,23,1.2 m [4'] shark,M,1.2 m [4'] shark
+2451,1994,SOUTH AFRICA,Surfing,15,3 m [10'] white shark,M,3 m [10'] white shark
+2457,1994,AUSTRALIA,"Swimming, after falling off towed kneeboard",23,1.5 m shark,M,1.5 m shark
+2458,1994,SOUTH AFRICA,Swimming ,33,"1.3 m [4'3""] shark",M,"1.3 m [4'3""] shark"
+2463,1993,AUSTRALIA,Hookah diving,27,Tiger shark caught 6 days later with diver’s remains in its gut,M,Tiger shark caught 6 days later with diver’s remains in its gut
+2466,1993,USA,Surfing,26,4 m to 5 m [13' to 16.5'] white shark,M,4 m to 5 m [13' to 16.5'] white shark
+2467,1993,USA,Swimming,26,3 m [10'] bull shark,F,3 m [10'] bull shark
+2468,1993,USA,Kayaking,34,>6 m [20'] white shark,F,>6 m [20'] white shark
+2471,1993,SOUTH AFRICA,Spearfishing,36,3 m [10'] white shark,M,3 m [10'] white shark
+2474,1993,USA,Wading,19,3' shark,M,3' shark
+2476,1993,SPAIN,Swimming,69,1.2 m [4'] shark,M,1.2 m [4'] shark
+2477,1993,BAHAMAS,Spearfishing,51,1.8 m [6'] blacktip shark or Caribbean reef shark,M,1.8 m [6'] blacktip shark or Caribbean reef shark
+2481,1993,USA,Riding floatation device,19,Bull shark,F,Bull shark
+2483,1993,USA,Free diving for abalone (ascending),39,5.5 m to 6 m [18' to 20']  white shark,M,5.5 m to 6 m [18' to 20']  white shark
+2486,1993,SOUTH AFRICA,Surfing,28,4 m [13'] white shark,M,4 m [13'] white shark
+2487,1993,USA,Playing,12,"1.8 m to 2.4 m [6' to 8'] shark, tooth fragments recovered ",F,"1.8 m to 2.4 m [6' to 8'] shark, tooth fragments recovered "
+2492,1993,USA,Paddling on surfboard or body board,22,Thought to involve a tiger shark,M,Thought to involve a tiger shark
+2493,1993,AUSTRALIA,Scuba diving,31,Remains recovered from 5.5 m [18'] white shark,M,Remains recovered from 5.5 m [18'] white shark
+2494,1993,AUSTRALIA,Scuba diving at seal colony,34,5 m [16.5'] white shark,F,5 m [16.5'] white shark
+2499,1993,AUSTRALIA,Spearfishing,32,Invalid,M,Invalid
+2503,1993,USA,Paddling on surfboard,35,"Tiger shark, 3.7 m [12'], (tooth fragment recovered from wound)",M,"Tiger shark, 3.7 m [12'], (tooth fragment recovered from wound)"
+2504,1993,USA,Free diving & spearfishing (ascending),55,White shark,M,White shark
+2508,1993,AUSTRALIA,Fishing,69,"Bronze whaler shark, 1.5 m ",M,"Bronze whaler shark, 1.5 m "
+2510,1993,AUSTRALIA,Spearfishing,21,1.5 m shark,M,1.5 m shark
+2512,1993,USA,Surfing,29,6 m [20'] white shark,M,6 m [20'] white shark
+2517,1992,USA,"Standing in waist-deep water, helping his father tend a gill net containing dead fish",10,"Tiger shark, 2.4 m [8']",M,"Tiger shark, 2.4 m [8']"
+2518,1992,USA,Lying on surfboard,30,"Tiger shark, 3 m to 4.9 m [10' to 16'] ",M,"Tiger shark, 3 m to 4.9 m [10' to 16'] "
+2519,1992,USA,Spearfishing / free diving,31,"Mako shark, 1.8 m [6']  ",M,"Mako shark, 1.8 m [6']  "
+2520,1992,USA,Surfing,19,6' to 7' blacktip shark,M,6' to 7' blacktip shark
+2521,1992,USA,Surfing,24,1.8 m [6'] shark,M,1.8 m [6'] shark
+2522,1992,USA,Kayaking,46,5 m to 6 m white shark,M,5 m to 6 m white shark
+2523,1992,FIJI,Scuba diving,30,3 m hammerhead shark,M,3 m hammerhead shark
+2524,1992,USA,Scuba diving (submerged),40,Unidentified shark,M,Unidentified shark
+2526,1992,USA,Body boarding,18,"Tiger shark, 3 m to 3.7 m [10' to 12'] ",M,"Tiger shark, 3 m to 3.7 m [10' to 12'] "
+2527,1992,USA,Hookah diving for sea urchins,40,2.5 m [8.25'] white shark,M,2.5 m [8.25'] white shark
+2528,1992,USA,Surfing,28,"Tiger shark, 4.3 m [14'] ",M,"Tiger shark, 4.3 m [14'] "
+2531,1992,AUSTRALIA,Surfing,28,4.2 m white shark,M,4.2 m white shark
+2533,1992,USA,Surfing,20,4 m to 5 m [13' to 16.5']  white shark ,M,4 m to 5 m [13' to 16.5']  white shark 
+2537,1992,BAHAMAS,"Snorkeling, carrying a speared fish in her hand",34,1.8 m [6'] blacktip shark,F,1.8 m [6'] blacktip shark
+2538,1992,AUSTRALIA,Surfing,17,4 m white shark,M,4 m white shark
+2540,1992,USA,Surfing,22,5.5 m to 6 m [18' to 20'] white shark,M,5.5 m to 6 m [18' to 20'] white shark
+2541,1992,USA,Snorkeling,26,"Nurse shark, 3', 20-lb ",M,"Nurse shark, 3', 20-lb "
+2544,1992,USA,Standing,42,"""a small shark""",F,"""a small shark"""
+2548,1992,REUNION,Surfing,16,Bull shark or lemon shark,M,Bull shark or lemon shark
+2552,1992,USA,Scuba diving ,45,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+2556,1992,SOUTH AFRICA,Surfing,35,>2 m shark,M,>2 m shark
+2557,1992,USA,"Surfing, paddling seawards",36,Tiger shark,F,Tiger shark
+2558,1992,AUSTRALIA,Surfing,17,"Bronze whaler shark, 3 m",M,"Bronze whaler shark, 3 m"
+2559,1992,JAPAN,Hookah diving for pen shells ,41,"5 m [16.5'] white shark, identification by K. Nakaya",M,"5 m [16.5'] white shark, identification by K. Nakaya"
+2561,1992,USA,Surfing (sitting on his board),21,Said to involve a 6 m to 7 m [20' to 23'] white shark,M,Said to involve a 6 m to 7 m [20' to 23'] white shark
+2564,1992,AUSTRALIA,Surfing,19,Questionable incident,M,Questionable incident
+2566,1992,AUSTRALIA,Boogie boarding,19,"Bronze whaler shark, 2.3 m [7.5'] ",M,"Bronze whaler shark, 2.3 m [7.5'] "
+2567,1992,SOUTH AFRICA,Swimming ,19,"Zambesi shark, 1.7 m [5.5'] ",M,"Zambesi shark, 1.7 m [5.5'] "
+2568,1992,SOUTH AFRICA,Spearfishing,36,Possibly a 1.5 m [5'] blacktip shark,M,Possibly a 1.5 m [5'] blacktip shark
+2573,1991,USA,Hookah diving for sea urchins,25,6 m [20'] white shark,M,6 m [20'] white shark
+2574,1991,USA,Snorkeling,41,"Tiger shark, 2.4 m 3.4 m [8' to 11']  ",F,"Tiger shark, 2.4 m 3.4 m [8' to 11']  "
+2578,1991,AUSTRALIA,Boogie boarding,14,"""small shark""",M,"""small shark"""
+2579,1991,USA,Surfing,21,1.8 m [6'] shark,M,1.8 m [6'] shark
+2580,1991,USA,Surfing,32,5 m to 6 m [16.5' to 20'] white shark,M,5 m to 6 m [16.5' to 20'] white shark
+2581,1991,BAHAMAS,Spearfishing,32,Invalid,M,Invalid
+2582,1991,AUSTRALIA,Scuba diving,19,4 m [13'] white shark,M,4 m [13'] white shark
+2583,1991,AUSTRALIA,Finning the shark that bit him,36,"3 m [10'], 270- kg [595-lb] shark",M,"3 m [10'], 270- kg [595-lb] shark"
+2584,1991,USA,Swimming,23,sand shark,M,sand shark
+2585,1991,USA,Wading,10,3' shark,F,3' shark
+2587,1991,ITALY,Canoeing,40,4 m [13'] white shark,F,4 m [13'] white shark
+2588,1991,USA,Snorkeling,39,"2.1 m [7'], 140-lb reef shark",M,"2.1 m [7'], 140-lb reef shark"
+2589,1991,USA,Swimming from makeshift raft  to life vest after fishing boat sank,42,1.8 m [6'] blacktip shark,M,1.8 m [6'] blacktip shark
+2591,1991,REUNION,Surfing,30,"Tiger shark, 3 to 4 m [10' to 13'] ",M,"Tiger shark, 3 to 4 m [10' to 13'] "
+2592,1991,USA,Surfing,32,5 m [16.5'] white shark,M,5 m [16.5'] white shark
+2593,1991,USA,Boogie boarding,13,Shark involvement not confirmed,M,Shark involvement not confirmed
+2597,1991,USA,Swimming behind sailboat,31,2.7 m [9'] bull or lemon shark,M,2.7 m [9'] bull or lemon shark
+2598,1991,HONG KONG,Swimming ,65,"Tiger shark, >3 m [10']",F,"Tiger shark, >3 m [10']"
+2599,1991,USA,Sitting on surfboard,23,2.4 m [8'] shark,M,2.4 m [8'] shark
+2603,1991,USA,"Surfing, collided with shark",22,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+2605,1991,AUSTRALIA,Scuba diving,18,"Grey nurse shark, 2 m",M,"Grey nurse shark, 2 m"
+2606,1991,USA,Surfing,38,5.5 m [18'] white shark,M,5.5 m [18'] white shark
+2607,1991,SOUTH AFRICA,Spearfishing,20,5.5 m [18'] white shark,M,5.5 m [18'] white shark
+2610,1991,AUSTRALIA,Surfing (or sailboarding),22,2 m shark,M,2 m shark
+2612,1990,AUSTRALIA,Swimming ,26,1.5 m shark,M,1.5 m shark
+2614,1990,USA,Surfing,24,5' shark,M,5' shark
+2615,1990,USA,Surfing,50,1.8 m [6'] shark ,M,1.8 m [6'] shark 
+2619,1990,USA,Surfing,25,4' spinner shark,M,4' spinner shark
+2620,1990,USA,Surfing,43,"Tiger shark, 3.7 m [12'] ",M,"Tiger shark, 3.7 m [12'] "
+2621,1990,USA,Surfing,19,1.8 m to 2.4 m [6' to 8'] shark,M,1.8 m to 2.4 m [6' to 8'] shark
+2622,1990,SOUTH AFRICA,Spearfishing,26,5 m  [16.5'] white shark,M,5 m  [16.5'] white shark
+2623,1990,USA,"Free diving / spearfishing, from paddleboard & floating on the surface",49,White shark,M,White shark
+2624,1990,USA,Kayaking,44,2.5 m to 3 m [8.25' to 10']  white shark,M,2.5 m to 3 m [8.25' to 10']  white shark
+2625,1990,USA,SCUBA diving,30,Shark involvement prior to death could not be determined,M,Shark involvement prior to death could not be determined
+2626,1990,USA,Surfing,22,5 m to 6 m [16.5' to 20'] white shark,M,5 m to 6 m [16.5' to 20'] white shark
+2631,1990,SOUTH AFRICA,Scuba diving (but on surface),21,"4.5 m [14'9""] white shark",F,"4.5 m [14'9""] white shark"
+2632,1990,BAHAMAS,Spearfishing,38,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+2636,1990,SOUTH AFRICA,Resting on surfboard,22,"5.5 m [18'] white shark, identified by witnesses & tooth marks",M,"5.5 m [18'] white shark, identified by witnesses & tooth marks"
+2637,1990,SOUTH AFRICA,Lying on surfboard & paddling,23,"2.3 m [7.5'] white shark, identified by M. Smale",M,"2.3 m [7.5'] white shark, identified by M. Smale"
+2638,1990,AUSTRALIA,Surfing,31,"Tiger shark, 3 m ",M,"Tiger shark, 3 m "
+2641,1990,AUSTRALIA,Surfing,29,3 m shark,M,3 m shark
+2651,1989,AUSTRALIA,Swimming,27,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+2652,1989,AUSTRALIA,Surfing,32,White shark,M,White shark
+2653,1989,SOUTH AFRICA,Free diving & spearfishing,29,White shark,M,White shark
+2655,1989,AUSTRALIA,Swimming in canal,10,"2 m shark, possibly a bronze whaler",M,"2 m shark, possibly a bronze whaler"
+2657,1989,AUSTRALIA,Surfing,17,2.7 m [9'] white shark,M,2.7 m [9'] white shark
+2659,1989,USA,Surfing,12,4' shark,M,4' shark
+2660,1989,USA,Diving,49,Shark involvement suspected but not confirmed,M,Shark involvement suspected but not confirmed
+2662,1989,SOUTH AFRICA,Free diving,29,"White shark, identified by tooth pattern",M,"White shark, identified by tooth pattern"
+2663,1989,USA,"Fishing, stepped on hooked shark's head",51,150-lb shark,M,150-lb shark
+2665,1989,USA,Hookah diving for abalone (descending),38,4 m to 5 m [13' to 16.5']  white shark,M,4 m to 5 m [13' to 16.5']  white shark
+2666,1989,USA,Surfing,31,Sandbar shark,M,Sandbar shark
+2667,1989,USA,Filming 5' blue shark,46,Blue Shark ,M,Blue Shark 
+2668,1989,AUSTRALIA,Feeding fish,30,Grey nurse shark,M,Grey nurse shark
+2669,1989,USA,Swimming,21,1.2 m [4'] shark,M,1.2 m [4'] shark
+2670,1989,SOUTH AFRICA,Surfing,21,>3.4 m [11'] white shark,M,>3.4 m [11'] white shark
+2671,1989,AUSTRALIA,Surfing,17,"Bronze whaler shark, 3 m [10'] ",M,"Bronze whaler shark, 3 m [10'] "
+2673,1989,AUSTRALIA,Fishing for sharks,41,3.5 m white shark,M,3.5 m white shark
+2674,1969,BERMUDA,Scuba diving,35,Shark involvement suspected but not confirmed,M,Shark involvement suspected but not confirmed
+2675,1989,SOUTH AFRICA,Surfing,34,2.5 m [8.25'] white shark,M,2.5 m [8.25'] white shark
+2678,1989,USA,Playing ,9,4' shark,F,4' shark
+2680,1989,USA,Spearfishing,45,1.8 m [6'] sandtiger shark,M,1.8 m [6'] sandtiger shark
+2682,1989,SOUTH AFRICA,Surfing,16,3 m [10'] white shark,M,3 m [10'] white shark
+2683,1989,SOUTH AFRICA,Free diving,28,2.5 m [8.25'] white shark,M,2.5 m [8.25'] white shark
+2685,1989,USA,Swimming,19,1.2 m [4'] shark,M,1.2 m [4'] shark
+2690,1989,AUSTRALIA,Surfing,27,2 m [6.75'] white shark,M,2 m [6.75'] white shark
+2694,1989,ITALY,"Scuba diving, but swimming on surface",47,6 m [20'] white shark,M,6 m [20'] white shark
+2695,1989,USA,Kayaking,24,Invalid,M,Invalid
+2696,1989,USA,Kayaking,24,5 m [16.5'] white shark,F,5 m [16.5'] white shark
+2697,1989,USA,Body boarding,10,1.8 m to 2.4 m [6' to 8'] hammerhead shark,M,1.8 m to 2.4 m [6' to 8'] hammerhead shark
+2700,1989,AUSTRALIA,Surfing with dolphins,17,"Tiger shark, 4 m [13'] ",M,"Tiger shark, 4 m [13'] "
+2707,1988,USA,Surfing (sitting on his board),21,5.5 m to 6 m [18' to 20']  white shark,M,5.5 m to 6 m [18' to 20']  white shark
+2708,1988,AUSTRALIA,Surfing,38,7' shark,M,7' shark
+2709,1988,USA,Surfing,15,6' shark,M,6' shark
+2710,1988,USA,Surfing,30,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+2711,1988,USA,Surfing,23,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+2713,1988,USA,Wading,23,1.2 m [4'] shark,F,1.2 m [4'] shark
+2714,1988,USA,Surfing,21,5' shark,M,5' shark
+2716,1988,USA,Snorkeling,38,3 m [10'] bull shark,M,3 m [10'] bull shark
+2720,1988,USA,Surfing,27,2.4 m to 3 m [8' to 10'] white shark,M,2.4 m to 3 m [8' to 10'] white shark
+2722,1988,BAHAMAS,Spearfishing on scuba,28,1.5 m [5'] Caribbean reef shark,M,1.5 m [5'] Caribbean reef shark
+2723,1988,BAHAMAS,Diving,35,1.5 m [5'] Caribbean reef shark,M,1.5 m [5'] Caribbean reef shark
+2728,1988,SOUTH AFRICA,Spearfishing,36,White shark,M,White shark
+2729,1988,USA,Scuba diving,42,Sandtiger shark,M,Sandtiger shark
+2730,1988,USA,Sittting in water with his child,37,Sand shark?,M,Sand shark?
+2732,1988,USA,Surfing,25,1.8 m to 2.4 m [6' to 8'] shark,M,1.8 m to 2.4 m [6' to 8'] shark
+2745,1988,SOUTH AFRICA,Surfing,17,1.5 m to 2 m [5' to 6.75'] shark,M,1.5 m to 2 m [5' to 6.75'] shark
+2748,1988,SOUTH AFRICA,Surfing,20,"1 m ""grey-colored"" shark",M,"1 m ""grey-colored"" shark"
+2749,1988,SOUTH AFRICA,Lying atop surfboard,15,Zambezi shark (tooth fragments recovered),F,Zambezi shark (tooth fragments recovered)
+2751,1988,Fiji,Diving,22,"Tiger shark, 3 m ",M,"Tiger shark, 3 m "
+2752,1988,SOUTH AFRICA,Surfing,22,Shark involvement not confirmed,M,Shark involvement not confirmed
+2755,1988,SOUTH AFRICA,Attempting to lasso shark's tail,33,1.5 m copper shark,M,1.5 m copper shark
+2757,1988,AUSTRALIA,Surfing,12,Wobbegong shark,M,Wobbegong shark
+2759,1987,USA,Surfing,16,1.8 m [6'] blacktip shark,M,1.8 m [6'] blacktip shark
+2763,1987,USA,Surfing,20,2 m [6.75'] shark,M,2 m [6.75'] shark
+2764,1987,SOUTH AFRICA,Boogie boarding,14,Questionable incident,M,Questionable incident
+2765,1987,SOUTH AFRICA,Spearfishing,21,White shark,M,White shark
+2767,1987,AUSTRALIA,Scuba Diving for scallops,47,White shark,M,White shark
+2768,1987,SOUTH AFRICA,Surfing,24,3.5 m [11.5']  white shark,M,3.5 m [11.5']  white shark
+2769,1987,USA,Wading,12,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+2770,1987,USA,Surfing (sitting on his board),40,5.7 m white shark,M,5.7 m white shark
+2771,1987,USA,Surfing,27,3' to 4' shark,M,3' to 4' shark
+2772,1987,USA,Body surfing,32,4' shark,F,4' shark
+2773,1987,USA,Wading,16,4' shark,F,4' shark
+2784,1987,VANUATU,Swimming,8,4.3 m shark,M,4.3 m shark
+2785,1987,AUSTRALIA,Surfing,18,"Bronze whaler shark, 2 m to 3 m ",M,"Bronze whaler shark, 2 m to 3 m "
+2789,1987,SOUTH AFRICA,Spearfishing,30,>2.5 m [8.25'] white shark,M,>2.5 m [8.25'] white shark
+2794,1986,SOUTH AFRICA,Body boarding,21,3 m [10'] white shark,M,3 m [10'] white shark
+2795,1986,USA,Surfing,40,1.8 m to 2.1 m [6' to 7'] spinner or blacktip shark,M,1.8 m to 2.1 m [6' to 7'] spinner or blacktip shark
+2797,1986,USA,Free diving  & spearfishing (submerged),27,5 m to 6 m [16.5' to 20'] white shark,M,5 m to 6 m [16.5' to 20'] white shark
+2798,1986,SOUTH AFRICA,Spearfishing,22,Invalid,M,Invalid
+2804,1986,USA,Swimming,6,"Lemon shark, 1.8 m to 2.4 m [6' to 8'], tooth fragment recovered",F,"Lemon shark, 1.8 m to 2.4 m [6' to 8'], tooth fragment recovered"
+2805,1986,SOUTH AFRICA,Racing ski,32,1.6 m shark,M,1.6 m shark
+2807,1986,USA,Surfing,28,Bull shark,M,Bull shark
+2812,1986,SOUTH AFRICA,Spearfishing,35,Invalid,M,Invalid
+2817,1986,SOUTH AFRICA,Spearfishing,26,1.2 m [4'] dusky shark,M,1.2 m [4'] dusky shark
+2823,1986,SOUTH AFRICA,Treading water,26,>1 m shark,M,>1 m shark
+2824,1986,SOUTH AFRICA,Surfing,23,2 m [6.75'] shark,M,2 m [6.75'] shark
+2825,1986,SOUTH AFRICA,Surfing,21,>2.4 m [8'] white shark,M,>2.4 m [8'] white shark
+2827,1986,SOUTH AFRICA,Swimming,46,Raggedtooth shark,M,Raggedtooth shark
+2828,1986,SOUTH AFRICA,Spearfishing,29,"Raggedtooth shark, 2 m [6.75'] ",M,"Raggedtooth shark, 2 m [6.75'] "
+2829,1986,AUSTRALIA,Surfing,29,"Bronze whaler shark, 3.5 m ",M,"Bronze whaler shark, 3.5 m "
+2830,1986,USA,Surfing,22,Blacktip shark,M,Blacktip shark
+2831,1986,USA,Surfing,16,1.5 m [5'] shark,M,1.5 m [5'] shark
+2837,1985,SOUTH AFRICA,Body boarding,22,2.5 m [8.25'] white shark,M,2.5 m [8.25'] white shark
+2838,1985,USA,Hookah diving for abalone,46,2 m to 2.5 m [6.75'  to 8.25'] sixgill or sevengill shark,M,2 m to 2.5 m [6.75'  to 8.25'] sixgill or sevengill shark
+2839,1985,USA,Body boarding,33,"Thought to involve a Tiger shark,  3.7 m [12'] ",M,"Thought to involve a Tiger shark,  3.7 m [12'] "
+2840,1985,USA,Floating on inner tube after diving for lobster,24,1.8 m to 2.4 m [6' to 8'] shark,M,1.8 m to 2.4 m [6' to 8'] shark
+2843,1985,SOUTH AFRICA,Swimming,21,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+2845,1985,USA,Swimming,17,Invalid,M,Invalid
+2847,1985,USA,Wading,11,Shark involvement not confirmed,M,Shark involvement not confirmed
+2848,1985,USA,Scuba diving,67,Shark involvement prior to death not confirmed,M,Shark involvement prior to death not confirmed
+2849,1985,USA,Wading,13,Possibly a small hammerhead shark,F,Possibly a small hammerhead shark
+2852,1985,USA,Playing in knee-deep water,10,"Tiger shark, 2.4 m to 2.7 m [8' to 9'] ",F,"Tiger shark, 2.4 m to 2.7 m [8' to 9'] "
+2853,1985,ITALY,Snorkeling,13,"3 m to 3.6 m  [10' to 11'9""] white shark",M,"3 m to 3.6 m  [10' to 11'9""] white shark"
+2855,1985,SOUTH AFRICA,Spearfishing,39,30-kg [66-lb] shark,M,30-kg [66-lb] shark
+2857,1985,AUSTRALIA,Free diving for scallops,33,6 m [20'] white shark,F,6 m [20'] white shark
+2858,1985,USA,Scuba Diving for lobster (at surface),29,6 m [20'] white shark,M,6 m [20'] white shark
+2860,1985,SOUTH AFRICA,Swimming,15,Raggedtooth shark,M,Raggedtooth shark
+2862,1985,SOUTH AFRICA,Surfing,18,"3.5 m white shark, tooth fragments recovered",M,"3.5 m white shark, tooth fragments recovered"
+2864,1985,SOUTH AFRICA,Spearfishing,34,3.5 m [11.5'] white shark,M,3.5 m [11.5'] white shark
+2866,1985,SOUTH AFRICA,Spearfishing,20,1.5 m [5'] dusky shark,M,1.5 m [5'] dusky shark
+2870,1984,AUSTRALIA,Sailing on catamaran & fell into the water,16,"Tiger shark, 4 m ",M,"Tiger shark, 4 m "
+2871,1984,USA,Surfing,13,1.2 m [4'] shark,M,1.2 m [4'] shark
+2872,1984,USA,Spearfishing,29,"""a small shark""",M,"""a small shark"""
+2873,1984,USA,Swimming,22,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+2874,1984,USA,Surfing or body surfing,23,1.5 m [5'] shark,F,1.5 m [5'] shark
+2875,1984,USA,Wading,77,Shark involvement not confirmed; officials considered barracua,F,Shark involvement not confirmed; officials considered barracua
+2876,1984,USA,Surfing,15,1.2 m [4'] blacktip shark,M,1.2 m [4'] blacktip shark
+2877,1984,USA,Surfing (sitting on his board),25,3 m to 5 m [10' to 16.5'] white shark,M,3 m to 5 m [10' to 16.5'] white shark
+2881,1984,USA,Surfing,16,Hammerhead shark?+O2356,M,Hammerhead shark?+O2356
+2884,1984,USA,Skindiving,28,4.5 m to 5 m white shark,M,4.5 m to 5 m white shark
+2886,1984,USA,Boat capsized?,31,Invalid,F,Invalid
+2889,1984,USA,Swimming,18,1.2 m [4'] shark,F,1.2 m [4'] shark
+2890,1984,SOUTH AFRICA,Spearfishing,21,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+2893,1984,SOUTH AFRICA,Surfing,27,2.4 m [8'] white shark,M,2.4 m [8'] white shark
+2894,1984,USA,Towing her sister on plastic ski board,13,1.2 m to 1.5 m [4' to 5'] hammerhead shark,F,1.2 m to 1.5 m [4' to 5'] hammerhead shark
+2902,1984,SOUTH AFRICA,Scuba diving,33, 1.5 m [5'] dusky shark,M, 1.5 m [5'] dusky shark
+2904,1984,AUSTRALIA,Spearfishing,27,1.5 m white-tipped reef shark,M,1.5 m white-tipped reef shark
+2905,1984,SOUTH AFRICA,Swimming,14,"Raggedtooth shark, 1 m ",M,"Raggedtooth shark, 1 m "
+2909,1983,GREECE,Spearfishing,36,Invalid,M,Invalid
+2911,1983,AUSTRALIA,Scuba diving for abalone,48,12' white shark,M,12' white shark
+2913,1983,SOUTH AFRICA,Swimming,47,"Raggedtooth shark, >1 m ",M,"Raggedtooth shark, >1 m "
+2916,1983,USA,Surfing,15,Tiger shark,M,Tiger shark
+2918,1983,USA,Surfing,16,1.5 m [5'] shark,M,1.5 m [5'] shark
+2919,1983,USA,Wading,20,4.5' shark,M,4.5' shark
+2922,1983,SOUTH AFRICA,Spearfishing,29,5 m [16.5'] white shark,M,5 m [16.5'] white shark
+2923,1983,USA,Swimming,14,Sand shark,F,Sand shark
+2924,1983,USA,Skindiving,14,Nurse shark,M,Nurse shark
+2925,1983,USA,Diving,22,6' to 8' bull shark,F,6' to 8' bull shark
+2927,1983,AUSTRALIA,Swimming from the New Venture ,21,"Tiger shark, 5 m [16.5']",F,"Tiger shark, 5 m [16.5']"
+2928,1983,AUSTRALIA,Swimming from the New Venture ,24,"Tiger shark, 5 m [16.5']",M,"Tiger shark, 5 m [16.5']"
+2929,1983,AUSTRALIA,14 m prawn trawler New Venture capsized  & sank in heavy seas Three people in the water,28,"Tiger shark, 5 m [16.5']",M,"Tiger shark, 5 m [16.5']"
+2931,1983,USA,Windsurfing,39,3.5' hammerhead shark,F,3.5' hammerhead shark
+2940,1983,USA,Water-skiing,21,6' shark,M,6' shark
+2944,1983,SOUTH AFRICA,Fishing,27,"Raggedtooth shark, 1.5 m [5'] (tooth fragment recovered)",M,"Raggedtooth shark, 1.5 m [5'] (tooth fragment recovered)"
+2947,1983,SOUTH AFRICA,Spearfishing,17,1.8 m [6'] Zambezi shark,M,1.8 m [6'] Zambezi shark
+2951,1983,SOUTH AFRICA,Paddleskiing,16,3 m [10'] shark,M,3 m [10'] shark
+2955,1983,SOUTH AFRICA,Spearfishing,32,White shark,M,White shark
+2960,1982,USA,Windsurfing,26,1.5 m [5'] shark,M,1.5 m [5'] shark
+2962,1982,SOUTH AFRICA,Surfing,16,"Believed to involve a 2.8 m [9'3""] white shark",M,"Believed to involve a 2.8 m [9'3""] white shark"
+2963,1982,USA,Surfing,20,1.5 m [5'] shark,M,1.5 m [5'] shark
+2964,1982,USA,Diving,36,White shark,M,White shark
+2965,1982,USA,Free diving for abalone from Zodiac (submerged),28,5 m to 6 m [16.5' to 20'] white shark,M,5 m to 6 m [16.5' to 20'] white shark
+2968,1982,USA,Surfing,17,Questionable incident; reported as shark attack but thought to involve a pinniped instead ,M,Questionable incident; reported as shark attack but thought to involve a pinniped instead 
+2971,1982,SOUTH AFRICA,Boogie boarding,20,Invalid,M,Invalid
+2972,1982,SOUTH AFRICA,Paddleskiing,38,"2.4 m [8'] white shark, species identity confirmed by tooth fragment",M,"2.4 m [8'] white shark, species identity confirmed by tooth fragment"
+2973,1982,USA,Paddle Boarding,26,4.5 m to 5.5 m [14.7' to 18'] white shark,M,4.5 m to 5.5 m [14.7' to 18'] white shark
+2974,1982,USA,Swimming,17,0.9 m to 1.2 m [3' to 4'] shark,M,0.9 m to 1.2 m [3' to 4'] shark
+2975,1982,USA,Swimming,43,"Reported as a shark attack, the story was a hoax",M,"Reported as a shark attack, the story was a hoax"
+2978,1982,SOUTH AFRICA,Surfing,27,"2.4 m [8'] white shark, species identity confirmed by witnesses & tooth pattern in surfboard",M,"2.4 m [8'] white shark, species identity confirmed by witnesses & tooth pattern in surfboard"
+2979,1982,USA,Swimming,20,5' shark,M,5' shark
+2980,1982,BAHAMAS,Spearfishing ,19,"Lemon shark, 2 m [6'9""]",M,"Lemon shark, 2 m [6'9""]"
+2987,1982,AUSTRALIA,Spearfishing,32,5.5 m [18''] white shark,M,5.5 m [18''] white shark
+2988,1982,USA,Surfing,18,4' to 5' shark,M,4' to 5' shark
+2995,1982,SOUTH AFRICA,Swimming,20,Raggedtooth shark,M,Raggedtooth shark
+2999,1981,USA,Surfing,24,7 m [23'] white shark,M,7 m [23'] white shark
+3004,1981,USA,Diving to untangle a crab trap line from boat's propeller,59,"2.1 m [7'] shark with ""a very flat head” that had followed the boat for 3 days",M,"2.1 m [7'] shark with ""a very flat head” that had followed the boat for 3 days"
+3005,1981,USA,Swimming,19,1.8 m to 2.4 m [6' to 8'] shark,M,1.8 m to 2.4 m [6' to 8'] shark
+3008,1981,USA,Surfing,24,6' shark,M,6' shark
+3011,1981,USA,Swimming,26,Said to involve a tiger shark or a hammerhead shark,M,Said to involve a tiger shark or a hammerhead shark
+3014,1981,USA,Surfing,15,6' shark,M,6' shark
+3015,1981,USA,Spearfishing,19,"1.8 m [6'] shark, species identity questionable",M,"1.8 m [6'] shark, species identity questionable"
+3019,1981,BAHAMAS,Snorkeling on surface,53,Mako shark (tooth fragments recovered),M,Mako shark (tooth fragments recovered)
+3020,1981,USA,Swimming,16,"""sandshark""",F,"""sandshark"""
+3021,1981,SOUTH AFRICA,Surfing,32,Possibly a  1.8 m [6'] Zambezi shark,M,Possibly a  1.8 m [6'] Zambezi shark
+3027,1981,SOUTH KOREA,Shell diving,27,6 m  white shark,F,6 m  white shark
+3028,1981,SOUTH AFRICA,Surfing,27,Raggedtooth shark,M,Raggedtooth shark
+3031,1981,SOUTH AFRICA,Surfing,19,"Raggedtooth shark, 2.5 m [8.25'] ",M,"Raggedtooth shark, 2.5 m [8.25'] "
+3034,1981,SOUTH AFRICA,Surfing,24,"Tiger shark, 2.1 m [7']",M,"Tiger shark, 2.1 m [7']"
+3035,1981,USA,Standing / Wading,19,"1.2 m to 1.5 m [4' to 5'] bull, sandbar or dusky shark",M,"1.2 m to 1.5 m [4' to 5'] bull, sandbar or dusky shark"
+3036,1981,USA,Surfing,24,C. maculpinnis or C. limbatus,M,C. maculpinnis or C. limbatus
+3039,1981,SOUTH AFRICA,Swimming,30,Juvenile dusky or blacktip shark,M,Juvenile dusky or blacktip shark
+3042,1981,USA,Surfing,15,1.8 m to 2.4 m [6' to 8'] hammerhead shark,M,1.8 m to 2.4 m [6' to 8'] hammerhead shark
+3044,1981,USA,Commercial spearfishing,25,Tiger shark,M,Tiger shark
+3045,1981,SOUTH AFRICA,Swimming,23,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+3046,1981,AUSTRALIA,Surf-skiing,27,"Tiger shark, 2.5 m ",M,"Tiger shark, 2.5 m "
+3048,1980,SOUTH AFRICA,Paddleskiing,25,3.5 m [11.5'] shark,M,3.5 m [11.5'] shark
+3050,1980,REUNION,Spearfishing,22,1.8 m [6'] white shark,M,1.8 m [6'] white shark
+3054,1980,USA,Surfing,29,4 m to 5 m [13' to 16.5'] white shark,M,4 m to 5 m [13' to 16.5'] white shark
+3055,1980,USA,Surfing,19,4 m to 5 m [13' to 16.5'] white shark,M,4 m to 5 m [13' to 16.5'] white shark
+3061,1980,USA,Standing,22,4' to 8' shark,F,4' to 8' shark
+3064,1980,USA,Scuba diving,44,Blue shark,F,Blue shark
+3065,1980,SOUTH AFRICA,Surfing,22,1.8 m [6'] shark,M,1.8 m [6'] shark
+3068,1980,MEXICO,Body surfing,13,Tiger shark,F,Tiger shark
+3069,1980,SOUTH AFRICA,Free diving,52,Tiger shark,M,Tiger shark
+3072,1980,SOUTH AFRICA,Fishing,61,1.5 m [5'] hammerhead shark,M,1.5 m [5'] hammerhead shark
+3073,1980,SOUTH AFRICA,Body boarding,24,"2.8 m [9'3""] white shark",M,"2.8 m [9'3""] white shark"
+3074,1980,KENYA,Spearfishing,29,2.2 m shark,M,2.2 m shark
+3075,1980,SOUTH AFRICA,Spearfishing,29,"2 m [6'9""] Zambesi shark",M,"2 m [6'9""] Zambesi shark"
+3077,1980,SOUTH AFRICA,Swimming,25,"Raggedtooth shark, 2 m [6'9""] ",M,"Raggedtooth shark, 2 m [6'9""] "
+3079,1980,NORTH ATLANTIC OCEAN,Gaffing netted shark,34,1.8 m [6'] dogfish,M,1.8 m [6'] dogfish
+3081,1980,SOUTH AFRICA,Spearfishing,20,Invalid,M,Invalid
+3084,1979,PORTUGAL,Spearfishing,19,White shark?,M,White shark?
+3085,1979,SOUTH CHINA SEA,Diving,32,6' shark,M,6' shark
+3086,1979,USA,Surfing,20,"White shark, 4 m [13'] ",M,"White shark, 4 m [13'] "
+3089,1979,AUSTRALIA,Scuba diving,18,"""a small shark""",M,"""a small shark"""
+3095,1979,USA,Scuba diving,36,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+3096,1979,SOUTH AFRICA,Spearfishing,25,"White shark, 2.5 m [8.25']  ",M,"White shark, 2.5 m [8.25']  "
+3102,1979,USA,Surfing,27,Blacktip or spinner shark,M,Blacktip or spinner shark
+3106,1979,SOUTH AFRICA,"Surfing, collided with shark",19,1.5 m to 2 m [5' to 6.75'] shark,M,1.5 m to 2 m [5' to 6.75'] shark
+3109,1978,SOUTH AFRICA,Spearfishing,23,"White shark, 2.3 m [7.5'], tooth fragment recovered",M,"White shark, 2.3 m [7.5'], tooth fragment recovered"
+3113,1978,SOUTH AFRICA,Spearfishing,27,"White shark, 3.7 m [12'] ",M,"White shark, 3.7 m [12'] "
+3115,1978,AUSTRALIA,Scuba diving for abalone,34,15' shark,M,15' shark
+3129,1978,SOUTH AFRICA,Surfing,17,Thought to involve a blacktip shark,M,Thought to involve a blacktip shark
+3135,1977,SOUTH AFRICA,Surfing,18,"Tiger shark, 3 m [10']",M,"Tiger shark, 3 m [10']"
+3138,1977,SOUTH AFRICA,Spearfishing,25,"White shark, 5 m [16.5'] ",M,"White shark, 5 m [16.5'] "
+3139,1977,AUSTRALIA,Surfing,17,White shark,M,White shark
+3142,1977,USA,Free diving for abalone (surfacing),20,"White shark, 5.5 m to 6 m [18' to 20']  ",M,"White shark, 5.5 m to 6 m [18' to 20']  "
+3143,1977,USA,Wading,17,Shark involvement not confirmed,M,Shark involvement not confirmed
+3145,1977,USA,Spearfishing / Scuba diving,27,"Bull shark, 8",M,"Bull shark, 8"
+3146,1977,USA,Collecting fish from net,25,"Bull shark, 4' to 5' ",M,"Bull shark, 4' to 5' "
+3155,1977,AUSTRALIA,"Pushed surfmat of a young girl out of the shark's path, drawing shark's attention to his own board",24,4 m [13'] shark,M,4 m [13'] shark
+3160,1976,USA,Hookah diving for abalone (submerged),29,"White shark, 5.5 m [18'] ",M,"White shark, 5.5 m [18'] "
+3161,1976,SOUTH AFRICA,"Thrashing the water / imitating the shark victim from ""Jaws""",19,"White shark, 3 m [10'] k",M,"White shark, 3 m [10'] k"
+3163,1976,USA,Surfing,19,2.1 m [7'] lemon shark or bull shark,M,2.1 m [7'] lemon shark or bull shark
+3164,1976,SOUTH AFRICA,Swimming,17,Questionable incident,M,Questionable incident
+3167,1976,USA,Surfing,25,"White shark, 3 m to 4 m [10' to 13'] ",M,"White shark, 3 m to 4 m [10' to 13'] "
+3168,1976,SOUTH AFRICA,Surfing,20,"White shark, 3.5 m [11.5'], species identity confirmed by tooth fragment",M,"White shark, 3.5 m [11.5'], species identity confirmed by tooth fragment"
+3170,1976,AUSTRALIA,"Skindiving,",27,2.7 m  [9'] shark,M,2.7 m  [9'] shark
+3174,1976,USA,Surfing,15,"Tiger shark, 6' ",M,"Tiger shark, 6' "
+3176,1976,USA,Surfing,19,"White shark, 4.5 m ",M,"White shark, 4.5 m "
+3180,1976,USA,Spearfishing,23,6' to 8' shark,M,6' to 8' shark
+3181,1976,USA,Skindiving,17,12' to 14' shark,M,12' to 14' shark
+3183,1976,ITALY,Fishing,46,"Blue shark, 2m ",M,"Blue shark, 2m "
+3195,1976,USA,Spearfishing / scuba diving,25,6' shark,M,6' shark
+3199,1975,USA,Scuba diving & spearfishing,27,White shark,M,White shark
+3200,1975,AUSTRALIA,Filming & feeding captive sharks,35,"Grey nurse shark, 10' ",M,"Grey nurse shark, 10' "
+3201,1975,AUSTRALIA,Standing,20,5' shark,M,5' shark
+3202,1975,SOUTH AFRICA,Standing,33,Juvenile dusky shark,M,Juvenile dusky shark
+3204,1975,USA,Surfing,18,6' shark,M,6' shark
+3206,1975,AUSTRALIA,Surfing,20,Bronze whaler,M,Bronze whaler
+3208,1975,SOUTH AFRICA,Paddleskiing,21,1.2 m [4'] shark,M,1.2 m [4'] shark
+3209,1975,SOUTH AFRICA,Surfing,19,"White shark, 2.4 m [8']",M,"White shark, 2.4 m [8']"
+3210,1975,USA,Floating on a small orange raft ,20,1.5 m [5'] shark,M,1.5 m [5'] shark
+3211,1975,USA,Free diving for abalone,44,White shark,M,White shark
+3214,1975,AUSTRALIA,Scuba diving for abalone,37,White shark,M,White shark
+3216,1975,AUSTRALIA,Surfing,21,12' shark,M,12' shark
+3217,1975,USA,Scuba diving for abalone (at surface),23,"White shark, 5.8 m [19'] ",M,"White shark, 5.8 m [19'] "
+3218,1975,USA,Hookah diving for abalone,34,"White shark, 5m to 6m",M,"White shark, 5m to 6m"
+3219,1975,USA,Swimming,14,1.2 m [4'] shark,F,1.2 m [4'] shark
+3220,1975,AUSTRALIA,Spearfishing,29,2.4 m [8'] whaler shark,M,2.4 m [8'] whaler shark
+3222,1975,USA,Swimming ,18,4' shark,M,4' shark
+3229,1975,ITALY,Scuba diving,37,Invalid,M,Invalid
+3234,1975,USA,Floating in inner tube,14,10' shark,M,10' shark
+3238,1975,SOUTH AFRICA,Surfing,16,1.5 m [5'] shark,M,1.5 m [5'] shark
+3240,1975,AUSTRALIA,Swimming underwater from crayfish cage to a fishing bait,12,"White shark, 3 m [10'] ",M,"White shark, 3 m [10'] "
+3241,1975,AUSTRALIA,Crayfishing,45,"Carpet shark, 10' ",M,"Carpet shark, 10' "
+3243,1975,SOUTH AFRICA,Fishing,12,"Copper shark, 50-kg [110-b] ",M,"Copper shark, 50-kg [110-b] "
+3245,1975,BERMUDA,Spearfishing,25,8' blue shark,M,8' blue shark
+3249,1974,USA,Surfing,17,"White shark, 5.5 m to 6 m [18' to 20'] ",M,"White shark, 5.5 m to 6 m [18' to 20'] "
+3250,1974,USA,Hookah diving for abalone,29,"White shark, 4 m to 5 m ",M,"White shark, 4 m to 5 m "
+3251,1974,ISRAEL,Swimming,20,"Shortfin mako shark, 2.3 m [7.5'] ",F,"Shortfin mako shark, 2.3 m [7.5'] "
+3252,1974,USA,Scuba diving (but on surface),41,"White shark, 5 m to 6 m [16.5 to 20'] ",M,"White shark, 5 m to 6 m [16.5 to 20'] "
+3253,1974,USA,Scuba diving (but on surface),48,"White shark, 5 m to 6 m [16.5 to 20'] ",M,"White shark, 5 m to 6 m [16.5 to 20'] "
+3255,1974,USA,Surfing,24,"White shark, 4.5 m ",M,"White shark, 4.5 m "
+3262,1974,USA,Free diving for abalone (submerged),36,"White shark, 5.5 m [18'] ",M,"White shark, 5.5 m [18'] "
+3263,1974,USA,Swimming,17,small sharks',M,small sharks'
+3264,1974,USA,Adrift after the sinking of the motor yacht Princess Dianne,10,3.7 m [12'] sharks,M,3.7 m [12'] sharks
+3266,1974,USA,Free diving (but on surface),45,"White shark, 5 m [16.5']",M,"White shark, 5 m [16.5']"
+3268,1974,SOUTH AFRICA,Spearfishing,22,"Raggedtooth shark, 1.5 m [5'] ",M,"Raggedtooth shark, 1.5 m [5'] "
+3271,1974,SOUTH AFRICA,Surfing,17,Juvenile dusky shark,M,Juvenile dusky shark
+3272,1974,SOUTH AFRICA,Surfing,21,1.8 m [6'] shark,M,1.8 m [6'] shark
+3278,1974,SOUTH AFRICA,Sitting,42,"Raggedtooth shark, 1 m ",M,"Raggedtooth shark, 1 m "
+3279,1974,AUSTRALIA,Diving for abalone,26,White shark,M,White shark
+3280,1974,SOUTH AFRICA,Swimming,33,2 m to 2.5 m [6.75'  to 8.25'] shark,M,2 m to 2.5 m [6.75'  to 8.25'] shark
+3294,1973,BAHAMAS,"Free diving, Spearfishing",11,7' to 8' bull shark,M,7' to 8' bull shark
+3296,1973,MEXICO,"Free diving, Spearfishing",37,White shark,M,White shark
+3299,1973,AUSTRALIA,Surfing,16,12' shark,M,12' shark
+3300,1973,USA,Crabbing (spearing crabs),17,1.5 m to 1.8 m [5' to 6']  blacktip shark,M,1.5 m to 1.8 m [5' to 6']  blacktip shark
+3305,1973,SOUTH AFRICA,Spearfishing,26,"2 m shark, possibly a dusky or blacktip shark",M,"2 m shark, possibly a dusky or blacktip shark"
+3313,1972,MOZAMBIQUE,Swimming,25,2 m to 3 m shark,M,2 m to 3 m shark
+3320,1972,AUSTRALIA,Surfing,19,"Bronze whaler shark, 10' ",M,"Bronze whaler shark, 10' "
+3325,1972,MOZAMBIQUE,Swimming,20,Questionable incident,F,Questionable incident
+3328,1972,AUSTRALIA,Diving for abalone,45,"White shark, 10'",M,"White shark, 10'"
+3332,1972,USA,Surfing,22,4.5' shark,M,4.5' shark
+3333,1972,USA,Free diving for abalone,32,"White shark, 4.4 m to 5 m [14.5' to 16.5'] ",M,"White shark, 4.4 m to 5 m [14.5' to 16.5'] "
+3334,1972,FRENCH POLYNESIA,Spearfishing,27,1.5 m grey reef shark,M,1.5 m grey reef shark
+3335,1972,WESTERN SAMOA,Swimming,25,Thought to involve a tiger shark,M,Thought to involve a tiger shark
+3340,1972,AUSTRALIA,Surfing,18,7' shark,M,7' shark
+3343,1972,SOUTH AFRICA,Sitting in shallows,30,Zambesi shark,F,Zambesi shark
+3344,1972,MOZAMBIQUE,Standing,24,"White shark, 2.5 m [8.25'] ",M,"White shark, 2.5 m [8.25'] "
+3348,1971,SOUTH AFRICA,Swimming,16,"White shark, 3 m [10']rk",F,"White shark, 3 m [10']rk"
+3352,1971,USA,Surfing,18,5' to 6' shark,M,5' to 6' shark
+3353,1971,SOUTH AFRICA,Swimming,25,1.5 m to 2 m shark,M,1.5 m to 2 m shark
+3354,1971,USA,Scuba diving,30,"White shark, 5 m to 6 m [16.5' to 20']  ",M,"White shark, 5 m to 6 m [16.5' to 20']  "
+3356,1971,CROATIA,Swimming,34,White shark,M,White shark
+3358,1971,AUSTRALIA,Scuba diving & feeding fish,26,"Grey nurse shark, 11'",M,"Grey nurse shark, 11'"
+3361,1971,SOUTH AFRICA,Surfing,21,"White shark, 3 m [10'], species identity confirmed by witnesses & tooth pattern in leg & board ",M,"White shark, 3 m [10'], species identity confirmed by witnesses & tooth pattern in leg & board "
+3362,1971,BRITISH ISLES,Scuba diving,32,3.6 m  porbeagle shark,M,3.6 m  porbeagle shark
+3363,1971,KENYA,Swimming,16,"2 m [6'9""] shark",M,"2 m [6'9""] shark"
+3369,1971,NEW ZEALAND,Surfing,16,"White shark, 4.6 m [15'] ",M,"White shark, 4.6 m [15'] "
+3371,1971,AUSTRALIA,Surfing,15,White shark,M,White shark
+3381,1970,MICRONESIA,Diving,43,1.8 to 2 m C. albimarginatus,M,1.8 to 2 m C. albimarginatus
+3382,1970,PALAU,Spearfishing,20,1 m shark,M,1 m shark
+3389,1970,USA,Fishing,13,7.5' shark,M,7.5' shark
+3390,1970,SOUTH AFRICA,Scuba Diving,25,"Raggedtooth shark, 2 m [6'9""], 5-year-old, captive female ",M,"Raggedtooth shark, 2 m [6'9""], 5-year-old, captive female "
+3401,1970,MOZAMBIQUE,Swimming,16,Zambesi shark,M,Zambesi shark
+3402,1970,MOZAMBIQUE,Swimming,12,Zambesi shark,M,Zambesi shark
+3403,1970,MOZAMBIQUE,Swimming,10,Zambesi shark,M,Zambesi shark
+3420,1969,USA,Free diving for abalone,53,"White shark, 4.3 m 4.9 m [14' to 16'] ",M,"White shark, 4.3 m 4.9 m [14' to 16'] "
+3424,1969,USA,Body surfing,13,4' shark,M,4' shark
+3433,1969,USA,Diving,23,Nurse shark,M,Nurse shark
+3439,1969,USA,Surfing,16,"White shark, identified by tooth fragments in surfboard",M,"White shark, identified by tooth fragments in surfboard"
+3440,1969,AUSTRALIA,Fishing,49,7-gill shark,M,7-gill shark
+3441,1969,AUSTRALIA,Hard hat diving,52,Questionable incident,M,Questionable incident
+3446,1968,AUSTRALIA,Feeding mullet to sharks,27,"Grey nurse shark, 10' ",M,"Grey nurse shark, 10' "
+3447,1968,NEW ZEALAND,Surfing,17,White shark,M,White shark
+3449,1968,SOUTH AFRICA,Spearfishing,28,"2 scalloped hammerhead sharks, 1.5 m & 1.8 m [5' & 6']",M,"2 scalloped hammerhead sharks, 1.5 m & 1.8 m [5' & 6']"
+3451,1968,SOUTH AFRICA,Fishing,22,"90-kg ""blackfin"" shark",M,"90-kg ""blackfin"" shark"
+3458,1968,NEW ZEALAND,Spearfishing,24,"White shark, 4.3 m [14'], (tooth fragment recovered)",M,"White shark, 4.3 m [14'], (tooth fragment recovered)"
+3463,1968,COLUMBIA,Dynamite fishing,18,2 m shark,M,2 m shark
+3464,1968,USA,Free diving,25,"White shark, 4 m [13'] ",M,"White shark, 4 m [13'] "
+3466,1968,USA,Spearfishing using Scuba,33,4m [13'] shark,M,4m [13'] shark
+3469,1968,BAHAMAS,Spearfishing,17,1.5 m to 2 m [5' to 6.75'] Caribbean reef shark ,M,1.5 m to 2 m [5' to 6.75'] Caribbean reef shark 
+3474,1968,USA,Wading,63,Shark involvement not confirmed,M,Shark involvement not confirmed
+3476,1968,AUSTRALIA,"Diving. Shark “swallowed’ his hand, so he threw his other around the shark and went “shark-back riding” for 30 yards until the shark opened its jaws",21,"Bronze whaler shark, 1.8 m [6'] ",M,"Bronze whaler shark, 1.8 m [6'] "
+3479,1968,SOUTH AFRICA,Wading & pushing dinghy toward  the shallows,35,1.5 m to 1.8m [5' to 6'] shark,M,1.5 m to 1.8m [5' to 6'] shark
+3481,1968,USA,Treading water,28,Invalid,M,Invalid
+3485,1968,AUSTRALIA,Spearfishing,26,"Bronze whaler shark, 3 m [10'] ",M,"Bronze whaler shark, 3 m [10'] "
+3492,1967,SOUTH AFRICA,Surfing,22,1.5 m to 1.8 m [5' to 6'] shark,M,1.5 m to 1.8 m [5' to 6'] shark
+3493,1967,PAPUA NEW GUINEA,Spearfishing,32,Questionable incident,M,Questionable incident
+3497,1967,AUSTRALIA,Freediving,15,Grey nurse shark,M,Grey nurse shark
+3503,1967,USA,Standing on sandbar,19,small blacktip shark,M,small blacktip shark
+3506,1967,ITALY,Scuba diving,21,2 m shark,M,2 m shark
+3510,1967,PAPUA NEW GUINEA,Spearfishing,23,3.7 m [12'] shark,M,3.7 m [12'] shark
+3511,1967,USA,Pulling shark from the water,24,5' blue shark,M,5' blue shark
+3514,1967,AUSTRALIA,"Spearfishing, dived to pick up a float line",23,White shark,M,White shark
+3518,1967,USA,Spearfishing,15,"Nurse shark, 106 cm, 28-lb, male ",M,"Nurse shark, 106 cm, 28-lb, male "
+3519,1967,BAHAMAS,Photographing sharks underwater using Scuba,41,1.5 m to 1.8 m [5' to 6'] sandbar shark,M,1.5 m to 1.8 m [5' to 6'] sandbar shark
+3523,1967,USA,Surfing,18,Questionable incident,M,Questionable incident
+3524,1967,USA,Spearfishing,26,"Nurse shark, 1 m ",M,"Nurse shark, 1 m "
+3527,1967,AUSTRALIA,Feeding a shark,22,Grey nurse shark,M,Grey nurse shark
+3530,1967,SOUTH AFRICA,Spearfishing,32,"White shark, 3 m [10'] ",M,"White shark, 3 m [10'] "
+3531,1967,AUSTRALIA,Spearfishing,36,Grey nurse shark,M,Grey nurse shark
+3533,1967,NEW ZEALAND,Lifesaving drill,21,Thought to involve a white shark,M,Thought to involve a white shark
+3539,1967,AUSTRALIA,Splashing,15,"""sand shark""",M,"""sand shark"""
+3540,1966,AUSTRALIA,Fishing,30,2.1 m [7'] shark,M,2.1 m [7'] shark
+3541,1966,AUSTRALIA,Spearfishing,29,"Grey nurse shark, 1.5 m [5'] ",M,"Grey nurse shark, 1.5 m [5'] "
+3542,1966,AUSTRALIA,Spearfishing,19,"Grey nurse shark, 1.5 m [5']",M,"Grey nurse shark, 1.5 m [5']"
+3544,1966,AUSTRALIA,Spearfishing,29,1.8 m [6'] shark,M,1.8 m [6'] shark
+3547,1966,PAPUA NEW GUINEA,Swimming,13,3.7 m [12'] shark,F,3.7 m [12'] shark
+3548,1966,PAPUA NEW GUINEA,Bathing,8,3.7 m [12'] shark,F,3.7 m [12'] shark
+3549,1966,AUSTRALIA,"Free diving, carrying speargun",32,"Bronze whaler shark, 2.1 m [7'], a tooth was embedded in the speargun ",M,"Bronze whaler shark, 2.1 m [7'], a tooth was embedded in the speargun "
+3553,1966,AUSTRALIA,Spearfishing,43,"Mako shark, 1.9 m [6.5'] ",M,"Mako shark, 1.9 m [6.5'] "
+3554,1966,USA,Hunting crayfish ,14,"Nurse shark, 2.5' ",M,"Nurse shark, 2.5' "
+3559,1966,NEW BRITAIN,Swimming,13,A pack of 6 sharks,F,A pack of 6 sharks
+3560,1966,NEW BRITAIN,Diving into water,9,A pack of 6 sharks,F,A pack of 6 sharks
+3561,1966,CROATIA,Swimming,33,White shark,M,White shark
+3563,1966,ITALY,Attacked shark with fists,21,"""small shark""",M,"""small shark"""
+3564,1966,USA,Spearfishing on Scuba,26,Invalid,M,Invalid
+3565,1966,USA,Wading,8,Spinner or blacktip sharks,M,Spinner or blacktip sharks
+3566,1966,USA,Diving for sand dollars,16,Lemon shark or sandtiger shark,M,Lemon shark or sandtiger shark
+3567,1966,USA,Killing a shark,34,4' shark,M,4' shark
+3571,1966,USA,Free diving,46,Invalid,M,Invalid
+3573,1966,USA,Clamming,15,"Local authorities speculated that the water was too cold for sharks, but a 2.1 m [7'], 200-lb pregnant sandbar shark was caught next day",M,"Local authorities speculated that the water was too cold for sharks, but a 2.1 m [7'], 200-lb pregnant sandbar shark was caught next day"
+3574,1966,USA,Fishing,18,1.2 m [4'] hammerhead shark,M,1.2 m [4'] hammerhead shark
+3575,1966,USA,Swimming,18,a small shark,M,a small shark
+3579,1966,AUSTRALIA,Shipwreck,38,Believed white shark and other smaller species of sharks involved.,M,Believed white shark and other smaller species of sharks involved.
+3580,1966,USA,Spearfishing / Scuba diving,24,Invalid,M,Invalid
+3586,1966,AUSTRALIA,Treading water,13,"White shark, 2.5 m [8.25'], an immature female, previously injured",M,"White shark, 2.5 m [8.25'], an immature female, previously injured"
+3587,1966,SOUTH AFRICA,Helping men land a shark,33,Copper shark,M,Copper shark
+3589,1966,USA,Free diving / spearfishing (resting on the surface),29,"White shark, 3 m [10'] ",M,"White shark, 3 m [10'] "
+3590,1966,AUSTRALIA,Spearfishing,30,"Wobbegong shark, 5' ",M,"Wobbegong shark, 5' "
+3592,1966,SOUTH AFRICA,Standing,16,1.5 m to 1.8 m [5' to 6'] Zambesi shark,M,1.5 m to 1.8 m [5' to 6'] Zambesi shark
+3593,1966,AUSTRALIA,Jumped into the water,43,76 cm [2.5'] carpet shark,M,76 cm [2.5'] carpet shark
+3594,1966,SOUTH AFRICA,Body surfing,15,"1.8 m to 2 m [6' to 6'9""] shark",M,"1.8 m to 2 m [6' to 6'9""] shark"
+3596,1966,USA,Swimming,35,Hammerhead shark,M,Hammerhead shark
+3597,1966,USA,Walking,15,Shark involvement not confirmed,F,Shark involvement not confirmed
+3598,1965,AUSTRALIA,"Spearfishing, but standing in knee-deep water",40,1.8 m [6'] carpet shark,M,1.8 m [6'] carpet shark
+3601,1965,AUSTRALIA,Fishing from 34' boat when pulled overboard by hooked shark,43,4.6 m [15'] shark,M,4.6 m [15'] shark
+3604,1965,AUSTRALIA,Surfing,24,"Grey nurse shark, 2.4 m [8'] ",M,"Grey nurse shark, 2.4 m [8'] "
+3606,1965,BAHAMAS,Sunbathing on beach when he saw child being attacked by the shark,32,"1.8 m [6'], 180-lb shark",M,"1.8 m [6'], 180-lb shark"
+3608,1965,NEW BRITAIN,"Spearfishing, shot a turtle",15,2 sharks involved,M,2 sharks involved
+3618,1965,USA,Wading,6,Questionable incident,M,Questionable incident
+3629,1965,USA,Surfing,19,Invalid,M,Invalid
+3630,1965,USA,Spearfishing,28,"White shark, 10' to 12' ",M,"White shark, 10' to 12' "
+3631,1965,PALAU,Walking on reef,8,"Tiger shark, tooth fragment recovered",M,"Tiger shark, tooth fragment recovered"
+3632,1965,USA,Paddling on surfboard,17,Blacktip or spinner shark,M,Blacktip or spinner shark
+3634,1965,USA,Free diving,16,Mako shark,M,Mako shark
+3635,1965,SOUTH AFRICA,Treading water,25,"1.8 m [6'], 136-kg [300-lb] shark ",M,"1.8 m [6'], 136-kg [300-lb] shark "
+3636,1965,USA,Scuba diving,18,1.2 m [4'] shark,M,1.2 m [4'] shark
+3637,1965,USA,Motor boat Rebel Belle lost,21,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+3638,1965,SOUTH AFRICA,Paddling rescue ski,22,"White shark, 3.7 m [12'] ",M,"White shark, 3.7 m [12'] "
+3641,1965,NEW GUINEA,Free diving,30,4.9 m [16'] whaler,M,4.9 m [16'] whaler
+3649,1964,SOUTH AFRICA,Swimming,19,Raggedtooth shark ,M,Raggedtooth shark 
+3652,1964,PAPUA NEW GUINEA,"Canoe swamped, swimming back to canoe",28,2.1 m [7'] shark,M,2.1 m [7'] shark
+3654,1964,AUSTRALIA,Free diving with seals,25,"White shark, 2.4 m [8'] ",M,"White shark, 2.4 m [8'] "
+3656,1964,AUSTRALIA,"Filming underwater, carrying powerhead",25,"White shark, 2.7 m [9'1""], 750-lb ",M,"White shark, 2.7 m [9'1""], 750-lb "
+3660,1964,AUSTRALIA,"Surfing, but swimming to his board",19,"Grey nurse shark, 1.8 m [6']",M,"Grey nurse shark, 1.8 m [6']"
+3663,1964,TAIWAN,Swimming,20,1.8 m [6'] shark,M,1.8 m [6'] shark
+3665,1964,MEXICO,Floating on his back in an inner tube,19,1.8 to 2.4 m [6' to 8'] shark,M,1.8 to 2.4 m [6' to 8'] shark
+3666,1964,USA,Spearfishing / free diving,18,Invalid,M,Invalid
+3668,1964,USA,Spearfishing using scuba,28,Hammerhead shark,M,Hammerhead shark
+3670,1964,PANAMA,Free diving / Spearfishingat edge of reef,21,Less than 1.2 m [4'],M,Less than 1.2 m [4']
+3672,1964,SOUTH AFRICA,Searching for remains of  Dr. Marais,30,Zambesi shark,M,Zambesi shark
+3679,1964,USA,Attempting to swim across the Atlantic Ocean,29,Shark involvement prior to death was not confirmed,F,Shark involvement prior to death was not confirmed
+3683,1964,SOUTH AFRICA,Swimming,40,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+3684,1964,PANAMA,Standing,47,Lemon shark ,M,Lemon shark 
+3685,1964,FIJI,Spearfishing,35,Tiger shark,M,Tiger shark
+3686,1964,PANAMA,Skin diving,13,1.8 m [6'] shark,M,1.8 m [6'] shark
+3688,1964,AUSTRALIA,Surfing,19,1.8 m [6'] shark,M,1.8 m [6'] shark
+3690,1964,USA,Skin diving ,38,1.7 m [5.5'] shark,M,1.7 m [5.5'] shark
+3696,1964,NEW ZEALAND,Spearfishing,26,"White shark, 3 m [10'] ",M,"White shark, 3 m [10'] "
+3697,1964,SOUTH AFRICA,Body boarding,25,"White shark, 1.5 m [5'] k",M,"White shark, 1.5 m [5'] k"
+3699,1964,NEW ZEALAND,Swimming,19,"White shark, 3 m to 3.7 m [10' to 12'] ",M,"White shark, 3 m to 3.7 m [10' to 12'] "
+3700,1964,AUSTRALIA,Swimming,23,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+3702,1964,USA,Floating,12,Hammerhead shark,M,Hammerhead shark
+3709,1964,USA,Spearfishing / Scuba diving (at surface),21,White shark (tooth fragment recovered),M,White shark (tooth fragment recovered)
+3715,1963,SOUTH AFRICA,Standing,20,"Zambesi shark, 1.8 m [6'] ",F,"Zambesi shark, 1.8 m [6'] "
+3716,1963,SOUTH AFRICA,Swimming ,24,1.8 m [6']  shark,M,1.8 m [6']  shark
+3720,1963,SOUTH AFRICA,Helping friend land hooked shark,13,"Dusky shark, 1 m ",M,"Dusky shark, 1 m "
+3723,1963,SOUTH AFRICA,Splashing in surf,15,300- to 400-lb Zambesi shark,M,300- to 400-lb Zambesi shark
+3724,1963,AUSTRALIA,Spearfishing,23,White shark,M,White shark
+3725,1963,NEW BRITAIN,Spearfishing,22,Tiger shark,M,Tiger shark
+3726,1963,NEW ZEALAND,Treading water while alongside capsized yacht,20,Possibly a broadnose 7-gill shark,M,Possibly a broadnose 7-gill shark
+3727,1963,PAPUA NEW GUINEA,Fishing / standing in waist deep water,18,Tiger shark,F,Tiger shark
+3728,1963,FIJI,Fishing,21,>1.2 m [4'] tiger shark,F,>1.2 m [4'] tiger shark
+3734,1963,PALAU,Fishing,35,Dooley believed his Injury was caused by stingray (Dasyatidae family),M,Dooley believed his Injury was caused by stingray (Dasyatidae family)
+3735,1963,USA,"Surf fishing, wading ",28,500-lb shark,M,500-lb shark
+3739,1963,SOLOMON ISLANDS,Spearing fish,30,5.5 m [18'] shark,M,5.5 m [18'] shark
+3740,1963,AUSTRALIA,Surfing,18,1.5 m [5'] shark,M,1.5 m [5'] shark
+3741,1963,USA,"Spearfishing, pulled shark’s tail",16,"Nurse shark, 1.2 m [4'] ",M,"Nurse shark, 1.2 m [4'] "
+3743,1963,FEDERATED STATES OF MICRONESIA,Spearfishing,26,Tiger shark,M,Tiger shark
+3745,1963,USA,"Fishing, on charter boat Silver Dollar",24,1.2 m [4'] shark,M,1.2 m [4'] shark
+3748,1963,GREECE,Swimming,42,"White shark, 3 m ",F,"White shark, 3 m "
+3749,1963,PAPUA NEW GUINEA,Fishing,30,1.8 m [6'] shark,M,1.8 m [6'] shark
+3753,1963,USA,Swimming,25,"Hand found in gut of 2.9 m to 3.3 m [9'7"" to 10'11""] Galapagos shark, C. galapagensis",M,"Hand found in gut of 2.9 m to 3.3 m [9'7"" to 10'11""] Galapagos shark, C. galapagensis"
+3755,1963,AUSTRALIA,"Surfing on ""chest board"" (boogie board?)",25,1.8 m to 2.4 m  [6' to 8'] shark,M,1.8 m to 2.4 m  [6' to 8'] shark
+3756,1963,USA,Surfing ,15,3.7 to 4.5 m [12' to 15'] shark seen in vicinity,M,3.7 to 4.5 m [12' to 15'] shark seen in vicinity
+3760,1963,AUSTRALIA,Spearfishing,18,"Bronze whaler shark, 3 m [10'] ",M,"Bronze whaler shark, 3 m [10'] "
+3761,1963,FIJI,Spearfishing,28,"White shark, 2.1 m [7'] ",M,"White shark, 2.1 m [7'] "
+3765,1963,AUSTRALIA,Wading,32,"Tooth fragments of “whaler” shark were recovered, a bull shark, according to Edwards",F,"Tooth fragments of “whaler” shark were recovered, a bull shark, according to Edwards"
+3766,1963,AUSTRALIA,Swimming,25,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+3770,1963,SOUTH AFRICA,"Free diving, hunting crayfish",27,1 m shark,M,1 m shark
+3771,1963,SOUTH AFRICA,Spearfishing,24,"Zambesi shark, 2 m [6'9""] ",M,"Zambesi shark, 2 m [6'9""] "
+3777,1962,AUSTRALIA,Spearfishing,16,"White shark, 4.3 m [14'] (or bronze whaler)",M,"White shark, 4.3 m [14'] (or bronze whaler)"
+3779,1962,AUSTRALIA,"Spearfishing, Scuba diving",26,3 m [10'] shark,M,3 m [10'] shark
+3781,1962,USA,Spearfishing / Scuba diving (at surface),24,"White shark, 4.3 m to 4.9m [14' to 16']",M,"White shark, 4.3 m to 4.9m [14' to 16']"
+3785,1962,MEXICO,Wading,32,2.7 m [9'] shark,M,2.7 m [9'] shark
+3788,1962,USA,"Overcome by CO fumes, fell overboard from 36' fishing cruiser & prop slashed arm",43,Shark involvement prior to death was not confirmed,F,Shark involvement prior to death was not confirmed
+3790,1962,BRITISH WEST INDIES,Spearfishing,24," Blacktip shark, C. maculipinnis. 1.9 m to 2.1 m [6.5' to 7'] ",M," Blacktip shark, C. maculipinnis. 1.9 m to 2.1 m [6.5' to 7'] "
+3793,1962,ITALY,Spearfishing with Scuba gear,28,White shark,M,White shark
+3796,1962,PAPUA NEW GUINEA,Fishing,49,"""A long thin brown-colored shark""",M,"""A long thin brown-colored shark"""
+3797,1962,USA,Diving for abalone,39,"Horn shar,k Heterodontus francisci, 1.2 m [4'] ",M,"Horn shar,k Heterodontus francisci, 1.2 m [4'] "
+3800,1962,USA,Surf fishing in waist-deep water,40,Unknown,M,Unknown
+3801,1962,USA,Standing,24,1.8 m [6'] shark,M,1.8 m [6'] shark
+3804,1962,SENEGAL,Beach seine netting,23,3.5 m shark,M,3.5 m shark
+3805,1962,USA,Standing,21,1.8 m to 2.4 m [6' to 8'] shark,M,1.8 m to 2.4 m [6' to 8'] shark
+3806,1962,MADAGASCAR,Finning the shark,20,"2 m [6'9""] shark",M,"2 m [6'9""] shark"
+3807,1962,USA,Fishing for albacore,19,Blue shark,M,Blue shark
+3813,1962,USA,Rolled off raft,11,1.8 m [6'] shark,M,1.8 m [6'] shark
+3820,1962,USA,"Scuba diving, attempting to catch a captive shark",55," Sevengill  shark, 1.2 m [4'] ",M," Sevengill  shark, 1.2 m [4'] "
+3827,1962,SOUTH AFRICA,Wading,13,"Zambesi shark, 1.2 m [4'] ",M,"Zambesi shark, 1.2 m [4'] "
+3831,1962,PAPUA NEW GUINEA,Swimming,10,Possibly a bronze whaler shark,M,Possibly a bronze whaler shark
+3833,1962,NEW ZEALAND,Swimming,15,1.8 m [6'] shark,M,1.8 m [6'] shark
+3836,1962,SOUTH AFRICA,Treading water,13,"White shark, 3 m ",M,"White shark, 3 m "
+3837,1962,AUSTRALIA,Swimming,35,60 cm  shark ,M,60 cm  shark 
+3840,1962,NEW ZEALAND,Splashing ,18,1.5 m [5'] shark,M,1.5 m [5'] shark
+3842,1962,AUSTRALIA,Spearfishing,19,"Bronze whaler shark,  3m [10'] ",M,"Bronze whaler shark,  3m [10'] "
+3843,1962,SOUTH AFRICA,"Fishing, slipped on rocks & fell into sea",40,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+3846,1962,USA,Spearfishing / Scuba diving (at surface),29,"White shark, 4 m [13'] ",M,"White shark, 4 m [13'] "
+3848,1962,AUSTRALIA,Surfing,19,"Bronze whaler shark, 2.1 m [7'] shark",M,"Bronze whaler shark, 2.1 m [7'] shark"
+3850,1962,PAPUA NEW GUINEA,Spearfishing,24,White shark,M,White shark
+3851,1962,NEW ZEALAND,Surf fishing,54,"36""  shark",F,"36""  shark"
+3853,1962,AUSTRALIA,Swimming,25,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+3858,1962,MARSHALL ISLANDS,Fishing with hand net in 2' of water,57,1.8 m [6'] shark,M,1.8 m [6'] shark
+3862,1961,AUSTRALIA,Standing,18,3 m [10'] shark,F,3 m [10'] shark
+3863,1961,AUSTRALIA,Standing,24,3 m [10'] shark,M,3 m [10'] shark
+3864,1961,SOUTH AFRICA,Treading water,18,Zambesi shark,M,Zambesi shark
+3865,1961,AUSTRALIA,Spearfishing,23,"Grey nurse shark, 2.4 m [8'] ",M,"Grey nurse shark, 2.4 m [8'] "
+3868,1961,AUSTRALIA,"Surfing, pushing board ashore",22,Next morning a 3 m [10'] shark was caught that had Andrews' leg in its gut,M,Next morning a 3 m [10'] shark was caught that had Andrews' leg in its gut
+3869,1961,AUSTRALIA,Swimming with other crew near wharf,17,1.8 m [6'] shark,M,1.8 m [6'] shark
+3872,1961,USA,Swimming,45,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+3876,1961,CROATIA,Swimming,19,White shark,M,White shark
+3878,1961,MID ATLANTIC OCEAN,"Survived US Naval aircraft crash, climbing onboard rescue vessel when he fell back into sea ",22,"Oceanic whitetip shar,; identified by Dr. W.C. Schoeder on photograph & Dr. L.P. L. Schultz on sketch by observer",M,"Oceanic whitetip shar,; identified by Dr. W.C. Schoeder on photograph & Dr. L.P. L. Schultz on sketch by observer"
+3882,1961,USA,Swimming,16,"White shark, 4 m [13'] ",M,"White shark, 4 m [13'] "
+3883,1961,USA,Wading,19,White shark,M,White shark
+3884,1961,BERMUDA,Spearfishing,22,"Blacktip shark, 1.8 m to 2.1 m [6' to 7'] ",M,"Blacktip shark, 1.8 m to 2.1 m [6' to 7'] "
+3885,1961,USA,"Net fishing, picking catch from the net",38,2.4 m [8'] shark,M,2.4 m [8'] shark
+3887,1961,USA,Spearfishing,57,"43"" shark",M,"43"" shark"
+3890,1961,ITALY,Spearfishing,21,"White shark, 4.5 m ",M,"White shark, 4.5 m "
+3896,1961,PAPUA NEW GUINEA,"Fishing, speared shark upset canoe & man fell in water",19,2.7 m [9']shark,M,2.7 m [9']shark
+3897,1961,USA,Free diving for abalone,20,White shark,M,White shark
+3899,1961,USA,Walking in chest-deep water,52,"Hammerhead shark, 500-llb ",M,"Hammerhead shark, 500-llb "
+3901,1961,USA,Splashing ,10,Shark involvement not confirmed,M,Shark involvement not confirmed
+3903,1961,MOZAMBIQUE,Swimming,37,Zambesi shark,M,Zambesi shark
+3905,1961,USA,Spearfishing,22,"Tiger shark, 3 m [10']",M,"Tiger shark, 3 m [10']"
+3906,1961,AUSTRALIA,Spearfishing,21,"Wobbegong shark, O. barbatus,  1.8 m [6'], identified by G.P. Whitley",M,"Wobbegong shark, O. barbatus,  1.8 m [6'], identified by G.P. Whitley"
+3907,1961,AUSTRALIA,"Checking fish traps, fell into the water",40," ""gummy"" shark (Rhizoprionodon or Loxodon) 1.2 m [4']",M," ""gummy"" shark (Rhizoprionodon or Loxodon) 1.2 m [4']"
+3908,1961,MOZAMBIQUE,"Swimming, using bundles of sticks as raft",38,Zambesi shark,M,Zambesi shark
+3910,1961,AUSTRALIA,Spearfishing,24,"Grey nurse shark, 2,7 m [9'], 200-lb ",M,"Grey nurse shark, 2,7 m [9'], 200-lb "
+3912,1961,AUSTRALIA,Spearfishing,24,"Bronze whaler shark, 2.4 m [8'] Identified by Clyde Buttery",M,"Bronze whaler shark, 2.4 m [8'] Identified by Clyde Buttery"
+3913,1961,AUSTRALIA,Swimming,24,3 m [10'] shark,M,3 m [10'] shark
+3915,1961,AUSTRALIA,Spearfishing,21,"White shark, 3.7 m [12'] ",M,"White shark, 3.7 m [12'] "
+3916,1961,NORTH PACIFIC OCEAN,Free diving,33,"Grey reef shark, 1.8 m [6'] grey reef shark, identified by Dr. L.P. L. Schultz based on photographs; identified as C. melanopterus by Stewart",M,"Grey reef shark, 1.8 m [6'] grey reef shark, identified by Dr. L.P. L. Schultz based on photographs; identified as C. melanopterus by Stewart"
+3917,1961,SOUTH AFRICA,Fishing,44,"Zambesi shark, 4'9""",M,"Zambesi shark, 4'9"""
+3922,1961,SOUTH AFRICA,"Spearfishing, shark grabbed his white t-shirt and towed him ",27,1.5 m [5'] shark,M,1.5 m [5'] shark
+3923,1961,SOUTH AFRICA,Swimming,14,"2.1 m [7'], 90-kg shark",M,"2.1 m [7'], 90-kg shark"
+3927,1961,SOUTH AFRICA,Swimming,15,White shark,M,White shark
+3928,1961,AUSTRALIA,Collecting aquarium specimens,27,"Wobbegong shark, 1.5 m [5'] ",M,"Wobbegong shark, 1.5 m [5'] "
+3929,1961,SOUTH AFRICA,Standing,13,"White shark, based on bite pattern",M,"White shark, based on bite pattern"
+3939,1961,SENEGAL,Free diving for molluscs,20,> 3 m shark,M,> 3 m shark
+3943,1960,SOUTH AFRICA,Swimming,25,"White shark, 3 m [10'], tooth fragment from wounds identified as that of a white shark",M,"White shark, 3 m [10'], tooth fragment from wounds identified as that of a white shark"
+3944,1960,AUSTRALIA,"Fishing, when line became snagged on rock & he dived into water to free it ",33,"Grey nurse shark, 1m ",M,"Grey nurse shark, 1m "
+3946,1960,AUSTRALIA,Swimming,41,3' shark,M,3' shark
+3947,1960,USA,"Fell overboard, prop slashed arm",51,Shark involvement prior to death was not confirmed,F,Shark involvement prior to death was not confirmed
+3949,1960,AUSTRALIA,"Spearfishing, speared fish retreated to cave where shark grabbed his arm",24,"Wobbegong shark, 1.8 m [6'] ",M,"Wobbegong shark, 1.8 m [6'] "
+3955,1960,AUSTRALIA,Fishing,24,Shark involvement not confirmed,M,Shark involvement not confirmed
+3960,1960,JOHNSTON ISLAND,"Free diving / photography, kneeling on sand",37,Invalid,M,Invalid
+3974,1960,USA,Holding shark on leader & dangling it above the water,15,"Lemon shark, 1164 mm, immature male, identified by  V.G. Springer",M,"Lemon shark, 1164 mm, immature male, identified by  V.G. Springer"
+3975,1960,ENGLAND,Helping angler land a shark,25,80-lb hooked shark,M,80-lb hooked shark
+3976,1960,USA,"Fishing, Struck by another shark when removing shark from line",46,2.4 m [8'] shark,M,2.4 m [8'] shark
+3980,1960,USA,"Fishing, tossing netted shark onboard",41,"""sand shark""",M,"""sand shark"""
+3984,1960,NORTH SEA,Fishing,18,"""A small shark""",M,"""A small shark"""
+3985,1960,USA,Scuba diving,39,"Mako shark, 1.8 m to 2.1 m [6' to 7']  with hook & wire leader caught in mouth",M,"Mako shark, 1.8 m to 2.1 m [6' to 7']  with hook & wire leader caught in mouth"
+3990,1960,BERMUDA,Free diving but treading water at surface,25,"Dusky shark, 2.7 m [9'] dusky shark C. obscurus identified by S. Springer on tooth recovered",M,"Dusky shark, 2.7 m [9'] dusky shark C. obscurus identified by S. Springer on tooth recovered"
+3991,1960,USA,Swimming ,16,"White shark, 4 m to 5 m [13' to 16.5'] ",F,"White shark, 4 m to 5 m [13' to 16.5'] "
+3994,1960,SOUTH AFRICA,Treading water,16,"White shark, 2.1 m [7']  based on tooth pattern",M,"White shark, 2.1 m [7']  based on tooth pattern"
+3995,1960,USA,Skindiving for abalone (but at surface),48,"White shark, 4.9 m [16'] ",M,"White shark, 4.9 m [16'] "
+3999,1960,AUSTRALIA,Surfing,17,"White shark, 3.7 m [12'] ",M,"White shark, 3.7 m [12'] "
+4007,1960,USA,Treading water,42,"1.2 m [4'], possibly  larger shark",M,"1.2 m [4'], possibly  larger shark"
+4008,1960,GUAM,"Spearfishing, carrying fish on belt",44,1.2 m [4'] shark,M,1.2 m [4'] shark
+4010,1960,NEW ZEALAND,Spearfishing,22,"Bronze whaler shark,4 m [13'] ",M,"Bronze whaler shark,4 m [13'] "
+4011,1960,USA,Spearfishing,36,"According to Benjamin, the injury was inflicted by a barracuda, not a shark",M,"According to Benjamin, the injury was inflicted by a barracuda, not a shark"
+4013,1960,PAPUA NEW GUINEA,Spearfishing,26,"Tiger shark, 3.4 m [11'] captured",M,"Tiger shark, 3.4 m [11'] captured"
+4015,1960,AUSTRALIA,Spearfishing,20,"Grey nurse shark, 2.9 m [9'6""] ",M,"Grey nurse shark, 2.9 m [9'6""] "
+4020,1960,AUSTRALIA,Free diving,13,Bull shark,M,Bull shark
+4043,1959,AUSTRALIA,Body surfing,19,3.5 m [11.5'] shark,M,3.5 m [11.5'] shark
+4044,1959,AUSTRALIA,Standing in chest-deep water,17,"""a small shark""",M,"""a small shark"""
+4045,1959,AUSTRALIA,Trailing the field in a surf race,19,3 m to 4.3 m [10' to 14'] shark,M,3 m to 4.3 m [10' to 14'] shark
+4049,1959,USA,Swimming at surface through school of feeding 2.5' to 5’ sharks,21,"Blue shark, 1.5 m [5'] ",M,"Blue shark, 1.5 m [5'] "
+4054,1959,USA,Diving for abalone,30,"White shark, 5 m [16.5'], identified by Dr. W. I. Follett on tooth marks",M,"White shark, 5 m [16.5'], identified by Dr. W. I. Follett on tooth marks"
+4056,1959,FIJI,Spearfishing,36,"Tiger shark, 1.8 m [6']",M,"Tiger shark, 1.8 m [6']"
+4059,1959,USA,"Adrift, hanging onto cushion, after his 17' skiff ran out of gas & capsized 3 miles from shore",30,"A hammerhead shark, then 8 to 10 other sharks were said to be  involved",M,"A hammerhead shark, then 8 to 10 other sharks were said to be  involved"
+4068,1959,PHILIPPINES,The 240-ton motor vessel Pilar II with 100 people on board capsized in high winds & rough seas,10,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+4069,1959,USA,Diving,21,Invalid,M,Invalid
+4070,1959,USA,Spearfishing on Scuba,26,3.7 m [12'] shark,M,3.7 m [12'] shark
+4073,1959,USA,"Spearfishing with Joe Turner (24). Shark attracted to speared halibut on belt of one diver, tried to bite Ide’s speargun & he shot it in the mouth",32,"Hammerhead shark, 9' ",M,"Hammerhead shark, 9' "
+4080,1959,USA,Spearfishing (but on surface),25,"Hammerhead shark, 1.8 m [6'] S. zygena identified by C. Limbaugh on description",M,"Hammerhead shark, 1.8 m [6'] S. zygena identified by C. Limbaugh on description"
+4086,1959,USA,Free diving,13,"Nurse shark, 60 cm [24""], identified by Dr. L.P. L. Schultz on photograph",M,"Nurse shark, 60 cm [24""], identified by Dr. L.P. L. Schultz on photograph"
+4091,1959,USA,Free diving for abalone,33,"Reported to involve a White shark, 6 m to 7m [20' to 23'] ",M,"Reported to involve a White shark, 6 m to 7m [20' to 23'] "
+4093,1959,SOUTH AFRICA,Spearfishing,23,"White shark, 2.7 m [9'], 280-lb ",M,"White shark, 2.7 m [9'], 280-lb "
+4095,1959,USA,Treading water,18,"White shark, 3 m [10']; identifed by Dr. W.I. Follett on tooth marks",M,"White shark, 3 m [10']; identifed by Dr. W.I. Follett on tooth marks"
+4096,1959,USA,Spearfishing,19,"Tiger shark, 3.7 m [12']",M,"Tiger shark, 3.7 m [12']"
+4098,1959,AUSTRALIA,Spearfishing,22,Questionable incident,M,Questionable incident
+4099,1959,AUSTRALIA,Diving for pearl shell,43,"Tiger shark, 1.8 m [6'] ",M,"Tiger shark, 1.8 m [6'] "
+4110,1959,SOUTH AFRICA,Treading water,14,1.8 to 2.1 m [6' to 7'] shark,M,1.8 to 2.1 m [6' to 7'] shark
+4111,1959,AUSTRALIA,Working prawn net,20,"Grey nurse shark, 1.8 m [6']",M,"Grey nurse shark, 1.8 m [6']"
+4112,1959,ECUADOR,Washed overboard into school of fish,57,Bitten by several 1.8 m [6'] sharks,M,Bitten by several 1.8 m [6'] sharks
+4114,1959,AUSTRALIA,In deep water about 100 yards from his ship,22,Said to involve 2 sharks: 5.2 m & 6 m [17' & 20'] ,M,Said to involve 2 sharks: 5.2 m & 6 m [17' & 20'] 
+4115,1959,AUSTRALIA,"Surfing, but treading water",17,1.8 m [6'] shark,M,1.8 m [6'] shark
+4116,1959,SOUTH AFRICA,Swimming,18,"White shark, 1.8 m to 2.1 m [6' to 7']  according to Shreuder and a witness",M,"White shark, 1.8 m to 2.1 m [6' to 7']  according to Shreuder and a witness"
+4130,1958,USA,Surfing on air mattress,15,"Tiger shark, 4.6 m to 7.6 m [15' to 25'] ",M,"Tiger shark, 4.6 m to 7.6 m [15' to 25'] "
+4131,1958,AMERICAN SAMOA,Cleaning hull of ship ,22,Tiger shark,M,Tiger shark
+4132,1958,AUSTRALIA,Swimming,21,12' shark,M,12' shark
+4140,1958,ANDAMAN / NICOBAR ISLANDAS,"""Climbing up to ship after repairing the stern in water""",32,Blue shark,M,Blue shark
+4141,1958,BAHAMAS,Fishing,42,200-lb shark,M,200-lb shark
+4146,1958,USA,"Swimming, ducking for shells in water 0.9 m deep",12,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] ",M,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] "
+4147,1958,USA,"Swimming, ducking for shells in water 0.9 m deep",8,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] ",M,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] "
+4151,1958,PACIFIC OCEAN,U.S. Airforce C124 enroute from Hickham Air Base to Japan went down. The 3 survivors fashioned raft from mailbags  & were rescued 3 days after the crash.,31,Sharks averaged 1.8 m [6'] in length,M,Sharks averaged 1.8 m [6'] in length
+4152,1958,USA,Free diving,20,"Nurse shark, 1.5 m [5']  identified by Dr. E. Clark on description of shark",M,"Nurse shark, 1.5 m [5']  identified by Dr. E. Clark on description of shark"
+4154,1958,BAHAMAS,"Spearfishing, had fish on his spear",36,"Tiger shark, <2 m TL",M,"Tiger shark, <2 m TL"
+4156,1958,USA,Wading,59,"Nurse shark, 2.1 m [7']  identified by Dr. E. Clark on color & tooth impressions",M,"Nurse shark, 2.1 m [7']  identified by Dr. E. Clark on color & tooth impressions"
+4157,1958,USA,Walking,17,Tiger shark?,M,Tiger shark?
+4161,1958,USA,Free diving,29,"Nurse shark, 1.5 m [5'] ",M,"Nurse shark, 1.5 m [5'] "
+4162,1958,TAIWAN,Diving,29,"Mako shark, 100-kg [221-lb] ",M,"Mako shark, 100-kg [221-lb] "
+4163,1958,SOUTH AFRICA,Paddling in knee-deep water,28,3 m [10'] shark,F,3 m [10'] shark
+4164,1958,SOUTH AFRICA,Swimming with goggles,29,3 m [10'] shark,M,3 m [10'] shark
+4166,1958,AUSTRALIA,Spearfishing,21,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+4167,1958,USA,Spearfishing on Scuba,18,"Nurse shark, 1.5 m [5'] ",M,"Nurse shark, 1.5 m [5'] "
+4169,1958,AUSTRALIA,Body surfing,14,6' shark,M,6' shark
+4182,1957,SOUTH AFRICA,Standing,14,1.8 m [6'] shark,F,1.8 m [6'] shark
+4184,1957,SOUTH AFRICA,Floating,23,>3 m [10'] shark,M,>3 m [10'] shark
+4194,1957,USA,Swimming,57,White shark,M,White shark
+4195,1957,AUSTRALIA,Diving for trochus,36,9' shark,M,9' shark
+4197,1957,AUSTRALIA,Competing in spearfishing championship & towing dead fish,28,4.6 m [15'] shark,M,4.6 m [15'] shark
+4200,1957,USA,Swimming,25,White shark,M,White shark
+4201,1957,AUSTRALIA,Surfing,15,Wobbegong shark?,M,Wobbegong shark?
+4202,1957,USA,Standing,17,4 m [13'] shark,M,4 m [13'] shark
+4203,1957,AUSTRALIA,Swimming between  anchored  pearling luggers,22,Shark seen feeding on turtle scraps thrown overboard prior to incident.,M,Shark seen feeding on turtle scraps thrown overboard prior to incident.
+4222,1956,PAPUA NEW GUINEA,Spearfishing,19,2.4 m [8'] tiger shark caught 40 hours later with shorts of the boy in its gut,M,2.4 m [8'] tiger shark caught 40 hours later with shorts of the boy in its gut
+4225,1956,NEW ZEALAND,Fishing,70,"Mako shark, 125-lb ",M,"Mako shark, 125-lb "
+4226,1956,SOUTH AFRICA,Free diving for sinkers,29,"White shark, according to witnesses",M,"White shark, according to witnesses"
+4228,1956,SENEGAL,"Skindiving, fish at belt",19,Lemon shark,M,Lemon shark
+4230,1956,USA,Surf fishing,27,a sand shark,M,a sand shark
+4234,1956,PAPUA NEW GUINEA,Fishing ,34,4.3 m [14'] shark,M,4.3 m [14'] shark
+4238,1956,USA,Swimming near pier,10,"White shark, 2.7 m [9'] ",M,"White shark, 2.7 m [9'] "
+4246,1956,USA,Fishing,38,8-lb shark,M,8-lb shark
+4247,1956,MALTA,Swimming,40,White shark,M,White shark
+4258,1956,AUSTRALIA,"Swimming, attacked at  surf carnival",26,3.7 m [12'] shark & may have been another shark nearby,M,3.7 m [12'] shark & may have been another shark nearby
+4260,1956,AUSTRALIA,Diving into water,15,1.8 m [6'] shark,M,1.8 m [6'] shark
+4264,1956,AUSTRALIA,Surf skiing,25,5' to 6' shark,M,5' to 6' shark
+4267,1956,GREECE,Swimming off yacht,15,White shark,F,White shark
+4275,1955,PAPUA NEW GUINEA,Swimming,8,Wobbegong shark,M,Wobbegong shark
+4277,1955,AUSTRALIA,Spearfishing & lassoed shark,28,6' shark,M,6' shark
+4284,1955,USA,Surfing,25,5' thresher or blue shark. The shark  was killed following the incident,M,5' thresher or blue shark. The shark  was killed following the incident
+4285,1955,CROATIA,Swimming,32,White shark,F,White shark
+4286,1955,AMERICAN SAMOA,Swimming,28,Blue shark,M,Blue shark
+4291,1955,USA,Wading,13,0.7 m [2.5'] sand shark,M,0.7 m [2.5'] sand shark
+4294,1955,USA,Spearfishing,28,2 m [6.75'] shark,M,2 m [6.75'] shark
+4303,1955,USA,Spearfishing,19,"White shark, 5 m to 6 m [16.5' to 20] ",M,"White shark, 5 m to 6 m [16.5' to 20] "
+4304,1955,AUSTRALIA,Swimming,25,3.6 m  white shark  (or bronze whaler),M,3.6 m  white shark  (or bronze whaler)
+4308,1955,AUSTRALIA,Hunting lobsters in 2.4 m of water,13,"Bronze whaler shark,3.7 m [12'] ",M,"Bronze whaler shark,3.7 m [12'] "
+4314,1955,COLUMBIA,Spearfishing,12,1.5 m [5'] shark,M,1.5 m [5'] shark
+4322,1954,UNITED KINGDOM,Fishing  (trawling),62,20' shark,M,20' shark
+4325,1954,USA,Swimming,35,1.5 m [5'] shark,M,1.5 m [5'] shark
+4327,1954,AUSTRALIA,"Spearfishing, hunting crayfish",35,9' shark,M,9' shark
+4336,1954,BERMUDA,Swimming,22,"2.4 m [8'] shark, possibly a dusky shark",M,"2.4 m [8'] shark, possibly a dusky shark"
+4340,1954,AUSTRALIA,Pearl diving from lugger Whyalla,30,2.4 m [8']  shark,M,2.4 m [8']  shark
+4349,1954,ARGENTINA,Floating,18,White shark tooth fragment recovered from ankle & identified by Dr. W. I. Follett,M,White shark tooth fragment recovered from ankle & identified by Dr. W. I. Follett
+4350,1954,PAPUA NEW GUINEA,Crouching in the water,26,14' shark,M,14' shark
+4366,1953,USA,Surf fishing,15,80-lb sand shark,M,80-lb sand shark
+4368,1953,MEXICO,Free diving,19,Invalid,M,Invalid
+4370,1953,USA,Spearfishing,15,3 m [10'] shark seen in vicinity,M,3 m [10'] shark seen in vicinity
+4387,1953,AUSTRALIA,Spearfishing,25,Wobbegong shark,M,Wobbegong shark
+4395,1952,AUSTRALIA,"Fishing, setting nets",25,2.4 m [8'] shark,M,2.4 m [8'] shark
+4397,1952,ITALY,Fishing,17,200-lb shark,M,200-lb shark
+4399,1952,USA,Body surfing & treading water,17,"White shark,4.6 m [15'] ",M,"White shark,4.6 m [15'] "
+4400,1952,USA,Swimming from fishing boat setting nets,40,>6.7 m [22']  shark,M,>6.7 m [22']  shark
+4405,1952,USA,Fishing,43,a small shark',M,a small shark'
+4406,1952,USA,Fishing,34,a small shark',M,a small shark'
+4424,1951,AUSTRALIA,Spearfishing,18,"Wobbegong shark, 1.8 m [6'] ",M,"Wobbegong shark, 1.8 m [6'] "
+4426,1951,AUSTRALIA,Treading water,21,2.4 m [8']  shark,M,2.4 m [8']  shark
+4427,1951,SOUTH AFRICA,Swimming,23,"White shark, 1.8 m [6'] ",M,"White shark, 1.8 m [6'] "
+4429,1951,SOUTH AFRICA,Treading water,24,"White shark, 2.4 m [8'] ",M,"White shark, 2.4 m [8'] "
+4436,1951,GREECE,Swimming,18,White shark,M,White shark
+4437,1951,GREECE,Swimming,16,White shark,F,White shark
+4441,1951,PACIFIC OCEAN,Fell overboard,40,2.1 m [7'] shark,M,2.1 m [7'] shark
+4446,1951,AUSTRALIA,Fell off surf ski,23,"Wobbegong shark, 4'",M,"Wobbegong shark, 4'"
+4449,1951,SOUTH AFRICA,Body surfing,31,136-kg [300-lb] shark,M,136-kg [300-lb] shark
+4451,1951,AUSTRALIA,Swimming,14,1.2 m [4'] shark,M,1.2 m [4'] shark
+4455,1950,AUSTRALIA,Paddling a surfboat,19,"Nurse shark, 10' ",M,"Nurse shark, 10' "
+4458,1950,AUSTRALIA,Diving ,17,2' shark,M,2' shark
+4459,1950,AUSTRALIA,Body surfing,21,"White shark, 3m, seen in area and hooked 3 days later",M,"White shark, 3m, seen in area and hooked 3 days later"
+4460,1950,AUSTRALIA,Paddling a canoe,18,10' shark,M,10' shark
+4461,1950,USA,Body surfing / treading water,31,White shark,M,White shark
+4462,1950,AUSTRALIA,Fishing,25,4' shark,M,4' shark
+4463,1950,EL SALVADOR,Jerked overboard while pole fishing for tuna,27,"1,100-lb shark",M,"1,100-lb shark"
+4469,1950,USA,Swimming,11,Hammerhead shark,M,Hammerhead shark
+4471,1950,USA,"Goggle-diving for seaweeds, but standing in water",21,0.7 m [2.5'] shark,M,0.7 m [2.5'] shark
+4472,1950,USA,Swimming ,16,"""sand shark""",M,"""sand shark"""
+4482,1950,SOUTH AFRICA,Body surfing,14,"White shark, 3.7 m [12']  according to witnesses",M,"White shark, 3.7 m [12']  according to witnesses"
+4499,1949,AUSTRALIA,Lying on the bottom of a 16' dinghy,35,"Grey nurse shark, 2.6 m [8.5']  ",M,"Grey nurse shark, 2.6 m [8.5']  "
+4500,1949,AUSTRALIA,Free diving or wading back to shore,36,6' shark,M,6' shark
+4504,1949,ITALY,Swimming,17,2 m shark,M,2 m shark
+4510,1949,USA,Fishing,16,"Bonita sharkk, 200-lb",M,"Bonita sharkk, 200-lb"
+4512,1949,AUSTRALIA,Bathing,22,"Whaler shark, 2.7 m [9'], 350- to 450-lb  identified by G.P. Whitley",F,"Whaler shark, 2.7 m [9'], 350- to 450-lb  identified by G.P. Whitley"
+4515,1949,AUSTRALIA,Bathing in water 0.9 m deep,13,"3.3 m [10'9""] shark",M,"3.3 m [10'9""] shark"
+4518,1949,AUSTRALIA,Lifesaving exhibition,20,"White shark, 3.6 m [11'9""] ",M,"White shark, 3.6 m [11'9""] "
+4519,1949,AUSTRALIA,Surfing,32,Invalid,M,Invalid
+4529,1948,AUSTRALIA,Swimming,17,His hand was found in a 2.4 m [8'] tiger shark caught 1/5/1949,M,His hand was found in a 2.4 m [8'] tiger shark caught 1/5/1949
+4536,1948,GREECE,Swimming,17,Said to be 6.4 m [21'] shark,M,Said to be 6.4 m [21'] shark
+4544,1948,BAHAMAS,Spearing a shark,41,"Lemon shark, 4'",M,"Lemon shark, 4'"
+4551,1948,PAPUA NEW GUINEA,Spearfishing,30,"""grey shark""",M,"""grey shark"""
+4553,1948,AUSTRALIA,Swimming,16,3.7 m [12'] shark,M,3.7 m [12'] shark
+4555,1948,USA,Underwater photography,48,Nurse shark,M,Nurse shark
+4559,1947,AUSTRALIA,Fishing,9,Grey nurse shark,M,Grey nurse shark
+4570,1947,USA,Swimming,20,Possibly C. leucas,M,Possibly C. leucas
+4571,1947,USA,Fishing,46,a small shark,M,a small shark
+4578,1947,SOUTH AFRICA,Treading water,21,"1.5 m, 45-kg shark",M,"1.5 m, 45-kg shark"
+4583,1947,SOUTH AFRICA,Treading water,22,"Blacktip shark, 2 m [6.75'] ",M,"Blacktip shark, 2 m [6.75'] "
+4588,1947,SOUTH AFRICA,Treading water,18,>1.6 m shark,M,>1.6 m shark
+4595,1946,AUSTRALIA,Swimming after a tennis ball,30,4.3 m [14'] shark,M,4.3 m [14'] shark
+4597,1946,IRAN,Swimming ,12,Possibly C. leucas,M,Possibly C. leucas
+4604,1946,AUSTRALIA,Standing,18,"White shark, 4.2 m [13'9""] ",M,"White shark, 4.2 m [13'9""] "
+4609,1946,SOUTH AFRICA,Jumping in swells,18,1.5 m [5'] shark,M,1.5 m [5'] shark
+4625,1945,SOUTH AFRICA,Walking,37,Thought to involve a Zambesi shark,M,Thought to involve a Zambesi shark
+4630,1945,IRAQ,Swimming,15,Bull shark,M,Bull shark
+4631,1944,PHILIPPINES,Swimming near life raft,19,9' shark,M,9' shark
+4644,1944,SOUTH AFRICA,Swimming,17,"White shark, according to witnesses",M,"White shark, according to witnesses"
+4646,1944,USA,Bathing,15,1.8 m [6'] blacktip shark or spinner shark,F,1.8 m [6'] blacktip shark or spinner shark
+4667,1943,PANAMA,Dived overboard to check propeller of US Navy motor torpedo boat,20,"White shark, 2 m [6'9""]  (Tooth fragment recovered from victim's shoulder & identified by J.T. Nicholls)",M,"White shark, 2 m [6'9""]  (Tooth fragment recovered from victim's shoulder & identified by J.T. Nicholls)"
+4671,1943,MEXICO,Swimming,68,Invalid,M,Invalid
+4672,1943,AUSTRALIA,Fishing for cod,18,"White shark, 3.9 m, 550 kg, male",M,"White shark, 3.9 m, 550 kg, male"
+4690,1942,AUSTRALIA,Dog paddling or standing,15,Bull shark,F,Bull shark
+4698,1942,SOUTH AFRICA,Swimming ,18,"White shark, 4.5 m  to 6 m [14'9"" to 20'] according to witnesses",M,"White shark, 4.5 m  to 6 m [14'9"" to 20'] according to witnesses"
+4704,1942,AUSTRALIA,Treading water,24,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",M,"Tiger shark, 2.4 m to 3 m [8' to 10'] "
+4708,1942,ITALY,Sculling,20,Porbeagle shark,M,Porbeagle shark
+4718,1942,AUSTRALIA,Swimming,28,"Bull shark, 4 m [13'] ",F,"Bull shark, 4 m [13'] "
+4725,1942,BAHAMAS,Swimming along side N.E.L. vessel Saluda,48,1.2 m to 1.5 m [4' to 5'] shark,M,1.2 m to 1.5 m [4' to 5'] shark
+4733,1941,SOUTH ATLANTIC OCEAN,HMAS Parramatta torpedoed & sunk by the U-559,23,Tiger shark,M,Tiger shark
+4743,1941,USA,Fishing from 32' boat,43,2.1 m [7'] shark,M,2.1 m [7'] shark
+4746,1941,USA,Fishing,53,Mako shark (aka bonito shark) 1.2 m [4'] ,M,Mako shark (aka bonito shark) 1.2 m [4'] 
+4762,1940,PANAMA,Bathing,18,5.5 m [18'] shark,M,5.5 m [18'] shark
+4766,1940,SOUTH AFRICA,Treading water,25,"White shark, species identity confirmed by tooth pattern",M,"White shark, species identity confirmed by tooth pattern"
+4768,1940,SOUTH AFRICA,Swimming,17,"White shark, 160-kg [353-lb], identity confirmed by tooth pattern",M,"White shark, 160-kg [353-lb], identity confirmed by tooth pattern"
+4771,1940,AUSTRALIA,Dived into the water,17,"""a small shark""",M,"""a small shark"""
+4772,1940,AUSTRALIA,Swimming,13,3 m [10'] shark,M,3 m [10'] shark
+4774,1940,SOUTH AFRICA,Swimming ,18,2.4 m [8'] shark,M,2.4 m [8'] shark
+4782,1939,AUSTRALIA,Swimming,40,"Questionable incident, said to involve a 6' shark",M,"Questionable incident, said to involve a 6' shark"
+4783,1939,AUSTRALIA,Swimming ,20,2.6 m [8.5'] shark landed 2 hours later,M,2.6 m [8.5'] shark landed 2 hours later
+4789,1939,AUSTRALIA,"Free diving for trochus shell, swimming to dinghy",27,"Tiger shark, 4.3 m [14'], 3 tooth fragments retrieved from his wounds",M,"Tiger shark, 4.3 m [14'], 3 tooth fragments retrieved from his wounds"
+4794,1939,BAHAMAS,"Dress diving, filming shark & pulling it through the water for a motion picture scene",38,"Nurse shark, 2.1 m [7']",M,"Nurse shark, 2.1 m [7']"
+4808,1938,AUSTRALIA,Fishing,18,"Tiger shark, 6'",M,"Tiger shark, 6'"
+4824,1938,AUSTRALIA,Diving off jetty,24,Questionable incident,M,Questionable incident
+4827,1938,TRINIDAD & TOBAGO,Body surfing,50,"""grey-colored shark""",M,"""grey-colored shark"""
+4832,1937,AUSTRALIA,Diving for trochus,17,12' shark,M,12' shark
+4834,1937,AUSTRALIA,Swimming ,25,Tiger shark,M,Tiger shark
+4835,1937,AUSTRALIA,Swimming ,18,"Tiger shark,  3.6 m [11'9""], 850-kg [1874-lb] female, contained Girvan's remains ",M,"Tiger shark,  3.6 m [11'9""], 850-kg [1874-lb] female, contained Girvan's remains "
+4836,1937,AUSTRALIA,Swimming near jetty,16,2.4 m [8'] shark,M,2.4 m [8'] shark
+4842,1937,AUSTRALIA,"Diving from the lugger San, operated by the Protector of the Aborigines",38,"Tiger shark, 9' to 10' ",M,"Tiger shark, 9' to 10' "
+4851,1937,AUSTRALIA,"Refused permission to cross on the ferry, he was swimming across the river",33,2 days later a 600-lb shark was caught 100 yards from the site,M,2 days later a 600-lb shark was caught 100 yards from the site
+4852,1937,AUSTRALIA,Bathing,16,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+4853,1937,AUSTRALIA,Swimming,43,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+4854,1937,AUSTRALIA,Swimming,32,White shark,M,White shark
+4857,1937,AUSTRALIA,Fishing,20,"3' ""blue nosed"" shark",M,"3' ""blue nosed"" shark"
+4859,1937,AUSTRALIA,Holding shark's tail ,18,"Grey nurse shark, 8'",M,"Grey nurse shark, 8'"
+4865,1936,AUSTRALIA,Fishing,50,Thought to involve a 12' white shark,M,Thought to involve a 12' white shark
+4874,1936,USA,Swimming crawl stroke,16,White shark (identified by Dr. Hugh Smith) ,M,White shark (identified by Dr. Hugh Smith) 
+4878,1936,AUSTRALIA,"Diving for trochus , but swimming on surface",16,"Tiger shark, 2.4 m [8']",M,"Tiger shark, 2.4 m [8']"
+4880,1936,AUSTRALIA,Diving for trochus,16,"Tiger shark, 4.6 m [15'] ",M,"Tiger shark, 4.6 m [15'] "
+4888,1936,AUSTRALIA,Swimming,14,White shark,M,White shark
+4889,1936,AUSTRALIA,"Swimming. Passer-by, Len Bedford, heard him shriek , saw shark leap from the water & swimmer disappeared",13,White shark,M,White shark
+4890,1936,AUSTRALIA,Surfing,17,Shark involvement prior to death was not confirmed,M,Shark involvement prior to death was not confirmed
+4897,1935,AUSTRALIA,"Fell overboard, hanging onto lifebuoy",38,3.7 m [12'] shark,M,3.7 m [12'] shark
+4900,1935,USA,fishing boat exploded & sank,23,Invalid,M,Invalid
+4901,1935,USA,fishing boat exploded & sank,53,Invalid,M,Invalid
+4904,1935,USA,"Fishing for bluefish, shark leapt into dory",31,4.6 m [15'] shark,M,4.6 m [15'] shark
+4910,1935,AUSTRALIA,"Disappeared 11 days earlier, probable homicide victim",40,Invalid,M,Invalid
+4916,1935,AUSTRALIA,Hauling in net with shark in it,38,"""Blue nose shark""",M,"""Blue nose shark"""
+4918,1935,AUSTRALIA,Swimming,27,"White shark, 4 m [13'] ",M,"White shark, 4 m [13'] "
+4919,1935,AUSTRALIA,Standing,22,"White shark, 3.5 m to 4 m [11.5' to 13'] ",M,"White shark, 3.5 m to 4 m [11.5' to 13'] "
+4925,1934,AUSTRALIA,Splashing,13,"Tiger shark, 1.5 m [5'] ",F,"Tiger shark, 1.5 m [5'] "
+4936,1934,CROATIA,Swimming,18,White shark,F,White shark
+4944,1934,AUSTRALIA,Swimming in waist-deep water ,15,4.3 m [14'] shark seen in vicinity,M,4.3 m [14'] shark seen in vicinity
+4945,1934,AUSTRALIA,Swimming in hip-deep water,17,4 m [13'] shark seen in vicinity,M,4 m [13'] shark seen in vicinity
+4951,1934,AUSTRALIA,Swimming on sandbar adjacent to channel,22,4.3 m [14'] shark seen in area previous week,M,4.3 m [14'] shark seen in area previous week
+4953,1933,AUSTRALIA,Pearl diving,17,Tiger shark,M,Tiger shark
+4961,1933,USA,Sitting in 3' of water,15,Thought to involve a 2.4 m [8'] lemon shark; two 2.4 m lemon sharks caught within 100 yds of the site a week prior to & a week after this incident,M,Thought to involve a 2.4 m [8'] lemon shark; two 2.4 m lemon sharks caught within 100 yds of the site a week prior to & a week after this incident
+4968,1933,USA,Swimming,24,Possibly a bull shark or tiger shark,M,Possibly a bull shark or tiger shark
+4977,1932,AUSTRALIA,Swimming,24,Thought to involve a mako or grey nurse shark,M,Thought to involve a mako or grey nurse shark
+4987,1932,USA,Fishing,32,"250-lb ""dog shark""",M,"250-lb ""dog shark"""
+5000,1932,SOUTH AFRICA,Collecting fish by lamplight in gully,23,"Raggedtooth shark, 1.2 m to 1.5 m [4' to 5'] ",M,"Raggedtooth shark, 1.2 m to 1.5 m [4' to 5'] "
+5001,1931,AUSTRALIA,Diving for trochus from lugger,45,4 m [13'] shark,M,4 m [13'] shark
+5004,1931,USA,Swimming ,20,"Hammerhead shark, 2.4 m [8'], according to lifeguard Sam Barrows",F,"Hammerhead shark, 2.4 m [8'], according to lifeguard Sam Barrows"
+5024,1931,AUSTRALIA,Swimming ,39,Shark involvement prior to death unconfirmed,M,Shark involvement prior to death unconfirmed
+5027,1931,AUSTRALIA,Swimming,18,1.5 m [5'] shark,M,1.5 m [5'] shark
+5041,1930,USA,Swimming,21,Tiger shark,M,Tiger shark
+5049,1930,AUSTRALIA,Diving off pier & treading water,18,White shark 4.9 m [16'] ,M,White shark 4.9 m [16'] 
+5052,1930,SOUTH AFRICA,Swimming,23,"White shark, 4.5 m [14'9""], identity confirmed by witness & tooth pattern",M,"White shark, 4.5 m [14'9""], identity confirmed by witness & tooth pattern"
+5056,1929,AUSTRALIA,Diving by wharf,16,Tiger shark,M,Tiger shark
+5058,1929,AUSTRALIA,Bathing or body surfing ,17,"""a small shark""",F,"""a small shark"""
+5074,1929,AUSTRALIA,Standing in knee-deep water,19,"Grey nurse shark, 4' ",M,"Grey nurse shark, 4' "
+5079,1929,AUSTRALIA,Launching rowboat through the surf,9,"""a dog shark""",M,"""a dog shark"""
+5080,1929,AUSTRALIA,Launching rowboat through the surf,12,"""a dog shark""",M,"""a dog shark"""
+5083,1929,AUSTRALIA,Swimming,39,Galapagos shark,M,Galapagos shark
+5086,1929,AUSTRALIA,Body surfing,14,12' shark,M,12' shark
+5098,1928,PANAMA,Swimming,17,Moreno’s leg  & part of his swim suit found in 9' shark caught two hours after the attack. Identified as carcharhinid shark by L. Schultz & C. Limbaugh on photograph,M,Moreno’s leg  & part of his swim suit found in 9' shark caught two hours after the attack. Identified as carcharhinid shark by L. Schultz & C. Limbaugh on photograph
+5108,1928,AUSTRALIA,Bathing,15,4' shark,M,4' shark
+5118,1928,SOUTH AFRICA,Body surfing,18,1.2 m [4'] shark,M,1.2 m [4'] shark
+5120,1927,SOUTH AFRICA,Swimming,17,"White shark, 4.4 m [14.5'] . ",M,"White shark, 4.4 m [14.5'] . "
+5130,1927,AUSTRALIA,Body surfing / treading water,17,Grey nurse shark?,M,Grey nurse shark?
+5133,1927,NEW ZEALAND,Fishing,70,Mako shark,M,Mako shark
+5136,1927,AUSTRALIA,Swimming,15,3.7 m [12'] shark,M,3.7 m [12'] shark
+5142,1926,AUSTRALIA,Bathing,17,"Grey nurse shark, 4'",M,"Grey nurse shark, 4'"
+5146,1926,ITALY,Swimming,20,Said to involve 6 to 7 m [20' to 23'] white shark,M,Said to involve 6 to 7 m [20' to 23'] white shark
+5148,1926,USA,Swimming with dog near canning factory,15,1.5 m [5'] white shark or sevengill shark,M,1.5 m [5'] white shark or sevengill shark
+5160,1925,AUSTRALIA,Floating on his back,55,"Tiger shark, 4 m [13'] female",M,"Tiger shark, 4 m [13'] female"
+5168,1925,AUSTRALIA,Bathing in waist-deep water,16,Said to be a “small shark”,M,Said to be a “small shark”
+5192,1924,AUSTRALIA,Had just dived into water & was swimming,16,3 m [10'] shark,M,3 m [10'] shark
+5216,1922,AUSTRALIA,Bathing in 3' to 4' of water,19,"2.7 m [9'] ""blue"" shark",M,"2.7 m [9'] ""blue"" shark"
+5223,1922,USA,Floating,18,1.8 m [6'] shark,F,1.8 m [6'] shark
+5224,1922,JAMAICA,Swimming,19,6' shark,M,6' shark
+5225,1922,SOUTH AFRICA,Swimming,18,"White shark, 12', identity confirmed by tooth fragment, witness and photograph of captured shark ",M,"White shark, 12', identity confirmed by tooth fragment, witness and photograph of captured shark "
+5228,1922,JAMAICA,Standing,14,2.7 m [9'] shark later captured by Mitchell-Hedges,F,2.7 m [9'] shark later captured by Mitchell-Hedges
+5229,1922,AUSTRALIA,Bathing in knee-deep water,21,"White shark, 2.4 m [8'] ",M,"White shark, 2.4 m [8'] "
+5231,1922,AUSTRALIA,Swimming,18,White shark,M,White shark
+5251,1920,USA,Swimming ,30,Questionable,M,Questionable
+5273,1919,AUSTRALIA,Wading,13,12' shark,M,12' shark
+5304,1916,USA,Swimming,12,Said to involve a 2.7 m [9'] shark,M,Said to involve a 2.7 m [9'] shark
+5305,1916,USA,Swimming (recovering remains of Stilwell) ,24,3 m [10'] shark,M,3 m [10'] shark
+5311,1916,USA,Swimming,24,Thought to involve a 2.6 m [8.5'] white shark,M,Thought to involve a 2.6 m [8.5'] white shark
+5375,1912,AUSTRALIA,Swimming,21,"2.8 m [9'3""] whaler shark captured 3 days later with his remains in its gut",M,"2.8 m [9'3""] whaler shark captured 3 days later with his remains in its gut"
+5422,1909,USA,Reported swept away by waves while gathering opihi,19,Questionable,F,Questionable
+5481,1906,AUSTRALIA,.,18,Questionable,M,Questionable
+5484,1906,SOUTH AFRICA,Washing horses,30,1.8 m to 2.7 m [6' to 9'] shark,M,1.8 m to 2.7 m [6' to 9'] shark
+5498,1905,AUSTRALIA,Bathing,40,5' shark,M,5' shark
+5500,1905,AUSTRALIA,Bathing,23,Questionable,M,Questionable
+5501,1905,AUSTRALIA,Bathing,39,Invalid,M,Invalid
+5545,1901,SOUTH AFRICA,Swimming,29,White shark,M,White shark
+5546,1901,ITALY,Swimming,20,Questionable,M,Questionable
+5571,1899,USA,Swimming,15,3 m [10'] shark,M,3 m [10'] shark
+5580,1899,AUSTRALIA,Bathing,13,Questionable,F,Questionable
+5598,1898,USA,Fishing (Seining),15,White shark,M,White shark
+5648,1894,AUSTRALIA,Bathing,19,10' to 12' shark,M,10' to 12' shark
+5684,1892,AUSTRALIA,Fishing,21,12' shark,M,12' shark
+5806,1881,USA,Bathing,18,Shark involvement prior to death unconfirmed,M,Shark involvement prior to death unconfirmed
+5814,1880,AUSTRALIA,Swimming,12,Bull shark,M,Bull shark
+5829,1879,INDIA,Swimming,23,3 sharks,M,3 sharks
+5838,1878,INDONESIA,Swimming,22,15' shark,M,15' shark
+5922,1868,INDIA,Standing,35,Identified as C. gangeticus by Dr. J. Fayrer,M,Identified as C. gangeticus by Dr. J. Fayrer
+5957,1863,SOUTH AFRICA,"Swimming, caught in strong backwash & disappeared",26,Shark involvement prior to death unconfirmed,M,Shark involvement prior to death unconfirmed
